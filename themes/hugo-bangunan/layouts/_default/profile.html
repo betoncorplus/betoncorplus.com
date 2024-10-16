@@ -1,0 +1,87 @@
+{{ define "main" }}
+<main id="main">
+  <div class="container">
+    <div class="row topspace">
+      <div class="col-sm-8 col-sm-offset-2">
+        <header class="page-header">
+          <h1 class="page-title">Profil</h1>
+        </header>
+        
+        <div class="row">
+          <div class="col-sm-4">
+            <img src="{{ .Site.Params.profileImage }}" alt="{{ .Site.Params.name }}" class="img-responsive img-circle">
+          </div>
+          <div class="col-sm-8">
+            <h2>Tentang Saya</h2>
+            <p>{{ .Site.Params.bio }}</p>
+            <ul class="list-unstyled">
+              <li><strong>Nama:</strong> {{ .Site.Params.nameuser }}</li>
+              <li><strong>Jabatan:</strong> {{ .Site.Params.jobuser }}</li>
+              <li><strong>Telepon:</strong> {{ .Site.Params.phoneuser }}</li>
+              <li><strong>Email:</strong> {{ .Site.Params.emailuser }}</li>
+              <li><strong>Alamat:</strong> {{ .Site.Params.addressuser }}</li>
+              <li><strong>Website:</strong> <a href="{{ .Site.Params.website }}">{{ .Site.Params.website }}</a></li>
+            </ul>
+          </div>
+        </div>
+
+        <div class="row topspace">
+          <div class="col-sm-12">
+            <h2>Keahlian</h2>
+            <div class="row">
+              {{ range .Site.Params.skills }}
+              <div class="col-sm-3">
+                <div class="skill-item">
+                  <h3>{{ .name }}</h3>
+                  <div class="progress">
+                    <div class="progress-bar" role="progressbar" style="width: {{ .level }}%;" aria-valuenow="{{ .level }}" aria-valuemin="0" aria-valuemax="100">{{ .level }}%</div>
+                  </div>
+                </div>
+              </div>
+              {{ end }}
+            </div>
+          </div>
+        </div>
+
+        <div class="row topspace">
+          <div class="col-sm-12">
+            <h2>Beberapa Proyek Saya</h2>
+            {{ range .Site.Params.projects }}
+            <div class="project-item">
+              <h3>{{ .name }}</h3>
+              <p class="text-muted">{{ .location }} | {{ .year }}</p>
+              <p>{{ .description }}</p>
+            </div>
+            {{ end }}
+          </div>
+        </div>
+        <div class="text-center mt-4" style="margin-bottom: 20px; margin-top: 10px;">
+          <a href="/gallery/" class="btn btn-primary btn-lg">Galeri Proyek</a>
+        </div>
+        <div class="row topspace">
+          <div class="col-sm-12">
+            <h2>Layanan BetoncorMix</h2>
+            <ul>
+              {{ range .Site.Params.services.items }}
+              <li>{{ . }}</li>
+              {{ end }}
+            </ul>
+          </div>
+        </div>
+
+        <div class="row topspace">
+          <div class="col-sm-12 text-center">
+            <h2>Hubungi Saya</h2>
+            <p>Untuk kebutuhan supply beton cor atau konsultasi proyek, jangan ragu untuk menghubungi saya:</p>
+            <div class="cmt-4">
+              <a href="tel:{{ .Site.Params.phone }}" class="btn btn-primary btn-lg" style="margin-bottom: 20px; margin-top: 10px;"><i class="fa fa-phone"></i> {{ .Site.Params.phone }}</a>
+              <a href="mailto:{{ .Site.Params.email }}" class="btn btn-primary btn-lg" style="margin-bottom: 20px; margin-top: 10px;"><i class="fa fa-envelope"></i> Email</a>
+              <a href="{{ .Site.Params.website }}" class="btn btn-primary btn-lg" style="margin-bottom: 20px; margin-top: 10px;"><i class="fa fa-globe"></i> Website</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</main>
+{{ end }}

@@ -1,0 +1,18 @@
+{{ $current := . }}
+{{ $related := where (where .Site.RegularPages "Section" .Section) "Permalink" "!=" $current.Permalink }}
+{{ $related := $related | shuffle | first 2 }}
+{{ if $related }}
+<div class="related-posts">
+  <h2>Artikel Terkait</h2>
+  <div class="row">
+    {{ range $related }}
+      <div class="col-md-6">
+        <div class="related-post-item">
+          <h4><a href="{{ .Permalink }}">{{ .Title }}</a></h4>
+          <p>{{ .Summary }}</p>
+        </div>
+      </div>
+    {{ end }}
+  </div>
+</div>
+{{ end }}

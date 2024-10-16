@@ -1,0 +1,29 @@
+<div class="thumbnails recentworks">
+    <div class="lead text-center">
+        {{ .Content }}
+    </div>
+    {{ $data := .Resources.GetMatch .Params.file }}
+    {{ if $data }}
+        {{ $unmarshalledData := $data | transform.Unmarshal }}
+        {{ if $unmarshalledData }}
+                {{ range $unmarshalledData }}
+                    {{ range .items }}
+                        <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 text-center">
+                            <div class="panel panel-cta">
+                                <div class="panel-body">
+                                    <span class="text-center">
+                                        <img src="{{ .image }}" alt="{{ .name }}" class="img-responsive">
+                                        <h4>{{ .name }}</h4>
+                                    </span>
+                                </div>
+                            </div>
+                        </div>
+                    {{ end }}
+                {{ end }}
+        {{ else }}
+            <p>Error: Tidak dapat memproses data.</p>
+        {{ end }}
+    {{ else }}
+        <p>Error: File data tidak ditemukan.</p>
+    {{ end }}
+</div>

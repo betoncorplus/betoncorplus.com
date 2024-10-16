@@ -1,0 +1,32 @@
+[
+    {
+        "id": 3,
+        "items": [
+            {
+                "name": "Mini Truk",
+                "url": "#",
+                "image": "/images/minimix.png"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "items": [
+            {
+                "name": "Truk Besar",
+                "url": "#",
+                "image": "/images/readymix.png"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "items": [
+            {
+                "name": "Pompa Cor",
+                "url": "#",
+                "image": "/images/concrete-pump.png"
+            }
+        ]
+    }
+]

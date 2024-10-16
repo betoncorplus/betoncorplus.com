@@ -1,0 +1,38 @@
+{{ define "main" }}
+<main id="main">
+  <div class="container">
+    <div class="row topspace">
+      <div class="col-sm-8 col-sm-offset-2">
+        <article class="post">
+          <header class="entry-header">
+            <div class="entry-meta">
+              <span class="posted-on">
+                <time class="entry-date published" datetime="{{ .Date.Format .Site.Params.DateForm }}">
+                  {{- .Date.Format "2 January 2006" -}}
+                </time>
+              </span>
+            </div>
+            <h1 class="entry-title">
+              <a href="{{ .Permalink }}" rel="bookmark">{{ .Title }}</a>
+            </h1>
+          </header>
+          <h3>{{ i18n "tableOfContents" }}</h3>
+          {{ if and (.Params.toc) (gt .WordCount .Site.Params.tocMinWordCount ) }}
+          {{ .TableOfContents }}
+          {{ end }}
+          <div class="entry-content">
+            {{ .Content }}
+          </div>
+          <div class="related-posts-container">
+          {{ partial "related_posts.html" . }}
+          </div>
+        </article>
+        <!-- #post-## -->
+      </div>
+    </div>
+    <!-- /row post  -->
+    <div class="clearfix"></div>
+  </div>
+  <!-- /container -->
+</main>
+{{ end }}

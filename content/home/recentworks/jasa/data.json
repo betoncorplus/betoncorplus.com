@@ -1,0 +1,32 @@
+[
+    {
+        "id": 0,
+        "items": [
+            {
+                "name": "Cor Jalan",
+                "url": "#",
+                "image": "/images/cor-jalan.png"
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "items": [
+            {
+                "name": "Cor Lantai Rumah",
+                "url": "#",
+                "image": "/images/cor-rumah.png"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "items": [
+            {
+                "name": "Floor Hardener",
+                "url": "#",
+                "image": "/images/floor-hardener.png"
+            }
+        ]
+    }
+]

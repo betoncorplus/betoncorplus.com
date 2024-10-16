@@ -1,0 +1,39 @@
+{{ define "main" }}
+<main id="main">
+  <div class="container">
+    <div class="row topspace">
+      <div class="col-sm-12">
+        <header class="page-header">
+          <h1 class="page-title">{{ .Title }} - {{ .Site.Params.name }}</h1>
+        </header>
+        
+        <div class="row">
+          {{ range .Params.gallery }}
+          <div class="col-sm-4 mb-4">
+            <div class="card">
+              <a href="{{ .imageURL }}" class="d-block">
+                <img src="{{ .imageURL }}" alt="{{ .caption }}" class="card-img-top img-fluid">
+              </a>
+              <div class="card-body text-center">
+                <p class="card-text">{{ .caption }}</p>
+              </div>
+            </div>
+          </div>
+          {{ end }}
+        </div>
+
+        <div class="row topspace">
+          <div class="col-sm-12 text-center">
+            <h2>Hubungi Kami</h2>
+            <p>Untuk informasi lebih lanjut atau konsultasi, jangan ragu untuk menghubungi kami:</p>
+            <div class="cmt-4">
+              <a href="tel:{{ .Site.Params.phone }}" class="btn btn-primary btn-lg" style="margin-bottom: 20px; margin-top: 10px;"><i class="fa fa-phone"></i> {{ .Site.Params.phone }}</a>
+              <a href="mailto:{{ .Site.Params.email }}" class="btn btn-primary btn-lg" style="margin-bottom: 20px; margin-top: 10px;"><i class="fa fa-envelope"></i> Email</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</main>
+{{ end }}
