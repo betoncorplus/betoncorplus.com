@@ -1,6 +1,7 @@
 ---
 title: "Tempat Sewa Concrete Pump Untuk Cor di Pasir Barat Tangerang"
 date: "2024-06-15"
+lastmod: "2026-10-07"
 categories: "[pompa]"
 focus_keyphrase: "Concrete Pump di Pasir Barat Tangerang"
 meta_title: "Menyewakan Concrete Pump di Pasir Barat Tangerang [Terdekat] - Pompa Cor"

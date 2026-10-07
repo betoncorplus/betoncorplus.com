@@ -1,6 +1,7 @@
 ---
 title: "Tempat Sewa Concrete Pump Untuk Cor di Sindangsari Tangerang"
 date: "2023-05-06"
+lastmod: "2026-10-07"
 categories: "[pompa]"
 focus_keyphrase: "Concrete Pump di Sindangsari Tangerang"
 meta_title: "Menyewakan Concrete Pump di Sindangsari Tangerang [Terdekat] - Pompa Cor"

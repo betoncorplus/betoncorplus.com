@@ -1,6 +1,7 @@
 ---
 title: "Tempat Sewa Concrete Pump Untuk Cor di Tamiang Tangerang"
 date: "2023-12-24"
+lastmod: "2026-10-07"
 categories: "[pompa]"
 focus_keyphrase: "Concrete Pump di Tamiang Tangerang"
 meta_title: "Menyewakan Concrete Pump di Tamiang Tangerang [Terdekat] - Pompa Cor"

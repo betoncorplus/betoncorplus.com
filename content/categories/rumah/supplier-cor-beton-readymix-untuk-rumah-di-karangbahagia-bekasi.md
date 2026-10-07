@@ -1,6 +1,7 @@
 ---
 title: "Supplier Cor Beton Readymix Untuk Rumah di Karangbahagia Bekasi"
 date: "2023-05-21"
+lastmod: "2026-10-07"
 categories: "[rumah]"
 focus_keyphrase: "Beton Readymix di Karangbahagia Bekasi"
 meta_title: "Jual Beton Readymix di Karangbahagia Bekasi [Terdekat] - Pengecoran Rumah"

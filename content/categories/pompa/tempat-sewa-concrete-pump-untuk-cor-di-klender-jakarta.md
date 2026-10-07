@@ -1,6 +1,7 @@
 ---
 title: "Tempat Sewa Concrete Pump Untuk Cor di Klender Jakarta"
 date: "2023-04-22"
+lastmod: "2026-10-07"
 categories: "[pompa]"
 focus_keyphrase: "Concrete Pump di Klender Jakarta"
 meta_title: "Menyewakan Concrete Pump di Klender Jakarta [Terdekat] - Pompa Cor"

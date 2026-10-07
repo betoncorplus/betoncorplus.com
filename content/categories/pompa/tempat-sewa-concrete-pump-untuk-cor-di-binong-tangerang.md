@@ -1,6 +1,7 @@
 ---
 title: "Tempat Sewa Concrete Pump Untuk Cor di Binong Tangerang"
 date: "2024-03-02"
+lastmod: "2026-10-07"
 categories: "[pompa]"
 focus_keyphrase: "Concrete Pump di Binong Tangerang"
 meta_title: "Menyewakan Concrete Pump di Binong Tangerang [Terdekat] - Pompa Cor"

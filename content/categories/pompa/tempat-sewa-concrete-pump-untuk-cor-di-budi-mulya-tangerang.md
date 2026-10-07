@@ -1,6 +1,7 @@
 ---
 title: "Tempat Sewa Concrete Pump Untuk Cor di Budi Mulya Tangerang"
 date: "2023-08-08"
+lastmod: "2026-10-07"
 categories: "[pompa]"
 focus_keyphrase: "Concrete Pump di Budi Mulya Tangerang"
 meta_title: "Menyewakan Concrete Pump di Budi Mulya Tangerang [Terdekat] - Pompa Cor"

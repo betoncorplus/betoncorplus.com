@@ -1,6 +1,7 @@
 ---
 title: "Tempat Sewa Concrete Pump Untuk Cor di Manggarai Jakarta"
 date: "2023-01-07"
+lastmod: "2026-10-07"
 categories: "[pompa]"
 focus_keyphrase: "Concrete Pump di Manggarai Jakarta"
 meta_title: "Menyewakan Concrete Pump di Manggarai Jakarta [Terdekat] - Pompa Cor"

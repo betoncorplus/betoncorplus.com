@@ -1,6 +1,7 @@
 ---
 title: "Jual Cor Beton Readymix Untuk Jalan di Laksana Tangerang"
 date: "2023-01-23"
+lastmod: "2026-10-07"
 categories: "[jalan]"
 focus_keyphrase: "Beton Readymix di Laksana Tangerang"
 meta_title: "Jual Beton Readymix di Laksana Tangerang [Terdekat] - Konstruksi Bangunan"

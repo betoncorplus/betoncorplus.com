@@ -1,6 +1,7 @@
 ---
 title: "Tempat Sewa Concrete Pump Untuk Cor di Patrasana Tangerang"
 date: "2023-02-02"
+lastmod: "2026-10-07"
 categories: "[pompa]"
 focus_keyphrase: "Concrete Pump di Patrasana Tangerang"
 meta_title: "Menyewakan Concrete Pump di Patrasana Tangerang [Terdekat] - Pompa Cor"

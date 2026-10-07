@@ -1,6 +1,7 @@
 ---
 title: "Jual Cor Beton Readymix Untuk Jalan di Pangkalan Tangerang"
 date: "2024-01-09"
+lastmod: "2026-10-07"
 categories: "[jalan]"
 focus_keyphrase: "Beton Readymix di Pangkalan Tangerang"
 meta_title: "Jual Beton Readymix di Pangkalan Tangerang [Terdekat] - Konstruksi Bangunan"

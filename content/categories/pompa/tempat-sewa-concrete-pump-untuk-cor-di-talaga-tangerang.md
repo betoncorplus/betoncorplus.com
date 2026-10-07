@@ -1,6 +1,7 @@
 ---
 title: "Tempat Sewa Concrete Pump Untuk Cor di Talaga Tangerang"
 date: "2024-01-22"
+lastmod: "2026-10-07"
 categories: "[pompa]"
 focus_keyphrase: "Concrete Pump di Talaga Tangerang"
 meta_title: "Menyewakan Concrete Pump di Talaga Tangerang [Terdekat] - Pompa Cor"

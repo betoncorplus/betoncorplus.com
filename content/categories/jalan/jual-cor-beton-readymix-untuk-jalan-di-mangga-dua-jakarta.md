@@ -1,6 +1,7 @@
 ---
 title: "Jual Cor Beton Readymix Untuk Jalan di Mangga Dua Jakarta"
 date: "2023-02-02"
+lastmod: "2026-10-07"
 categories: "[jalan]"
 focus_keyphrase: "Beton Readymix di Mangga Dua Jakarta"
 meta_title: "Jual Beton Readymix di Mangga Dua Jakarta [Terdekat] - Konstruksi Bangunan"

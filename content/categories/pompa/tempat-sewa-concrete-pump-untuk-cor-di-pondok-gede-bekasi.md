@@ -1,6 +1,7 @@
 ---
 title: "Tempat Sewa Concrete Pump Untuk Cor di Pondok Gede Bekasi"
 date: "2023-05-13"
+lastmod: "2026-10-07"
 categories: "[pompa]"
 focus_keyphrase: "Concrete Pump di Pondok Gede Bekasi"
 meta_title: "Menyewakan Concrete Pump di Pondok Gede Bekasi [Terdekat] - Pompa Cor"

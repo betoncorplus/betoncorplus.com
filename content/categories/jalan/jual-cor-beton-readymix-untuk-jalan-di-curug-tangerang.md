@@ -1,6 +1,7 @@
 ---
 title: "Jual Cor Beton Readymix Untuk Jalan di Curug Tangerang"
 date: "2023-01-29"
+lastmod: "2026-10-07"
 categories: "[jalan]"
 focus_keyphrase: "Beton Readymix di Curug Tangerang"
 meta_title: "Jual Beton Readymix di Curug Tangerang [Terdekat] - Konstruksi Bangunan"

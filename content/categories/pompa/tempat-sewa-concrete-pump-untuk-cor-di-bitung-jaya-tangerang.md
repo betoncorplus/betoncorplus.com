@@ -1,6 +1,7 @@
 ---
 title: "Tempat Sewa Concrete Pump Untuk Cor di Bitung Jaya Tangerang"
 date: "2023-03-06"
+lastmod: "2026-10-07"
 categories: "[pompa]"
 focus_keyphrase: "Concrete Pump di Bitung Jaya Tangerang"
 meta_title: "Menyewakan Concrete Pump di Bitung Jaya Tangerang [Terdekat] - Pompa Cor"

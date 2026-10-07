@@ -1,6 +1,7 @@
 ---
 title: "Tempat Sewa Concrete Pump Untuk Cor di Cempaka Putih Jakarta"
 date: "2023-01-21"
+lastmod: "2026-10-07"
 categories: "[pompa]"
 focus_keyphrase: "Concrete Pump di Cempaka Putih Jakarta"
 meta_title: "Menyewakan Concrete Pump di Cempaka Putih Jakarta [Terdekat] - Pompa Cor"

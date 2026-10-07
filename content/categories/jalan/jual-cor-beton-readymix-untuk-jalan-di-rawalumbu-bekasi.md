@@ -1,6 +1,7 @@
 ---
 title: "Jual Cor Beton Readymix Untuk Jalan di Rawalumbu Bekasi"
 date: "2023-01-07"
+lastmod: "2026-10-07"
 categories: "[jalan]"
 focus_keyphrase: "Beton Readymix di Rawalumbu Bekasi"
 meta_title: "Jual Beton Readymix di Rawalumbu Bekasi [Terdekat] - Konstruksi Bangunan"

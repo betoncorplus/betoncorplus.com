@@ -1,6 +1,7 @@
 ---
 title: "Supplier Cor Beton Readymix Untuk Rumah di Sukawangi Bekasi"
 date: "2024-09-25"
+lastmod: "2026-10-07"
 categories: "[rumah]"
 focus_keyphrase: "Beton Readymix di Sukawangi Bekasi"
 meta_title: "Jual Beton Readymix di Sukawangi Bekasi [Terdekat] - Pengecoran Rumah"

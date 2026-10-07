@@ -1,6 +1,7 @@
 ---
 title: "Tempat Sewa Concrete Pump Untuk Cor di Pagedangan Tangerang"
 date: "2023-08-29"
+lastmod: "2026-10-07"
 categories: "[pompa]"
 focus_keyphrase: "Concrete Pump di Pagedangan Tangerang"
 meta_title: "Menyewakan Concrete Pump di Pagedangan Tangerang [Terdekat] - Pompa Cor"

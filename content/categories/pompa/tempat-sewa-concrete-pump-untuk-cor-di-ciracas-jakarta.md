@@ -1,6 +1,7 @@
 ---
 title: "Tempat Sewa Concrete Pump Untuk Cor di Ciracas Jakarta"
 date: "2023-11-16"
+lastmod: "2026-10-07"
 categories: "[pompa]"
 focus_keyphrase: "Concrete Pump di Ciracas Jakarta"
 meta_title: "Menyewakan Concrete Pump di Ciracas Jakarta [Terdekat] - Pompa Cor"

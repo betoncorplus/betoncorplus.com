@@ -1,6 +1,7 @@
 ---
 title: "Supplier Cor Beton Readymix Untuk Rumah di Bantar Gebang Bekasi"
 date: "2024-09-27"
+lastmod: "2026-10-07"
 categories: "[rumah]"
 focus_keyphrase: "Beton Readymix di Bantar Gebang Bekasi"
 meta_title: "Jual Beton Readymix di Bantar Gebang Bekasi [Terdekat] - Pengecoran Rumah"

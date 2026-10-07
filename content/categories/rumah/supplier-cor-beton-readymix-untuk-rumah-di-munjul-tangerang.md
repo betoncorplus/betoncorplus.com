@@ -1,6 +1,7 @@
 ---
 title: "Supplier Cor Beton Readymix Untuk Rumah di Munjul Tangerang"
 date: "2023-12-10"
+lastmod: "2026-10-07"
 categories: "[rumah]"
 focus_keyphrase: "Beton Readymix di Munjul Tangerang"
 meta_title: "Jual Beton Readymix di Munjul Tangerang [Terdekat] - Pengecoran Rumah"

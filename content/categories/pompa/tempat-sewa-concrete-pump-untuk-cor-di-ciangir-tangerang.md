@@ -1,6 +1,7 @@
 ---
 title: "Tempat Sewa Concrete Pump Untuk Cor di Ciangir Tangerang"
 date: "2023-03-24"
+lastmod: "2026-10-07"
 categories: "[pompa]"
 focus_keyphrase: "Concrete Pump di Ciangir Tangerang"
 meta_title: "Menyewakan Concrete Pump di Ciangir Tangerang [Terdekat] - Pompa Cor"

@@ -1,6 +1,7 @@
 ---
 title: "Tempat Sewa Concrete Pump Untuk Cor di Sukamulya Tangerang"
 date: "2024-09-02"
+lastmod: "2026-10-07"
 categories: "[pompa]"
 focus_keyphrase: "Concrete Pump di Sukamulya Tangerang"
 meta_title: "Menyewakan Concrete Pump di Sukamulya Tangerang [Terdekat] - Pompa Cor"

@@ -1,6 +1,7 @@
 ---
 title: "Supplier Cor Beton Readymix Untuk Rumah di Sukakarya Bekasi"
 date: "2024-08-29"
+lastmod: "2026-10-07"
 categories: "[rumah]"
 focus_keyphrase: "Beton Readymix di Sukakarya Bekasi"
 meta_title: "Jual Beton Readymix di Sukakarya Bekasi [Terdekat] - Pengecoran Rumah"

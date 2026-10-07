@@ -1,6 +1,7 @@
 ---
 title: "Tempat Sewa Concrete Pump Untuk Cor di Cibetok Tangerang"
 date: "2023-09-04"
+lastmod: "2026-10-07"
 categories: "[pompa]"
 focus_keyphrase: "Concrete Pump di Cibetok Tangerang"
 meta_title: "Menyewakan Concrete Pump di Cibetok Tangerang [Terdekat] - Pompa Cor"

@@ -1,6 +1,7 @@
 ---
 title: "Jual Cor Beton Readymix Untuk Jalan di Karang Anyar Tangerang"
 date: "2024-07-09"
+lastmod: "2026-10-07"
 categories: "[jalan]"
 focus_keyphrase: "Beton Readymix di Karang Anyar Tangerang"
 meta_title: "Jual Beton Readymix di Karang Anyar Tangerang [Terdekat] - Konstruksi Bangunan"

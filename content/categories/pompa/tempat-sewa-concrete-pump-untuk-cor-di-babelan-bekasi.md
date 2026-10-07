@@ -1,6 +1,7 @@
 ---
 title: "Tempat Sewa Concrete Pump Untuk Cor di Babelan Bekasi"
 date: "2023-02-08"
+lastmod: "2026-10-07"
 categories: "[pompa]"
 focus_keyphrase: "Concrete Pump di Babelan Bekasi"
 meta_title: "Menyewakan Concrete Pump di Babelan Bekasi [Terdekat] - Pompa Cor"

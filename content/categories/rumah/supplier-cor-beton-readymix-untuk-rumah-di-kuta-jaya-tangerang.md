@@ -1,6 +1,7 @@
 ---
 title: "Supplier Cor Beton Readymix Untuk Rumah di Kuta Jaya Tangerang"
 date: "2024-09-06"
+lastmod: "2026-10-07"
 categories: "[rumah]"
 focus_keyphrase: "Beton Readymix di Kuta Jaya Tangerang"
 meta_title: "Jual Beton Readymix di Kuta Jaya Tangerang [Terdekat] - Pengecoran Rumah"

@@ -1,6 +1,7 @@
 ---
 title: "Jual Cor Beton Readymix Untuk Jalan di Kedungwaringin Bekasi"
 date: "2024-07-05"
+lastmod: "2026-10-07"
 categories: "[jalan]"
 focus_keyphrase: "Beton Readymix di Kedungwaringin Bekasi"
 meta_title: "Jual Beton Readymix di Kedungwaringin Bekasi [Terdekat] - Konstruksi Bangunan"

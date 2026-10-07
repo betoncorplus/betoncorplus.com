@@ -1,6 +1,7 @@
 ---
 title: "Supplier Cor Beton Readymix Untuk Rumah di Cakung Jakarta"
 date: "2024-06-03"
+lastmod: "2026-10-07"
 categories: "[rumah]"
 focus_keyphrase: "Beton Readymix di Cakung Jakarta"
 meta_title: "Jual Beton Readymix di Cakung Jakarta [Terdekat] - Pengecoran Rumah"

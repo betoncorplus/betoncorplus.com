@@ -1,6 +1,7 @@
 ---
 title: "Supplier Cor Beton Readymix Untuk Rumah di Curug Wetan Tangerang"
 date: "2023-03-13"
+lastmod: "2026-10-07"
 categories: "[rumah]"
 focus_keyphrase: "Beton Readymix di Curug Wetan Tangerang"
 meta_title: "Jual Beton Readymix di Curug Wetan Tangerang [Terdekat] - Pengecoran Rumah"

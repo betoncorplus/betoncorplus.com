@@ -1,6 +1,7 @@
 ---
 title: "Tempat Sewa Concrete Pump Untuk Cor di Muncung Tangerang"
 date: "2023-08-07"
+lastmod: "2026-10-07"
 categories: "[pompa]"
 focus_keyphrase: "Concrete Pump di Muncung Tangerang"
 meta_title: "Menyewakan Concrete Pump di Muncung Tangerang [Terdekat] - Pompa Cor"

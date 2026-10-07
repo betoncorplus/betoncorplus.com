@@ -1,6 +1,7 @@
 ---
 title: "Tempat Sewa Concrete Pump Untuk Cor di Johar Baru Jakarta"
 date: "2023-02-15"
+lastmod: "2026-10-07"
 categories: "[pompa]"
 focus_keyphrase: "Concrete Pump di Johar Baru Jakarta"
 meta_title: "Menyewakan Concrete Pump di Johar Baru Jakarta [Terdekat] - Pompa Cor"

@@ -1,6 +1,7 @@
 ---
 title: "Tempat Sewa Concrete Pump Untuk Cor di Kamal Muara Jakarta"
 date: "2023-04-09"
+lastmod: "2026-10-07"
 categories: "[pompa]"
 focus_keyphrase: "Concrete Pump di Kamal Muara Jakarta"
 meta_title: "Menyewakan Concrete Pump di Kamal Muara Jakarta [Terdekat] - Pompa Cor"

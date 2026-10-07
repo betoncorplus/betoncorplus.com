@@ -1,6 +1,7 @@
 ---
 title: "Tempat Sewa Concrete Pump Untuk Cor di Cijeruk Tangerang"
 date: "2023-05-17"
+lastmod: "2026-10-07"
 categories: "[pompa]"
 focus_keyphrase: "Concrete Pump di Cijeruk Tangerang"
 meta_title: "Menyewakan Concrete Pump di Cijeruk Tangerang [Terdekat] - Pompa Cor"

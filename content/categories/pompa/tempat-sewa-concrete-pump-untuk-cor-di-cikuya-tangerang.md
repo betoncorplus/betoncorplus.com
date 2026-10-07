@@ -1,6 +1,7 @@
 ---
 title: "Tempat Sewa Concrete Pump Untuk Cor di Cikuya Tangerang"
 date: "2023-03-03"
+lastmod: "2026-10-07"
 categories: "[pompa]"
 focus_keyphrase: "Concrete Pump di Cikuya Tangerang"
 meta_title: "Menyewakan Concrete Pump di Cikuya Tangerang [Terdekat] - Pompa Cor"

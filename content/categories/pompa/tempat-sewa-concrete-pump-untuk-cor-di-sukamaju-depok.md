@@ -1,6 +1,7 @@
 ---
 title: "Tempat Sewa Concrete Pump Untuk Cor di Sukamaju Depok"
 date: "2023-05-01"
+lastmod: "2026-10-07"
 categories: "[pompa]"
 focus_keyphrase: "Concrete Pump di Sukamaju Depok"
 meta_title: "Menyewakan Concrete Pump di Sukamaju Depok [Terdekat] - Pompa Cor"

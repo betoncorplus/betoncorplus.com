@@ -1,6 +1,7 @@
 ---
 title: "Tempat Sewa Concrete Pump Untuk Cor di Penjaringan Jakarta"
 date: "2023-04-10"
+lastmod: "2026-10-07"
 categories: "[pompa]"
 focus_keyphrase: "Concrete Pump di Penjaringan Jakarta"
 meta_title: "Menyewakan Concrete Pump di Penjaringan Jakarta [Terdekat] - Pompa Cor"

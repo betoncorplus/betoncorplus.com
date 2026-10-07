@@ -1,6 +1,7 @@
 ---
 title: "Supplier Cor Beton Readymix Untuk Rumah di Karang Tenga Tangerang"
 date: "2023-11-23"
+lastmod: "2026-10-07"
 categories: "[rumah]"
 focus_keyphrase: "Beton Readymix di Karang Tenga Tangerang"
 meta_title: "Jual Beton Readymix di Karang Tenga Tangerang [Terdekat] - Pengecoran Rumah"

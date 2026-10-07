@@ -1,6 +1,7 @@
 ---
 title: "Jual Cor Beton Readymix Untuk Jalan di Tambun Bekasi"
 date: "2023-06-01"
+lastmod: "2026-10-07"
 categories: "[jalan]"
 focus_keyphrase: "Beton Readymix di Tambun Bekasi"
 meta_title: "Jual Beton Readymix di Tambun Bekasi [Terdekat] - Konstruksi Bangunan"

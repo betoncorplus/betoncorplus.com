@@ -1,6 +1,7 @@
 ---
 title: "Tempat Sewa Concrete Pump Untuk Cor di Bakung Tangerang"
 date: "2023-07-16"
+lastmod: "2026-10-07"
 categories: "[pompa]"
 focus_keyphrase: "Concrete Pump di Bakung Tangerang"
 meta_title: "Menyewakan Concrete Pump di Bakung Tangerang [Terdekat] - Pompa Cor"

@@ -1,6 +1,7 @@
 ---
 title: "Tempat Sewa Concrete Pump Untuk Cor di Lembangsari Tangerang"
 date: "2023-01-28"
+lastmod: "2026-10-07"
 categories: "[pompa]"
 focus_keyphrase: "Concrete Pump di Lembangsari Tangerang"
 meta_title: "Menyewakan Concrete Pump di Lembangsari Tangerang [Terdekat] - Pompa Cor"

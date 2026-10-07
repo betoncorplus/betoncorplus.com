@@ -1,6 +1,7 @@
 ---
 title: "Tempat Sewa Concrete Pump Untuk Cor di Pakulonan Barat Tangerang"
 date: "2024-10-10"
+lastmod: "2026-10-07"
 categories: "[pompa]"
 focus_keyphrase: "Concrete Pump di Pakulonan Barat Tangerang"
 meta_title: "Menyewakan Concrete Pump di Pakulonan Barat Tangerang [Terdekat] - Pompa Cor"

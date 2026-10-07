@@ -1,6 +1,7 @@
 ---
 title: "Tempat Sewa Concrete Pump Untuk Cor di Dukuh Tangerang"
 date: "2023-02-17"
+lastmod: "2026-10-07"
 categories: "[pompa]"
 focus_keyphrase: "Concrete Pump di Dukuh Tangerang"
 meta_title: "Menyewakan Concrete Pump di Dukuh Tangerang [Terdekat] - Pompa Cor"

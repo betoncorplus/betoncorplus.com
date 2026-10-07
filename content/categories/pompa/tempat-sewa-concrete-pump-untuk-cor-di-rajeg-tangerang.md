@@ -1,6 +1,7 @@
 ---
 title: "Tempat Sewa Concrete Pump Untuk Cor di Rajeg Tangerang"
 date: "2023-07-26"
+lastmod: "2026-10-07"
 categories: "[pompa]"
 focus_keyphrase: "Concrete Pump di Rajeg Tangerang"
 meta_title: "Menyewakan Concrete Pump di Rajeg Tangerang [Terdekat] - Pompa Cor"

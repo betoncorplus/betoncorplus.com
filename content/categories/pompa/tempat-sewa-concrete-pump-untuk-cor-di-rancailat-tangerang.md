@@ -1,6 +1,7 @@
 ---
 title: "Tempat Sewa Concrete Pump Untuk Cor di Rancailat Tangerang"
 date: "2024-09-22"
+lastmod: "2026-10-07"
 categories: "[pompa]"
 focus_keyphrase: "Concrete Pump di Rancailat Tangerang"
 meta_title: "Menyewakan Concrete Pump di Rancailat Tangerang [Terdekat] - Pompa Cor"

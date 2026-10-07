@@ -1,6 +1,7 @@
 ---
 title: "Tempat Sewa Concrete Pump Untuk Cor di Jengkol Tangerang"
 date: "2023-11-26"
+lastmod: "2026-10-07"
 categories: "[pompa]"
 focus_keyphrase: "Concrete Pump di Jengkol Tangerang"
 meta_title: "Menyewakan Concrete Pump di Jengkol Tangerang [Terdekat] - Pompa Cor"

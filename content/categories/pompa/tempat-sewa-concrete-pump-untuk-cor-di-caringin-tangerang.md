@@ -1,6 +1,7 @@
 ---
 title: "Tempat Sewa Concrete Pump Untuk Cor di Caringin Tangerang"
 date: "2023-02-07"
+lastmod: "2026-10-07"
 categories: "[pompa]"
 focus_keyphrase: "Concrete Pump di Caringin Tangerang"
 meta_title: "Menyewakan Concrete Pump di Caringin Tangerang [Terdekat] - Pompa Cor"

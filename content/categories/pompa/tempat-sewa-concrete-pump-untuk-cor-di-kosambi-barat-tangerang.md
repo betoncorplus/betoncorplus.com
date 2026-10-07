@@ -1,6 +1,7 @@
 ---
 title: "Tempat Sewa Concrete Pump Untuk Cor di Kosambi Barat Tangerang"
 date: "2023-02-15"
+lastmod: "2026-10-07"
 categories: "[pompa]"
 focus_keyphrase: "Concrete Pump di Kosambi Barat Tangerang"
 meta_title: "Menyewakan Concrete Pump di Kosambi Barat Tangerang [Terdekat] - Pompa Cor"

@@ -1,6 +1,7 @@
 ---
 title: "Supplier Cor Beton Readymix Untuk Rumah di Jatake Tangerang"
 date: "2024-05-19"
+lastmod: "2026-10-07"
 categories: "[rumah]"
 focus_keyphrase: "Beton Readymix di Jatake Tangerang"
 meta_title: "Jual Beton Readymix di Jatake Tangerang [Terdekat] - Pengecoran Rumah"

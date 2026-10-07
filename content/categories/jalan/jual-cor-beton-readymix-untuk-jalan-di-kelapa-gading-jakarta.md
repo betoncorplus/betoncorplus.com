@@ -1,6 +1,7 @@
 ---
 title: "Jual Cor Beton Readymix Untuk Jalan di Kelapa Gading Jakarta"
 date: "2023-09-25"
+lastmod: "2026-10-07"
 categories: "[jalan]"
 focus_keyphrase: "Beton Readymix di Kelapa Gading Jakarta"
 meta_title: "Jual Beton Readymix di Kelapa Gading Jakarta [Terdekat] - Konstruksi Bangunan"

@@ -1,6 +1,7 @@
 ---
 title: "Tempat Sewa Concrete Pump Untuk Cor di Kresek Tangerang"
 date: "2024-10-12"
+lastmod: "2026-10-07"
 categories: "[pompa]"
 focus_keyphrase: "Concrete Pump di Kresek Tangerang"
 meta_title: "Menyewakan Concrete Pump di Kresek Tangerang [Terdekat] - Pompa Cor"

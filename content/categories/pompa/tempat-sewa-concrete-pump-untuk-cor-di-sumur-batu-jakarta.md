@@ -1,6 +1,7 @@
 ---
 title: "Tempat Sewa Concrete Pump Untuk Cor di Sumur Batu Jakarta"
 date: "2023-01-21"
+lastmod: "2026-10-07"
 categories: "[pompa]"
 focus_keyphrase: "Concrete Pump di Sumur Batu Jakarta"
 meta_title: "Menyewakan Concrete Pump di Sumur Batu Jakarta [Terdekat] - Pompa Cor"

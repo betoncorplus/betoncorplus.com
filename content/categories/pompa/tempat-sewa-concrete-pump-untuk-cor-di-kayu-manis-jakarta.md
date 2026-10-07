@@ -1,6 +1,7 @@
 ---
 title: "Tempat Sewa Concrete Pump Untuk Cor di Kayu Manis Jakarta"
 date: "2024-05-01"
+lastmod: "2026-10-07"
 categories: "[pompa]"
 focus_keyphrase: "Concrete Pump di Kayu Manis Jakarta"
 meta_title: "Menyewakan Concrete Pump di Kayu Manis Jakarta [Terdekat] - Pompa Cor"

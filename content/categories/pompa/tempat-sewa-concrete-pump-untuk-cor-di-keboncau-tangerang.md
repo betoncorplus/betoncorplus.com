@@ -1,6 +1,7 @@
 ---
 title: "Tempat Sewa Concrete Pump Untuk Cor di Keboncau Tangerang"
 date: "2024-02-06"
+lastmod: "2026-10-07"
 categories: "[pompa]"
 focus_keyphrase: "Concrete Pump di Keboncau Tangerang"
 meta_title: "Menyewakan Concrete Pump di Keboncau Tangerang [Terdekat] - Pompa Cor"

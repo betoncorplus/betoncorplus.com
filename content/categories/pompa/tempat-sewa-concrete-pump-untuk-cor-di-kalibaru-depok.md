@@ -1,6 +1,7 @@
 ---
 title: "Tempat Sewa Concrete Pump Untuk Cor di Kalibaru Depok"
 date: "2024-04-02"
+lastmod: "2026-10-07"
 categories: "[pompa]"
 focus_keyphrase: "Concrete Pump di Kalibaru Depok"
 meta_title: "Menyewakan Concrete Pump di Kalibaru Depok [Terdekat] - Pompa Cor"

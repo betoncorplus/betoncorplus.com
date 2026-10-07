@@ -1,6 +1,7 @@
 ---
 title: "Jual Cor Beton Readymix Untuk Jalan di Gaga Tangerang"
 date: "2024-08-06"
+lastmod: "2026-10-07"
 categories: "[jalan]"
 focus_keyphrase: "Beton Readymix di Gaga Tangerang"
 meta_title: "Jual Beton Readymix di Gaga Tangerang [Terdekat] - Konstruksi Bangunan"

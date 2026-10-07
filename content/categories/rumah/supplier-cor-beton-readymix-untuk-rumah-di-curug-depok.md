@@ -1,6 +1,7 @@
 ---
 title: "Supplier Cor Beton Readymix Untuk Rumah di Curug Depok"
 date: "2023-02-14"
+lastmod: "2026-10-07"
 categories: "[rumah]"
 focus_keyphrase: "Beton Readymix di Curug Depok"
 meta_title: "Jual Beton Readymix di Curug Depok [Terdekat] - Pengecoran Rumah"

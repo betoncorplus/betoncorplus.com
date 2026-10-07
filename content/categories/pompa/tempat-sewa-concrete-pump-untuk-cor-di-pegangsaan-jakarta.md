@@ -1,6 +1,7 @@
 ---
 title: "Tempat Sewa Concrete Pump Untuk Cor di Pegangsaan Jakarta"
 date: "2023-05-15"
+lastmod: "2026-10-07"
 categories: "[pompa]"
 focus_keyphrase: "Concrete Pump di Pegangsaan Jakarta"
 meta_title: "Menyewakan Concrete Pump di Pegangsaan Jakarta [Terdekat] - Pompa Cor"

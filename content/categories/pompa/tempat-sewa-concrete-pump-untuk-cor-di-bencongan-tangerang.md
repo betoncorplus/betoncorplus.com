@@ -1,6 +1,7 @@
 ---
 title: "Tempat Sewa Concrete Pump Untuk Cor di Bencongan Tangerang"
 date: "2023-03-09"
+lastmod: "2026-10-07"
 categories: "[pompa]"
 focus_keyphrase: "Concrete Pump di Bencongan Tangerang"
 meta_title: "Menyewakan Concrete Pump di Bencongan Tangerang [Terdekat] - Pompa Cor"

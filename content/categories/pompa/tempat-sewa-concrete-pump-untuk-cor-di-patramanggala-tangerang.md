@@ -1,6 +1,7 @@
 ---
 title: "Tempat Sewa Concrete Pump Untuk Cor di Patramanggala Tangerang"
 date: "2023-08-27"
+lastmod: "2026-10-07"
 categories: "[pompa]"
 focus_keyphrase: "Concrete Pump di Patramanggala Tangerang"
 meta_title: "Menyewakan Concrete Pump di Patramanggala Tangerang [Terdekat] - Pompa Cor"

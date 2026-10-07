@@ -1,6 +1,7 @@
 ---
 title: "Supplier Cor Beton Readymix Untuk Rumah di Suka Maju Tangerang"
 date: "2023-06-02"
+lastmod: "2026-10-07"
 categories: "[rumah]"
 focus_keyphrase: "Beton Readymix di Suka Maju Tangerang"
 meta_title: "Jual Beton Readymix di Suka Maju Tangerang [Terdekat] - Pengecoran Rumah"

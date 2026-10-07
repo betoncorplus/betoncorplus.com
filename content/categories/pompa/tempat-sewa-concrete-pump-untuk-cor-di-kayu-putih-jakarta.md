@@ -1,6 +1,7 @@
 ---
 title: "Tempat Sewa Concrete Pump Untuk Cor di Kayu Putih Jakarta"
 date: "2023-06-14"
+lastmod: "2026-10-07"
 categories: "[pompa]"
 focus_keyphrase: "Concrete Pump di Kayu Putih Jakarta"
 meta_title: "Menyewakan Concrete Pump di Kayu Putih Jakarta [Terdekat] - Pompa Cor"

@@ -1,6 +1,7 @@
 ---
 title: "Tempat Sewa Concrete Pump Untuk Cor di Sukawangi Bekasi"
 date: "2023-04-11"
+lastmod: "2026-10-07"
 categories: "[pompa]"
 focus_keyphrase: "Concrete Pump di Sukawangi Bekasi"
 meta_title: "Menyewakan Concrete Pump di Sukawangi Bekasi [Terdekat] - Pompa Cor"

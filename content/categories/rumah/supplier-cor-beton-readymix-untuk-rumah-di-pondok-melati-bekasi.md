@@ -1,6 +1,7 @@
 ---
 title: "Supplier Cor Beton Readymix Untuk Rumah di Pondok Melati Bekasi"
 date: "2023-05-25"
+lastmod: "2026-10-07"
 categories: "[rumah]"
 focus_keyphrase: "Beton Readymix di Pondok Melati Bekasi"
 meta_title: "Jual Beton Readymix di Pondok Melati Bekasi [Terdekat] - Pengecoran Rumah"

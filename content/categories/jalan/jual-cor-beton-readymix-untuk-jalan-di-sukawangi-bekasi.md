@@ -1,6 +1,7 @@
 ---
 title: "Jual Cor Beton Readymix Untuk Jalan di Sukawangi Bekasi"
 date: "2023-01-13"
+lastmod: "2026-10-07"
 categories: "[jalan]"
 focus_keyphrase: "Beton Readymix di Sukawangi Bekasi"
 meta_title: "Jual Beton Readymix di Sukawangi Bekasi [Terdekat] - Konstruksi Bangunan"

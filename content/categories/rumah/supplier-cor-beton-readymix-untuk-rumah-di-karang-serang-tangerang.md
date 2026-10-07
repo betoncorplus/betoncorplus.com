@@ -1,6 +1,7 @@
 ---
 title: "Supplier Cor Beton Readymix Untuk Rumah di Karang Serang Tangerang"
 date: "2023-07-09"
+lastmod: "2026-10-07"
 categories: "[rumah]"
 focus_keyphrase: "Beton Readymix di Karang Serang Tangerang"
 meta_title: "Jual Beton Readymix di Karang Serang Tangerang [Terdekat] - Pengecoran Rumah"

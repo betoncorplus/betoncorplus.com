@@ -1,6 +1,7 @@
 ---
 title: "Tempat Sewa Concrete Pump Untuk Cor di Meruya Jakarta"
 date: "2024-07-16"
+lastmod: "2026-10-07"
 categories: "[pompa]"
 focus_keyphrase: "Concrete Pump di Meruya Jakarta"
 meta_title: "Menyewakan Concrete Pump di Meruya Jakarta [Terdekat] - Pompa Cor"

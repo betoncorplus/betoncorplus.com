@@ -1,6 +1,7 @@
 ---
 title: "Tempat Sewa Concrete Pump Untuk Cor di Rorotan Jakarta"
 date: "2023-08-31"
+lastmod: "2026-10-07"
 categories: "[pompa]"
 focus_keyphrase: "Concrete Pump di Rorotan Jakarta"
 meta_title: "Menyewakan Concrete Pump di Rorotan Jakarta [Terdekat] - Pompa Cor"

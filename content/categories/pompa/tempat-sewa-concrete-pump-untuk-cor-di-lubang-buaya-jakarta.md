@@ -1,6 +1,7 @@
 ---
 title: "Tempat Sewa Concrete Pump Untuk Cor di Lubang Buaya Jakarta"
 date: "2024-01-30"
+lastmod: "2026-10-07"
 categories: "[pompa]"
 focus_keyphrase: "Concrete Pump di Lubang Buaya Jakarta"
 meta_title: "Menyewakan Concrete Pump di Lubang Buaya Jakarta [Terdekat] - Pompa Cor"

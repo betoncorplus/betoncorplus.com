@@ -1,6 +1,7 @@
 ---
 title: "Tempat Sewa Concrete Pump Untuk Cor di Tigaraksa Tangerang"
 date: "2023-07-20"
+lastmod: "2026-10-07"
 categories: "[pompa]"
 focus_keyphrase: "Concrete Pump di Tigaraksa Tangerang"
 meta_title: "Menyewakan Concrete Pump di Tigaraksa Tangerang [Terdekat] - Pompa Cor"

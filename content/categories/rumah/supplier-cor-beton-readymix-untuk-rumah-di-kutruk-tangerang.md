@@ -1,6 +1,7 @@
 ---
 title: "Supplier Cor Beton Readymix Untuk Rumah di Kutruk Tangerang"
 date: "2024-05-03"
+lastmod: "2026-10-07"
 categories: "[rumah]"
 focus_keyphrase: "Beton Readymix di Kutruk Tangerang"
 meta_title: "Jual Beton Readymix di Kutruk Tangerang [Terdekat] - Pengecoran Rumah"

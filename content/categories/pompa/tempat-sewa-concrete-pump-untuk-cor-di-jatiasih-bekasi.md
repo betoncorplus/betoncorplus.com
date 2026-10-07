@@ -1,6 +1,7 @@
 ---
 title: "Tempat Sewa Concrete Pump Untuk Cor di Jatiasih Bekasi"
 date: "2024-07-14"
+lastmod: "2026-10-07"
 categories: "[pompa]"
 focus_keyphrase: "Concrete Pump di Jatiasih Bekasi"
 meta_title: "Menyewakan Concrete Pump di Jatiasih Bekasi [Terdekat] - Pompa Cor"

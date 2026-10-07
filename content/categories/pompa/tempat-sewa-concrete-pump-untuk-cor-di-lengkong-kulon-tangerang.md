@@ -1,6 +1,7 @@
 ---
 title: "Tempat Sewa Concrete Pump Untuk Cor di Lengkong Kulon Tangerang"
 date: "2023-07-03"
+lastmod: "2026-10-07"
 categories: "[pompa]"
 focus_keyphrase: "Concrete Pump di Lengkong Kulon Tangerang"
 meta_title: "Menyewakan Concrete Pump di Lengkong Kulon Tangerang [Terdekat] - Pompa Cor"

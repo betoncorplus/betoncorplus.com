@@ -1,6 +1,7 @@
 ---
 title: "Tempat Sewa Concrete Pump Untuk Cor di Cipete Jakarta"
 date: "2024-08-27"
+lastmod: "2026-10-07"
 categories: "[pompa]"
 focus_keyphrase: "Concrete Pump di Cipete Jakarta"
 meta_title: "Menyewakan Concrete Pump di Cipete Jakarta [Terdekat] - Pompa Cor"

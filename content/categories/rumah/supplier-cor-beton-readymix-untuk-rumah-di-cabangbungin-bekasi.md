@@ -1,6 +1,7 @@
 ---
 title: "Supplier Cor Beton Readymix Untuk Rumah di Cabangbungin Bekasi"
 date: "2023-11-08"
+lastmod: "2026-10-07"
 categories: "[rumah]"
 focus_keyphrase: "Beton Readymix di Cabangbungin Bekasi"
 meta_title: "Jual Beton Readymix di Cabangbungin Bekasi [Terdekat] - Pengecoran Rumah"

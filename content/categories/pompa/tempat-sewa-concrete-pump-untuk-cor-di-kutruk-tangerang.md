@@ -1,6 +1,7 @@
 ---
 title: "Tempat Sewa Concrete Pump Untuk Cor di Kutruk Tangerang"
 date: "2024-01-19"
+lastmod: "2026-10-07"
 categories: "[pompa]"
 focus_keyphrase: "Concrete Pump di Kutruk Tangerang"
 meta_title: "Menyewakan Concrete Pump di Kutruk Tangerang [Terdekat] - Pompa Cor"

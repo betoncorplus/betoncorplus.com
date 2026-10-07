@@ -1,6 +1,7 @@
 ---
 title: "Tempat Sewa Concrete Pump Untuk Cor di Marunda Jakarta"
 date: "2024-06-05"
+lastmod: "2026-10-07"
 categories: "[pompa]"
 focus_keyphrase: "Concrete Pump di Marunda Jakarta"
 meta_title: "Menyewakan Concrete Pump di Marunda Jakarta [Terdekat] - Pompa Cor"

@@ -1,6 +1,7 @@
 ---
 title: "Tempat Sewa Concrete Pump Untuk Cor di Bojongsari Depok"
 date: "2024-03-09"
+lastmod: "2026-10-07"
 categories: "[pompa]"
 focus_keyphrase: "Concrete Pump di Bojongsari Depok"
 meta_title: "Menyewakan Concrete Pump di Bojongsari Depok [Terdekat] - Pompa Cor"

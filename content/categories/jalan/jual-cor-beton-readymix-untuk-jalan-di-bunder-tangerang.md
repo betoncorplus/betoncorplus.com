@@ -1,6 +1,7 @@
 ---
 title: "Jual Cor Beton Readymix Untuk Jalan di Bunder Tangerang"
 date: "2023-02-09"
+lastmod: "2026-10-07"
 categories: "[jalan]"
 focus_keyphrase: "Beton Readymix di Bunder Tangerang"
 meta_title: "Jual Beton Readymix di Bunder Tangerang [Terdekat] - Konstruksi Bangunan"

@@ -1,6 +1,7 @@
 ---
 title: "Tempat Sewa Concrete Pump Untuk Cor di Kiara Payung Tangerang"
 date: "2024-03-03"
+lastmod: "2026-10-07"
 categories: "[pompa]"
 focus_keyphrase: "Concrete Pump di Kiara Payung Tangerang"
 meta_title: "Menyewakan Concrete Pump di Kiara Payung Tangerang [Terdekat] - Pompa Cor"

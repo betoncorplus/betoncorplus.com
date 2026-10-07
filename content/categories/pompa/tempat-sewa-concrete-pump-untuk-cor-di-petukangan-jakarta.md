@@ -1,6 +1,7 @@
 ---
 title: "Tempat Sewa Concrete Pump Untuk Cor di Petukangan Jakarta"
 date: "2024-01-01"
+lastmod: "2026-10-07"
 categories: "[pompa]"
 focus_keyphrase: "Concrete Pump di Petukangan Jakarta"
 meta_title: "Menyewakan Concrete Pump di Petukangan Jakarta [Terdekat] - Pompa Cor"

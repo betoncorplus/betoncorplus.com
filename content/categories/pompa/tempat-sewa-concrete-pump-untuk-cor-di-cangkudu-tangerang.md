@@ -1,6 +1,7 @@
 ---
 title: "Tempat Sewa Concrete Pump Untuk Cor di Cangkudu Tangerang"
 date: "2024-04-15"
+lastmod: "2026-10-07"
 categories: "[pompa]"
 focus_keyphrase: "Concrete Pump di Cangkudu Tangerang"
 meta_title: "Menyewakan Concrete Pump di Cangkudu Tangerang [Terdekat] - Pompa Cor"

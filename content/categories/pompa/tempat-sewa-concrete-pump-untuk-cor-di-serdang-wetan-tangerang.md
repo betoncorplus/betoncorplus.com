@@ -1,6 +1,7 @@
 ---
 title: "Tempat Sewa Concrete Pump Untuk Cor di Serdang Wetan Tangerang"
 date: "2024-04-19"
+lastmod: "2026-10-07"
 categories: "[pompa]"
 focus_keyphrase: "Concrete Pump di Serdang Wetan Tangerang"
 meta_title: "Menyewakan Concrete Pump di Serdang Wetan Tangerang [Terdekat] - Pompa Cor"

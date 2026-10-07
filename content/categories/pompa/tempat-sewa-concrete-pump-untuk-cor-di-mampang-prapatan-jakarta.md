@@ -1,6 +1,7 @@
 ---
 title: "Tempat Sewa Concrete Pump Untuk Cor di Mampang Prapatan Jakarta"
 date: "2023-07-10"
+lastmod: "2026-10-07"
 categories: "[pompa]"
 focus_keyphrase: "Concrete Pump di Mampang Prapatan Jakarta"
 meta_title: "Menyewakan Concrete Pump di Mampang Prapatan Jakarta [Terdekat] - Pompa Cor"

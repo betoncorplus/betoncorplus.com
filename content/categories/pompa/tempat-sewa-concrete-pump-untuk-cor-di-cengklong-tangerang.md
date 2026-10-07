@@ -1,6 +1,7 @@
 ---
 title: "Tempat Sewa Concrete Pump Untuk Cor di Cengklong Tangerang"
 date: "2023-03-06"
+lastmod: "2026-10-07"
 categories: "[pompa]"
 focus_keyphrase: "Concrete Pump di Cengklong Tangerang"
 meta_title: "Menyewakan Concrete Pump di Cengklong Tangerang [Terdekat] - Pompa Cor"

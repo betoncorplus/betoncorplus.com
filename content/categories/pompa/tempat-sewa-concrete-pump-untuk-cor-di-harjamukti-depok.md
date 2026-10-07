@@ -1,6 +1,7 @@
 ---
 title: "Tempat Sewa Concrete Pump Untuk Cor di Harjamukti Depok"
 date: "2024-04-11"
+lastmod: "2026-10-07"
 categories: "[pompa]"
 focus_keyphrase: "Concrete Pump di Harjamukti Depok"
 meta_title: "Menyewakan Concrete Pump di Harjamukti Depok [Terdekat] - Pompa Cor"

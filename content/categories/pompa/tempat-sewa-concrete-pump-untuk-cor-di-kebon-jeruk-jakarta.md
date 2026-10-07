@@ -1,6 +1,7 @@
 ---
 title: "Tempat Sewa Concrete Pump Untuk Cor di Kebon Jeruk Jakarta"
 date: "2023-11-11"
+lastmod: "2026-10-07"
 categories: "[pompa]"
 focus_keyphrase: "Concrete Pump di Kebon Jeruk Jakarta"
 meta_title: "Menyewakan Concrete Pump di Kebon Jeruk Jakarta [Terdekat] - Pompa Cor"

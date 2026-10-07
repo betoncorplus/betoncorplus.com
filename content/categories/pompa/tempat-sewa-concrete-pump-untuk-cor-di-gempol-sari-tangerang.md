@@ -1,6 +1,7 @@
 ---
 title: "Tempat Sewa Concrete Pump Untuk Cor di Gempol Sari Tangerang"
 date: "2023-05-07"
+lastmod: "2026-10-07"
 categories: "[pompa]"
 focus_keyphrase: "Concrete Pump di Gempol Sari Tangerang"
 meta_title: "Menyewakan Concrete Pump di Gempol Sari Tangerang [Terdekat] - Pompa Cor"

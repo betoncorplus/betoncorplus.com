@@ -1,6 +1,7 @@
 ---
 title: "Jual Cor Beton Readymix Untuk Jalan di Pekayon Bekasi"
 date: "2024-03-02"
+lastmod: "2026-10-07"
 categories: "[jalan]"
 focus_keyphrase: "Beton Readymix di Pekayon Bekasi"
 meta_title: "Jual Beton Readymix di Pekayon Bekasi [Terdekat] - Konstruksi Bangunan"

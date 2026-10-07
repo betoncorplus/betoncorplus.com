@@ -1,6 +1,7 @@
 ---
 title: "Supplier Cor Beton Readymix Untuk Rumah di Kresek Tangerang"
 date: "2023-06-11"
+lastmod: "2026-10-07"
 categories: "[rumah]"
 focus_keyphrase: "Beton Readymix di Kresek Tangerang"
 meta_title: "Jual Beton Readymix di Kresek Tangerang [Terdekat] - Pengecoran Rumah"

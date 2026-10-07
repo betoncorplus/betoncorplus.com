@@ -1,6 +1,7 @@
 ---
 title: "Jual Cor Beton Readymix Untuk Jalan di Sindangsari"
 date: "2023-05-23"
+lastmod: "2026-10-07"
 categories: "[jalan]"
 focus_keyphrase: "Beton Readymix di Sindangsari"
 meta_title: "Jual Beton Readymix di Sindangsari [Terdekat] - Konstruksi Bangunan"

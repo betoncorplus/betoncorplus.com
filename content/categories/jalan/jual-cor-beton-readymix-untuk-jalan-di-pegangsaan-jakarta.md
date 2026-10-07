@@ -1,6 +1,7 @@
 ---
 title: "Jual Cor Beton Readymix Untuk Jalan di Pegangsaan Jakarta"
 date: "2024-05-20"
+lastmod: "2026-10-07"
 categories: "[jalan]"
 focus_keyphrase: "Beton Readymix di Pegangsaan Jakarta"
 meta_title: "Jual Beton Readymix di Pegangsaan Jakarta [Terdekat] - Konstruksi Bangunan"

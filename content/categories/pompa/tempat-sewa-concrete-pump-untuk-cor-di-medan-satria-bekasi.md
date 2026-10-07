@@ -1,6 +1,7 @@
 ---
 title: "Tempat Sewa Concrete Pump Untuk Cor di Medan Satria Bekasi"
 date: "2024-05-24"
+lastmod: "2026-10-07"
 categories: "[pompa]"
 focus_keyphrase: "Concrete Pump di Medan Satria Bekasi"
 meta_title: "Menyewakan Concrete Pump di Medan Satria Bekasi [Terdekat] - Pompa Cor"

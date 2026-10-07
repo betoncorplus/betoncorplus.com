@@ -1,6 +1,7 @@
 ---
 title: "Tempat Sewa Concrete Pump Untuk Cor di Pluit Jakarta"
 date: "2023-01-17"
+lastmod: "2026-10-07"
 categories: "[pompa]"
 focus_keyphrase: "Concrete Pump di Pluit Jakarta"
 meta_title: "Menyewakan Concrete Pump di Pluit Jakarta [Terdekat] - Pompa Cor"

@@ -1,6 +1,7 @@
 ---
 title: "Jual Cor Beton Readymix Untuk Jalan di Gintung Tangerang"
 date: "2023-12-24"
+lastmod: "2026-10-07"
 categories: "[jalan]"
 focus_keyphrase: "Beton Readymix di Gintung Tangerang"
 meta_title: "Jual Beton Readymix di Gintung Tangerang [Terdekat] - Konstruksi Bangunan"

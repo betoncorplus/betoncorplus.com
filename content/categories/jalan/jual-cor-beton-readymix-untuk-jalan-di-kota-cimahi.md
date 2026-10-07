@@ -1,6 +1,7 @@
 ---
 title: "Jual Cor Beton Readymix Untuk Jalan di Kota Cimahi"
 date: "2024-04-01"
+lastmod: "2026-10-07"
 categories: "[jalan]"
 focus_keyphrase: "Beton Readymix di Kota Cimahi"
 meta_title: "Jual Beton Readymix di Kota Cimahi [Terdekat] - Konstruksi Bangunan"

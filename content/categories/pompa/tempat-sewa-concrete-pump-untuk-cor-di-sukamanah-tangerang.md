@@ -1,6 +1,7 @@
 ---
 title: "Tempat Sewa Concrete Pump Untuk Cor di Sukamanah Tangerang"
 date: "2024-05-15"
+lastmod: "2026-10-07"
 categories: "[pompa]"
 focus_keyphrase: "Concrete Pump di Sukamanah Tangerang"
 meta_title: "Menyewakan Concrete Pump di Sukamanah Tangerang [Terdekat] - Pompa Cor"

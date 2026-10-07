@@ -1,6 +1,7 @@
 ---
 title: "Tempat Sewa Concrete Pump Untuk Cor di Beji Depok"
 date: "2024-04-12"
+lastmod: "2026-10-07"
 categories: "[pompa]"
 focus_keyphrase: "Concrete Pump di Beji Depok"
 meta_title: "Menyewakan Concrete Pump di Beji Depok [Terdekat] - Pompa Cor"

@@ -1,6 +1,7 @@
 ---
 title: "Jual Cor Beton Readymix Untuk Jalan di Muncung Tangerang"
 date: "2024-10-12"
+lastmod: "2026-10-07"
 categories: "[jalan]"
 focus_keyphrase: "Beton Readymix di Muncung Tangerang"
 meta_title: "Jual Beton Readymix di Muncung Tangerang [Terdekat] - Konstruksi Bangunan"

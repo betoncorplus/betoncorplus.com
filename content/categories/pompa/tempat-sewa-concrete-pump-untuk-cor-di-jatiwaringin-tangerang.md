@@ -1,6 +1,7 @@
 ---
 title: "Tempat Sewa Concrete Pump Untuk Cor di Jatiwaringin Tangerang"
 date: "2023-08-18"
+lastmod: "2026-10-07"
 categories: "[pompa]"
 focus_keyphrase: "Concrete Pump di Jatiwaringin Tangerang"
 meta_title: "Menyewakan Concrete Pump di Jatiwaringin Tangerang [Terdekat] - Pompa Cor"

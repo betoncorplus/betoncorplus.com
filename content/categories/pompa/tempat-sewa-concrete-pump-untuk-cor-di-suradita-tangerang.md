@@ -1,6 +1,7 @@
 ---
 title: "Tempat Sewa Concrete Pump Untuk Cor di Suradita Tangerang"
 date: "2023-02-22"
+lastmod: "2026-10-07"
 categories: "[pompa]"
 focus_keyphrase: "Concrete Pump di Suradita Tangerang"
 meta_title: "Menyewakan Concrete Pump di Suradita Tangerang [Terdekat] - Pompa Cor"

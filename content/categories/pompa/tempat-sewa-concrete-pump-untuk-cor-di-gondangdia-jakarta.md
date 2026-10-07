@@ -1,6 +1,7 @@
 ---
 title: "Tempat Sewa Concrete Pump Untuk Cor di Gondangdia Jakarta"
 date: "2023-06-10"
+lastmod: "2026-10-07"
 categories: "[pompa]"
 focus_keyphrase: "Concrete Pump di Gondangdia Jakarta"
 meta_title: "Menyewakan Concrete Pump di Gondangdia Jakarta [Terdekat] - Pompa Cor"

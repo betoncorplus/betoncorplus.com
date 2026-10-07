@@ -1,6 +1,7 @@
 ---
 title: "Tempat Sewa Concrete Pump Untuk Cor di Rangkapan Jaya Depok"
 date: "2023-06-04"
+lastmod: "2026-10-07"
 categories: "[pompa]"
 focus_keyphrase: "Concrete Pump di Rangkapan Jaya Depok"
 meta_title: "Menyewakan Concrete Pump di Rangkapan Jaya Depok [Terdekat] - Pompa Cor"

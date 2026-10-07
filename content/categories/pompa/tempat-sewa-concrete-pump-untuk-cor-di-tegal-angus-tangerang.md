@@ -1,6 +1,7 @@
 ---
 title: "Tempat Sewa Concrete Pump Untuk Cor di Tegal Angus Tangerang"
 date: "2024-01-08"
+lastmod: "2026-10-07"
 categories: "[pompa]"
 focus_keyphrase: "Concrete Pump di Tegal Angus Tangerang"
 meta_title: "Menyewakan Concrete Pump di Tegal Angus Tangerang [Terdekat] - Pompa Cor"

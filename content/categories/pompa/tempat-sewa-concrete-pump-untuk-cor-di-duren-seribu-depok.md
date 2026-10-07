@@ -1,6 +1,7 @@
 ---
 title: "Tempat Sewa Concrete Pump Untuk Cor di Duren Seribu Depok"
 date: "2023-05-26"
+lastmod: "2026-10-07"
 categories: "[pompa]"
 focus_keyphrase: "Concrete Pump di Duren Seribu Depok"
 meta_title: "Menyewakan Concrete Pump di Duren Seribu Depok [Terdekat] - Pompa Cor"

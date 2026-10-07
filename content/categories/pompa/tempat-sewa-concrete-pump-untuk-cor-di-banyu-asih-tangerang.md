@@ -1,6 +1,7 @@
 ---
 title: "Tempat Sewa Concrete Pump Untuk Cor di Banyu Asih Tangerang"
 date: "2023-02-06"
+lastmod: "2026-10-07"
 categories: "[pompa]"
 focus_keyphrase: "Concrete Pump di Banyu Asih Tangerang"
 meta_title: "Menyewakan Concrete Pump di Banyu Asih Tangerang [Terdekat] - Pompa Cor"

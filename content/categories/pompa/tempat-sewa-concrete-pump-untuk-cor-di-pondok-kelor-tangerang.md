@@ -1,6 +1,7 @@
 ---
 title: "Tempat Sewa Concrete Pump Untuk Cor di Pondok Kelor Tangerang"
 date: "2023-02-07"
+lastmod: "2026-10-07"
 categories: "[pompa]"
 focus_keyphrase: "Concrete Pump di Pondok Kelor Tangerang"
 meta_title: "Menyewakan Concrete Pump di Pondok Kelor Tangerang [Terdekat] - Pompa Cor"

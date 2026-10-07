@@ -1,6 +1,7 @@
 ---
 title: "Tempat Sewa Concrete Pump Untuk Cor di Saga Tangerang"
 date: "2023-05-28"
+lastmod: "2026-10-07"
 categories: "[pompa]"
 focus_keyphrase: "Concrete Pump di Saga Tangerang"
 meta_title: "Menyewakan Concrete Pump di Saga Tangerang [Terdekat] - Pompa Cor"

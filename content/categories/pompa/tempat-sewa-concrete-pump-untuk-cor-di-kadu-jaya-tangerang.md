@@ -1,6 +1,7 @@
 ---
 title: "Tempat Sewa Concrete Pump Untuk Cor di Kadu Jaya Tangerang"
 date: "2023-01-06"
+lastmod: "2026-10-07"
 categories: "[pompa]"
 focus_keyphrase: "Concrete Pump di Kadu Jaya Tangerang"
 meta_title: "Menyewakan Concrete Pump di Kadu Jaya Tangerang [Terdekat] - Pompa Cor"

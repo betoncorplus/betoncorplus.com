@@ -1,6 +1,7 @@
 ---
 title: "Tempat Sewa Concrete Pump Untuk Cor di Rancagong Tangerang"
 date: "2024-01-14"
+lastmod: "2026-10-07"
 categories: "[pompa]"
 focus_keyphrase: "Concrete Pump di Rancagong Tangerang"
 meta_title: "Menyewakan Concrete Pump di Rancagong Tangerang [Terdekat] - Pompa Cor"

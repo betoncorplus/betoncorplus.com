@@ -1,6 +1,7 @@
 ---
 title: "Tempat Sewa Concrete Pump Untuk Cor di Lebak Bulus Jakarta"
 date: "2023-04-14"
+lastmod: "2026-10-07"
 categories: "[pompa]"
 focus_keyphrase: "Concrete Pump di Lebak Bulus Jakarta"
 meta_title: "Menyewakan Concrete Pump di Lebak Bulus Jakarta [Terdekat] - Pompa Cor"

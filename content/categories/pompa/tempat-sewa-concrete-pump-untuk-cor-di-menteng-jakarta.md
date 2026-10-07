@@ -1,6 +1,7 @@
 ---
 title: "Tempat Sewa Concrete Pump Untuk Cor di Menteng Jakarta"
 date: "2023-10-25"
+lastmod: "2026-10-07"
 categories: "[pompa]"
 focus_keyphrase: "Concrete Pump di Menteng Jakarta"
 meta_title: "Menyewakan Concrete Pump di Menteng Jakarta [Terdekat] - Pompa Cor"

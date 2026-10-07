@@ -1,6 +1,7 @@
 ---
 title: "Tempat Sewa Concrete Pump Untuk Cor di Pasar Kemis Tangerang"
 date: "2023-01-07"
+lastmod: "2026-10-07"
 categories: "[pompa]"
 focus_keyphrase: "Concrete Pump di Pasar Kemis Tangerang"
 meta_title: "Menyewakan Concrete Pump di Pasar Kemis Tangerang [Terdekat] - Pompa Cor"

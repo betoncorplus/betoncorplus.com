@@ -1,6 +1,7 @@
 ---
 title: "Tempat Sewa Concrete Pump Untuk Cor di Sukasari Tangerang"
 date: "2024-02-15"
+lastmod: "2026-10-07"
 categories: "[pompa]"
 focus_keyphrase: "Concrete Pump di Sukasari Tangerang"
 meta_title: "Menyewakan Concrete Pump di Sukasari Tangerang [Terdekat] - Pompa Cor"

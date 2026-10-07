@@ -1,6 +1,7 @@
 ---
 title: "Tempat Sewa Concrete Pump Untuk Cor di Lebak Wangi Tangerang"
 date: "2024-04-09"
+lastmod: "2026-10-07"
 categories: "[pompa]"
 focus_keyphrase: "Concrete Pump di Lebak Wangi Tangerang"
 meta_title: "Menyewakan Concrete Pump di Lebak Wangi Tangerang [Terdekat] - Pompa Cor"

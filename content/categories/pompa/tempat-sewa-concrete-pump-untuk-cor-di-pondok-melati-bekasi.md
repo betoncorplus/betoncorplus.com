@@ -1,6 +1,7 @@
 ---
 title: "Tempat Sewa Concrete Pump Untuk Cor di Pondok Melati Bekasi"
 date: "2023-05-11"
+lastmod: "2026-10-07"
 categories: "[pompa]"
 focus_keyphrase: "Concrete Pump di Pondok Melati Bekasi"
 meta_title: "Menyewakan Concrete Pump di Pondok Melati Bekasi [Terdekat] - Pompa Cor"

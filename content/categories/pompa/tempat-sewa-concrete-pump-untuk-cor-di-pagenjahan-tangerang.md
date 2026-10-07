@@ -1,6 +1,7 @@
 ---
 title: "Tempat Sewa Concrete Pump Untuk Cor di Pagenjahan Tangerang"
 date: "2023-07-10"
+lastmod: "2026-10-07"
 categories: "[pompa]"
 focus_keyphrase: "Concrete Pump di Pagenjahan Tangerang"
 meta_title: "Menyewakan Concrete Pump di Pagenjahan Tangerang [Terdekat] - Pompa Cor"

@@ -1,6 +1,7 @@
 ---
 title: "Tempat Sewa Concrete Pump Untuk Cor di Tambelang Bekasi"
 date: "2024-08-05"
+lastmod: "2026-10-07"
 categories: "[pompa]"
 focus_keyphrase: "Concrete Pump di Tambelang Bekasi"
 meta_title: "Menyewakan Concrete Pump di Tambelang Bekasi [Terdekat] - Pompa Cor"

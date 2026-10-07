@@ -1,6 +1,7 @@
 ---
 title: "Tempat Sewa Concrete Pump Untuk Cor di Pejaten Jakarta"
 date: "2023-02-03"
+lastmod: "2026-10-07"
 categories: "[pompa]"
 focus_keyphrase: "Concrete Pump di Pejaten Jakarta"
 meta_title: "Menyewakan Concrete Pump di Pejaten Jakarta [Terdekat] - Pompa Cor"

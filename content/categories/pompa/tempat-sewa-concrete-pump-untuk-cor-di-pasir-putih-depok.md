@@ -1,6 +1,7 @@
 ---
 title: "Tempat Sewa Concrete Pump Untuk Cor di Pasir Putih Depok"
 date: "2024-05-10"
+lastmod: "2026-10-07"
 categories: "[pompa]"
 focus_keyphrase: "Concrete Pump di Pasir Putih Depok"
 meta_title: "Menyewakan Concrete Pump di Pasir Putih Depok [Terdekat] - Pompa Cor"

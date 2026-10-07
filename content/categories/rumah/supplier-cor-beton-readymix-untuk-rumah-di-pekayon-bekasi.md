@@ -1,6 +1,7 @@
 ---
 title: "Supplier Cor Beton Readymix Untuk Rumah di Pekayon Bekasi"
 date: "2024-05-09"
+lastmod: "2026-10-07"
 categories: "[rumah]"
 focus_keyphrase: "Beton Readymix di Pekayon Bekasi"
 meta_title: "Jual Beton Readymix di Pekayon Bekasi [Terdekat] - Pengecoran Rumah"

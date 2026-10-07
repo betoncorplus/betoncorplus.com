@@ -1,6 +1,7 @@
 ---
 title: "Tempat Sewa Concrete Pump Untuk Cor di Curug Kulon Tangerang"
 date: "2023-05-18"
+lastmod: "2026-10-07"
 categories: "[pompa]"
 focus_keyphrase: "Concrete Pump di Curug Kulon Tangerang"
 meta_title: "Menyewakan Concrete Pump di Curug Kulon Tangerang [Terdekat] - Pompa Cor"

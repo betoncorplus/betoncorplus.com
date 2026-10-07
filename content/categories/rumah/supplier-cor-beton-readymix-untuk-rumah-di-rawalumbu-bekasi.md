@@ -1,6 +1,7 @@
 ---
 title: "Supplier Cor Beton Readymix Untuk Rumah di Rawalumbu Bekasi"
 date: "2023-07-31"
+lastmod: "2026-10-07"
 categories: "[rumah]"
 focus_keyphrase: "Beton Readymix di Rawalumbu Bekasi"
 meta_title: "Jual Beton Readymix di Rawalumbu Bekasi [Terdekat] - Pengecoran Rumah"

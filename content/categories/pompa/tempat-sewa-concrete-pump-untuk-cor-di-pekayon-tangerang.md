@@ -1,6 +1,7 @@
 ---
 title: "Tempat Sewa Concrete Pump Untuk Cor di Pekayon Tangerang"
 date: "2023-08-05"
+lastmod: "2026-10-07"
 categories: "[pompa]"
 focus_keyphrase: "Concrete Pump di Pekayon Tangerang"
 meta_title: "Menyewakan Concrete Pump di Pekayon Tangerang [Terdekat] - Pompa Cor"

@@ -1,6 +1,7 @@
 ---
 title: "Supplier Cor Beton Readymix Untuk Rumah di Suka Asih Tangerang"
 date: "2023-12-20"
+lastmod: "2026-10-07"
 categories: "[rumah]"
 focus_keyphrase: "Beton Readymix di Suka Asih Tangerang"
 meta_title: "Jual Beton Readymix di Suka Asih Tangerang [Terdekat] - Pengecoran Rumah"

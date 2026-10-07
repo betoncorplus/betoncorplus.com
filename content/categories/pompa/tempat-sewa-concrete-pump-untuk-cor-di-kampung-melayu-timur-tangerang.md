@@ -1,6 +1,7 @@
 ---
 title: "Tempat Sewa Concrete Pump Untuk Cor di Kampung Melayu Timur Tangerang"
 date: "2023-02-23"
+lastmod: "2026-10-07"
 categories: "[pompa]"
 focus_keyphrase: "Concrete Pump di Kampung Melayu Timur Tangerang"
 meta_title: "Menyewakan Concrete Pump di Kampung Melayu Timur Tangerang [Terdekat] - Pompa Cor"

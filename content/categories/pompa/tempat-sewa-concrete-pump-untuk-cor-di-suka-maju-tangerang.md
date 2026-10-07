@@ -1,6 +1,7 @@
 ---
 title: "Tempat Sewa Concrete Pump Untuk Cor di Suka Maju Tangerang"
 date: "2024-07-08"
+lastmod: "2026-10-07"
 categories: "[pompa]"
 focus_keyphrase: "Concrete Pump di Suka Maju Tangerang"
 meta_title: "Menyewakan Concrete Pump di Suka Maju Tangerang [Terdekat] - Pompa Cor"

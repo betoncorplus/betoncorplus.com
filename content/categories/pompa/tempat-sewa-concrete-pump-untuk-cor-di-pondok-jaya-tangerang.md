@@ -1,6 +1,7 @@
 ---
 title: "Tempat Sewa Concrete Pump Untuk Cor di Pondok Jaya Tangerang"
 date: "2023-08-31"
+lastmod: "2026-10-07"
 categories: "[pompa]"
 focus_keyphrase: "Concrete Pump di Pondok Jaya Tangerang"
 meta_title: "Menyewakan Concrete Pump di Pondok Jaya Tangerang [Terdekat] - Pompa Cor"

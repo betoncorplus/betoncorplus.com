@@ -1,6 +1,7 @@
 ---
 title: "Jual Cor Beton Readymix Untuk Jalan di Pasir Gadung Tangerang"
 date: "2023-05-06"
+lastmod: "2026-10-07"
 categories: "[jalan]"
 focus_keyphrase: "Beton Readymix di Pasir Gadung Tangerang"
 meta_title: "Jual Beton Readymix di Pasir Gadung Tangerang [Terdekat] - Konstruksi Bangunan"

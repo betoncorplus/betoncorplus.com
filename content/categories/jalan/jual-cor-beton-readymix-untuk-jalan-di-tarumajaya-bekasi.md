@@ -1,6 +1,7 @@
 ---
 title: "Jual Cor Beton Readymix Untuk Jalan di Tarumajaya Bekasi"
 date: "2024-10-04"
+lastmod: "2026-10-07"
 categories: "[jalan]"
 focus_keyphrase: "Beton Readymix di Tarumajaya Bekasi"
 meta_title: "Jual Beton Readymix di Tarumajaya Bekasi [Terdekat] - Konstruksi Bangunan"

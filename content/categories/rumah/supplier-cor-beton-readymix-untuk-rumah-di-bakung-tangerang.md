@@ -1,6 +1,7 @@
 ---
 title: "Supplier Cor Beton Readymix Untuk Rumah di Bakung Tangerang"
 date: "2023-07-25"
+lastmod: "2026-10-07"
 categories: "[rumah]"
 focus_keyphrase: "Beton Readymix di Bakung Tangerang"
 meta_title: "Jual Beton Readymix di Bakung Tangerang [Terdekat] - Pengecoran Rumah"

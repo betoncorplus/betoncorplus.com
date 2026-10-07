@@ -1,6 +1,7 @@
 ---
 title: "Tempat Sewa Concrete Pump Untuk Cor di Cimanggis Depok"
 date: "2024-04-23"
+lastmod: "2026-10-07"
 categories: "[pompa]"
 focus_keyphrase: "Concrete Pump di Cimanggis Depok"
 meta_title: "Menyewakan Concrete Pump di Cimanggis Depok [Terdekat] - Pompa Cor"

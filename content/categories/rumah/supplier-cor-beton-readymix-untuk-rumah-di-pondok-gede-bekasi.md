@@ -1,6 +1,7 @@
 ---
 title: "Supplier Cor Beton Readymix Untuk Rumah di Pondok Gede Bekasi"
 date: "2023-04-15"
+lastmod: "2026-10-07"
 categories: "[rumah]"
 focus_keyphrase: "Beton Readymix di Pondok Gede Bekasi"
 meta_title: "Jual Beton Readymix di Pondok Gede Bekasi [Terdekat] - Pengecoran Rumah"

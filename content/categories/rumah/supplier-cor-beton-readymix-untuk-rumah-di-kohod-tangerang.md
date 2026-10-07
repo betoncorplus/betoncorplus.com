@@ -1,6 +1,7 @@
 ---
 title: "Supplier Cor Beton Readymix Untuk Rumah di Kohod Tangerang"
 date: "2024-05-17"
+lastmod: "2026-10-07"
 categories: "[rumah]"
 focus_keyphrase: "Beton Readymix di Kohod Tangerang"
 meta_title: "Jual Beton Readymix di Kohod Tangerang [Terdekat] - Pengecoran Rumah"

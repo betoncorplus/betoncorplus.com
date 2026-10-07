@@ -1,6 +1,7 @@
 ---
 title: "Supplier Cor Beton Readymix Untuk Rumah di Medan Satria Bekasi"
 date: "2023-02-04"
+lastmod: "2026-10-07"
 categories: "[rumah]"
 focus_keyphrase: "Beton Readymix di Medan Satria Bekasi"
 meta_title: "Jual Beton Readymix di Medan Satria Bekasi [Terdekat] - Pengecoran Rumah"

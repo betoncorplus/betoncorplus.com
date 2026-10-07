@@ -1,6 +1,7 @@
 ---
 title: "Jual Cor Beton Readymix Untuk Jalan di Sukatani Bekasi"
 date: "2023-05-05"
+lastmod: "2026-10-07"
 categories: "[jalan]"
 focus_keyphrase: "Beton Readymix di Sukatani Bekasi"
 meta_title: "Jual Beton Readymix di Sukatani Bekasi [Terdekat] - Konstruksi Bangunan"

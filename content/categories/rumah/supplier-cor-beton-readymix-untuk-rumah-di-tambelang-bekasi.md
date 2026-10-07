@@ -1,6 +1,7 @@
 ---
 title: "Supplier Cor Beton Readymix Untuk Rumah di Tambelang Bekasi"
 date: "2023-06-23"
+lastmod: "2026-10-07"
 categories: "[rumah]"
 focus_keyphrase: "Beton Readymix di Tambelang Bekasi"
 meta_title: "Jual Beton Readymix di Tambelang Bekasi [Terdekat] - Pengecoran Rumah"

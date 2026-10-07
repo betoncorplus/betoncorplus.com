@@ -1,6 +1,7 @@
 ---
 title: "Jual Cor Beton Readymix Untuk Jalan di Muaragembong Bekasi"
 date: "2023-08-16"
+lastmod: "2026-10-07"
 categories: "[jalan]"
 focus_keyphrase: "Beton Readymix di Muaragembong Bekasi"
 meta_title: "Jual Beton Readymix di Muaragembong Bekasi [Terdekat] - Konstruksi Bangunan"

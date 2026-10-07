@@ -1,6 +1,7 @@
 ---
 title: "Tempat Sewa Concrete Pump Untuk Cor di Pangkalan Jati Depok"
 date: "2024-09-19"
+lastmod: "2026-10-07"
 categories: "[pompa]"
 focus_keyphrase: "Concrete Pump di Pangkalan Jati Depok"
 meta_title: "Menyewakan Concrete Pump di Pangkalan Jati Depok [Terdekat] - Pompa Cor"

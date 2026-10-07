@@ -1,6 +1,7 @@
 ---
 title: "Tempat Sewa Concrete Pump Untuk Cor di Sodong Tangerang"
 date: "2024-02-27"
+lastmod: "2026-10-07"
 categories: "[pompa]"
 focus_keyphrase: "Concrete Pump di Sodong Tangerang"
 meta_title: "Menyewakan Concrete Pump di Sodong Tangerang [Terdekat] - Pompa Cor"

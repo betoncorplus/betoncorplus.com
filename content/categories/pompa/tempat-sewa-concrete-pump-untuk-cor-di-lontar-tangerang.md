@@ -1,6 +1,7 @@
 ---
 title: "Tempat Sewa Concrete Pump Untuk Cor di Lontar Tangerang"
 date: "2023-08-25"
+lastmod: "2026-10-07"
 categories: "[pompa]"
 focus_keyphrase: "Concrete Pump di Lontar Tangerang"
 meta_title: "Menyewakan Concrete Pump di Lontar Tangerang [Terdekat] - Pompa Cor"

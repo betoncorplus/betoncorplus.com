@@ -1,6 +1,7 @@
 ---
 title: "Tempat Sewa Concrete Pump Untuk Cor di Kalibaru Tangerang"
 date: "2024-06-06"
+lastmod: "2026-10-07"
 categories: "[pompa]"
 focus_keyphrase: "Concrete Pump di Kalibaru Tangerang"
 meta_title: "Menyewakan Concrete Pump di Kalibaru Tangerang [Terdekat] - Pompa Cor"

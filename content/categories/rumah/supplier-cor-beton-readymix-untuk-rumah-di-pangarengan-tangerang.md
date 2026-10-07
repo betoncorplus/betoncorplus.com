@@ -1,6 +1,7 @@
 ---
 title: "Supplier Cor Beton Readymix Untuk Rumah di Pangarengan Tangerang"
 date: "2023-04-01"
+lastmod: "2026-10-07"
 categories: "[rumah]"
 focus_keyphrase: "Beton Readymix di Pangarengan Tangerang"
 meta_title: "Jual Beton Readymix di Pangarengan Tangerang [Terdekat] - Pengecoran Rumah"

@@ -1,6 +1,7 @@
 ---
 title: "Jual Cor Beton Readymix Untuk Jalan di Abadijaya Depok"
 date: "2023-01-31"
+lastmod: "2026-10-07"
 categories: "[jalan]"
 focus_keyphrase: "Beton Readymix di Abadijaya Depok"
 meta_title: "Jual Beton Readymix di Abadijaya Depok [Terdekat] - Konstruksi Bangunan"

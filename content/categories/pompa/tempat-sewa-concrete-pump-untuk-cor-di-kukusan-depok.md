@@ -1,6 +1,7 @@
 ---
 title: "Tempat Sewa Concrete Pump Untuk Cor di Kukusan Depok"
 date: "2024-10-09"
+lastmod: "2026-10-07"
 categories: "[pompa]"
 focus_keyphrase: "Concrete Pump di Kukusan Depok"
 meta_title: "Menyewakan Concrete Pump di Kukusan Depok [Terdekat] - Pompa Cor"

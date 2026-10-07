@@ -1,6 +1,7 @@
 ---
 title: "Tempat Sewa Concrete Pump Untuk Cor di Kedaung Tangerang"
 date: "2024-02-12"
+lastmod: "2026-10-07"
 categories: "[pompa]"
 focus_keyphrase: "Concrete Pump di Kedaung Tangerang"
 meta_title: "Menyewakan Concrete Pump di Kedaung Tangerang [Terdekat] - Pompa Cor"

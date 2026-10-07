@@ -1,6 +1,7 @@
 ---
 title: "Tempat Sewa Concrete Pump Untuk Cor di Buaran Mangga Tangerang"
 date: "2023-10-09"
+lastmod: "2026-10-07"
 categories: "[pompa]"
 focus_keyphrase: "Concrete Pump di Buaran Mangga Tangerang"
 meta_title: "Menyewakan Concrete Pump di Buaran Mangga Tangerang [Terdekat] - Pompa Cor"

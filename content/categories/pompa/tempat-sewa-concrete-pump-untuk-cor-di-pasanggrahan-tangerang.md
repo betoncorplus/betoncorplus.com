@@ -1,6 +1,7 @@
 ---
 title: "Tempat Sewa Concrete Pump Untuk Cor di Pasanggrahan Tangerang"
 date: "2023-04-18"
+lastmod: "2026-10-07"
 categories: "[pompa]"
 focus_keyphrase: "Concrete Pump di Pasanggrahan Tangerang"
 meta_title: "Menyewakan Concrete Pump di Pasanggrahan Tangerang [Terdekat] - Pompa Cor"

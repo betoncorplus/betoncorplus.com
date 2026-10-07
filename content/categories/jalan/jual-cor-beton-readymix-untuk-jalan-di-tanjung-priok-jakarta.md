@@ -1,6 +1,7 @@
 ---
 title: "Jual Cor Beton Readymix Untuk Jalan di Tanjung Priok Jakarta"
 date: "2024-02-06"
+lastmod: "2026-10-07"
 categories: "[jalan]"
 focus_keyphrase: "Beton Readymix di Tanjung Priok Jakarta"
 meta_title: "Jual Beton Readymix di Tanjung Priok Jakarta [Terdekat] - Konstruksi Bangunan"

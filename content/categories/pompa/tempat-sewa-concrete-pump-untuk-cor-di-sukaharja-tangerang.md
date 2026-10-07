@@ -1,6 +1,7 @@
 ---
 title: "Tempat Sewa Concrete Pump Untuk Cor di Sukaharja Tangerang"
 date: "2024-08-31"
+lastmod: "2026-10-07"
 categories: "[pompa]"
 focus_keyphrase: "Concrete Pump di Sukaharja Tangerang"
 meta_title: "Menyewakan Concrete Pump di Sukaharja Tangerang [Terdekat] - Pompa Cor"

@@ -1,6 +1,7 @@
 ---
 title: "Tempat Sewa Concrete Pump Untuk Cor di Sukabakti Tangerang"
 date: "2023-08-11"
+lastmod: "2026-10-07"
 categories: "[pompa]"
 focus_keyphrase: "Concrete Pump di Sukabakti Tangerang"
 meta_title: "Menyewakan Concrete Pump di Sukabakti Tangerang [Terdekat] - Pompa Cor"

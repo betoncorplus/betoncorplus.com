@@ -1,6 +1,7 @@
 ---
 title: "Jual Cor Beton Readymix Untuk Jalan di Kadu Agung Tangerang"
 date: "2024-06-17"
+lastmod: "2026-10-07"
 categories: "[jalan]"
 focus_keyphrase: "Beton Readymix di Kadu Agung Tangerang"
 meta_title: "Jual Beton Readymix di Kadu Agung Tangerang [Terdekat] - Konstruksi Bangunan"

@@ -1,6 +1,7 @@
 ---
 title: "Supplier Cor Beton Readymix Untuk Rumah di Pulo Gadung Jakarta"
 date: "2023-07-04"
+lastmod: "2026-10-07"
 categories: "[rumah]"
 focus_keyphrase: "Beton Readymix di Pulo Gadung Jakarta"
 meta_title: "Jual Beton Readymix di Pulo Gadung Jakarta [Terdekat] - Pengecoran Rumah"

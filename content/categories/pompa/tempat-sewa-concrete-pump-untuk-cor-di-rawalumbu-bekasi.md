@@ -1,6 +1,7 @@
 ---
 title: "Tempat Sewa Concrete Pump Untuk Cor di Rawalumbu Bekasi"
 date: "2024-06-21"
+lastmod: "2026-10-07"
 categories: "[pompa]"
 focus_keyphrase: "Concrete Pump di Rawalumbu Bekasi"
 meta_title: "Menyewakan Concrete Pump di Rawalumbu Bekasi [Terdekat] - Pompa Cor"

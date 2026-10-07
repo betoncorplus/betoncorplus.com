@@ -1,6 +1,7 @@
 ---
 title: "Tempat Sewa Concrete Pump Untuk Cor di Cisauk Tangerang"
 date: "2023-03-17"
+lastmod: "2026-10-07"
 categories: "[pompa]"
 focus_keyphrase: "Concrete Pump di Cisauk Tangerang"
 meta_title: "Menyewakan Concrete Pump di Cisauk Tangerang [Terdekat] - Pompa Cor"

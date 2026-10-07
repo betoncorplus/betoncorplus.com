@@ -1,6 +1,7 @@
 ---
 title: "Supplier Cor Beton Readymix Untuk Rumah di Pete Tangerang"
 date: "2023-01-09"
+lastmod: "2026-10-07"
 categories: "[rumah]"
 focus_keyphrase: "Beton Readymix di Pete Tangerang"
 meta_title: "Jual Beton Readymix di Pete Tangerang [Terdekat] - Pengecoran Rumah"

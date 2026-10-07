@@ -1,6 +1,7 @@
 ---
 title: "Jual Cor Beton Readymix Untuk Jalan di Cideng Jakarta"
 date: "2023-05-28"
+lastmod: "2026-10-07"
 categories: "[jalan]"
 focus_keyphrase: "Beton Readymix di Cideng Jakarta"
 meta_title: "Jual Beton Readymix di Cideng Jakarta [Terdekat] - Konstruksi Bangunan"

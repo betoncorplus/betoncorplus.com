@@ -1,6 +1,7 @@
 ---
 title: "Tempat Sewa Concrete Pump Untuk Cor di Bidara Cina Jakarta"
 date: "2024-08-08"
+lastmod: "2026-10-07"
 categories: "[pompa]"
 focus_keyphrase: "Concrete Pump di Bidara Cina Jakarta"
 meta_title: "Menyewakan Concrete Pump di Bidara Cina Jakarta [Terdekat] - Pompa Cor"

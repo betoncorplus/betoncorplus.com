@@ -1,6 +1,7 @@
 ---
 title: "Tempat Sewa Concrete Pump Untuk Cor di Peusar Tangerang"
 date: "2024-06-01"
+lastmod: "2026-10-07"
 categories: "[pompa]"
 focus_keyphrase: "Concrete Pump di Peusar Tangerang"
 meta_title: "Menyewakan Concrete Pump di Peusar Tangerang [Terdekat] - Pompa Cor"

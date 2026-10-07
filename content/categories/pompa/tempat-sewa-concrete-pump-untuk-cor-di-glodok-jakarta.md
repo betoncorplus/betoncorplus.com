@@ -1,6 +1,7 @@
 ---
 title: "Tempat Sewa Concrete Pump Untuk Cor di Glodok Jakarta"
 date: "2024-08-25"
+lastmod: "2026-10-07"
 categories: "[pompa]"
 focus_keyphrase: "Concrete Pump di Glodok Jakarta"
 meta_title: "Menyewakan Concrete Pump di Glodok Jakarta [Terdekat] - Pompa Cor"

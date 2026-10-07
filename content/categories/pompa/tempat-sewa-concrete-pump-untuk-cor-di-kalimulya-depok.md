@@ -1,6 +1,7 @@
 ---
 title: "Tempat Sewa Concrete Pump Untuk Cor di Kalimulya Depok"
 date: "2024-07-14"
+lastmod: "2026-10-07"
 categories: "[pompa]"
 focus_keyphrase: "Concrete Pump di Kalimulya Depok"
 meta_title: "Menyewakan Concrete Pump di Kalimulya Depok [Terdekat] - Pompa Cor"

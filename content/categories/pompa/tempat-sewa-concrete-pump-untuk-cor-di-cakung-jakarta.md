@@ -1,6 +1,7 @@
 ---
 title: "Tempat Sewa Concrete Pump Untuk Cor di Cakung Jakarta"
 date: "2024-04-17"
+lastmod: "2026-10-07"
 categories: "[pompa]"
 focus_keyphrase: "Concrete Pump di Cakung Jakarta"
 meta_title: "Menyewakan Concrete Pump di Cakung Jakarta [Terdekat] - Pompa Cor"

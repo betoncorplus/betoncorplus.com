@@ -1,6 +1,7 @@
 ---
 title: "Tempat Sewa Concrete Pump Untuk Cor di Kadu Sirung Tangerang"
 date: "2024-08-19"
+lastmod: "2026-10-07"
 categories: "[pompa]"
 focus_keyphrase: "Concrete Pump di Kadu Sirung Tangerang"
 meta_title: "Menyewakan Concrete Pump di Kadu Sirung Tangerang [Terdekat] - Pompa Cor"

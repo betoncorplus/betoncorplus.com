@@ -1,6 +1,7 @@
 ---
 title: "Tempat Sewa Concrete Pump Untuk Cor di Petojo Jakarta"
 date: "2024-07-07"
+lastmod: "2026-10-07"
 categories: "[pompa]"
 focus_keyphrase: "Concrete Pump di Petojo Jakarta"
 meta_title: "Menyewakan Concrete Pump di Petojo Jakarta [Terdekat] - Pompa Cor"

@@ -1,6 +1,7 @@
 ---
 title: "Jual Cor Beton Readymix Untuk Jalan di Babelan Bekasi"
 date: "2024-06-16"
+lastmod: "2026-10-07"
 categories: "[jalan]"
 focus_keyphrase: "Beton Readymix di Babelan Bekasi"
 meta_title: "Jual Beton Readymix di Babelan Bekasi [Terdekat] - Konstruksi Bangunan"

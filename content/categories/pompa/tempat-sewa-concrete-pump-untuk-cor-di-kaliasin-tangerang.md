@@ -1,6 +1,7 @@
 ---
 title: "Tempat Sewa Concrete Pump Untuk Cor di Kaliasin Tangerang"
 date: "2023-09-19"
+lastmod: "2026-10-07"
 categories: "[pompa]"
 focus_keyphrase: "Concrete Pump di Kaliasin Tangerang"
 meta_title: "Menyewakan Concrete Pump di Kaliasin Tangerang [Terdekat] - Pompa Cor"

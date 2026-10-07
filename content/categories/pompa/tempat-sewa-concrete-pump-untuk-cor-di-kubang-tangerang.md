@@ -1,6 +1,7 @@
 ---
 title: "Tempat Sewa Concrete Pump Untuk Cor di Kubang Tangerang"
 date: "2023-05-04"
+lastmod: "2026-10-07"
 categories: "[pompa]"
 focus_keyphrase: "Concrete Pump di Kubang Tangerang"
 meta_title: "Menyewakan Concrete Pump di Kubang Tangerang [Terdekat] - Pompa Cor"

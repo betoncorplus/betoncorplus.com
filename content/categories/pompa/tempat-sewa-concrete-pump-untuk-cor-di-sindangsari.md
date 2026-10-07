@@ -1,6 +1,7 @@
 ---
 title: "Tempat Sewa Concrete Pump Untuk Cor di Sindangsari"
 date: "2024-01-05"
+lastmod: "2026-10-07"
 categories: "[pompa]"
 focus_keyphrase: "Concrete Pump di Sindangsari"
 meta_title: "Menyewakan Concrete Pump di Sindangsari [Terdekat] - Pompa Cor"

@@ -1,6 +1,7 @@
 ---
 title: "Tempat Sewa Concrete Pump Untuk Cor di Bambu Apus Jakarta"
 date: "2023-06-18"
+lastmod: "2026-10-07"
 categories: "[pompa]"
 focus_keyphrase: "Concrete Pump di Bambu Apus Jakarta"
 meta_title: "Menyewakan Concrete Pump di Bambu Apus Jakarta [Terdekat] - Pompa Cor"

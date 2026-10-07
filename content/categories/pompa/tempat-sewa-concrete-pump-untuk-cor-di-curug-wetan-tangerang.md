@@ -1,6 +1,7 @@
 ---
 title: "Tempat Sewa Concrete Pump Untuk Cor di Curug Wetan Tangerang"
 date: "2024-05-23"
+lastmod: "2026-10-07"
 categories: "[pompa]"
 focus_keyphrase: "Concrete Pump di Curug Wetan Tangerang"
 meta_title: "Menyewakan Concrete Pump di Curug Wetan Tangerang [Terdekat] - Pompa Cor"

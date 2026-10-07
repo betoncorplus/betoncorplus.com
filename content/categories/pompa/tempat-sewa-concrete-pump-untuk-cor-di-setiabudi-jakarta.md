@@ -1,6 +1,7 @@
 ---
 title: "Tempat Sewa Concrete Pump Untuk Cor di Setiabudi Jakarta"
 date: "2024-07-03"
+lastmod: "2026-10-07"
 categories: "[pompa]"
 focus_keyphrase: "Concrete Pump di Setiabudi Jakarta"
 meta_title: "Menyewakan Concrete Pump di Setiabudi Jakarta [Terdekat] - Pompa Cor"

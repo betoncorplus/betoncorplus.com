@@ -1,6 +1,7 @@
 ---
 title: "Tempat Sewa Concrete Pump Untuk Cor di Karang Tenga Tangerang"
 date: "2023-05-21"
+lastmod: "2026-10-07"
 categories: "[pompa]"
 focus_keyphrase: "Concrete Pump di Karang Tenga Tangerang"
 meta_title: "Menyewakan Concrete Pump di Karang Tenga Tangerang [Terdekat] - Pompa Cor"

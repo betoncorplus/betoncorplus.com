@@ -1,6 +1,7 @@
 ---
 title: "Tempat Sewa Concrete Pump Untuk Cor di Pabuaran Tangerang"
 date: "2023-08-21"
+lastmod: "2026-10-07"
 categories: "[pompa]"
 focus_keyphrase: "Concrete Pump di Pabuaran Tangerang"
 meta_title: "Menyewakan Concrete Pump di Pabuaran Tangerang [Terdekat] - Pompa Cor"

@@ -1,6 +1,7 @@
 ---
 title: "Tempat Sewa Concrete Pump Untuk Cor di Bantar Gebang Bekasi"
 date: "2024-01-17"
+lastmod: "2026-10-07"
 categories: "[pompa]"
 focus_keyphrase: "Concrete Pump di Bantar Gebang Bekasi"
 meta_title: "Menyewakan Concrete Pump di Bantar Gebang Bekasi [Terdekat] - Pompa Cor"

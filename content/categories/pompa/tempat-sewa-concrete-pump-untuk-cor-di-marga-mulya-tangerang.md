@@ -1,6 +1,7 @@
 ---
 title: "Tempat Sewa Concrete Pump Untuk Cor di Marga Mulya Tangerang"
 date: "2023-04-24"
+lastmod: "2026-10-07"
 categories: "[pompa]"
 focus_keyphrase: "Concrete Pump di Marga Mulya Tangerang"
 meta_title: "Menyewakan Concrete Pump di Marga Mulya Tangerang [Terdekat] - Pompa Cor"

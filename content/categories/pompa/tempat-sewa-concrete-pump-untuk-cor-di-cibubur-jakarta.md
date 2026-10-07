@@ -1,6 +1,7 @@
 ---
 title: "Tempat Sewa Concrete Pump Untuk Cor di Cibubur Jakarta"
 date: "2023-05-29"
+lastmod: "2026-10-07"
 categories: "[pompa]"
 focus_keyphrase: "Concrete Pump di Cibubur Jakarta"
 meta_title: "Menyewakan Concrete Pump di Cibubur Jakarta [Terdekat] - Pompa Cor"

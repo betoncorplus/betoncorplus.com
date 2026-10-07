@@ -1,6 +1,7 @@
 ---
 title: "Jual Cor Beton Readymix Untuk Jalan di Cabangbungin Bekasi"
 date: "2023-12-10"
+lastmod: "2026-10-07"
 categories: "[jalan]"
 focus_keyphrase: "Beton Readymix di Cabangbungin Bekasi"
 meta_title: "Jual Beton Readymix di Cabangbungin Bekasi [Terdekat] - Konstruksi Bangunan"

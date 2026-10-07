@@ -1,6 +1,7 @@
 ---
 title: "Tempat Sewa Concrete Pump Untuk Cor di Gambir Jakarta"
 date: "2024-01-28"
+lastmod: "2026-10-07"
 categories: "[pompa]"
 focus_keyphrase: "Concrete Pump di Gambir Jakarta"
 meta_title: "Menyewakan Concrete Pump di Gambir Jakarta [Terdekat] - Pompa Cor"

@@ -1,6 +1,7 @@
 ---
 title: "Tempat Sewa Concrete Pump Untuk Cor di Pagedangan Ilir Tangerang"
 date: "2023-06-12"
+lastmod: "2026-10-07"
 categories: "[pompa]"
 focus_keyphrase: "Concrete Pump di Pagedangan Ilir Tangerang"
 meta_title: "Menyewakan Concrete Pump di Pagedangan Ilir Tangerang [Terdekat] - Pompa Cor"

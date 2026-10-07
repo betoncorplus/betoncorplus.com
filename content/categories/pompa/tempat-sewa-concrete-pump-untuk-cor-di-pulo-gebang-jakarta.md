@@ -1,6 +1,7 @@
 ---
 title: "Tempat Sewa Concrete Pump Untuk Cor di Pulo Gebang Jakarta"
 date: "2024-08-13"
+lastmod: "2026-10-07"
 categories: "[pompa]"
 focus_keyphrase: "Concrete Pump di Pulo Gebang Jakarta"
 meta_title: "Menyewakan Concrete Pump di Pulo Gebang Jakarta [Terdekat] - Pompa Cor"

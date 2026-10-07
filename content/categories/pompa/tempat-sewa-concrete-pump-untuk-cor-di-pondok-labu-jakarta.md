@@ -1,6 +1,7 @@
 ---
 title: "Tempat Sewa Concrete Pump Untuk Cor di Pondok Labu Jakarta"
 date: "2023-09-23"
+lastmod: "2026-10-07"
 categories: "[pompa]"
 focus_keyphrase: "Concrete Pump di Pondok Labu Jakarta"
 meta_title: "Menyewakan Concrete Pump di Pondok Labu Jakarta [Terdekat] - Pompa Cor"

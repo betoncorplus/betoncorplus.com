@@ -1,6 +1,7 @@
 ---
 title: "Tempat Sewa Concrete Pump Untuk Cor di Sepatan Tangerang"
 date: "2023-11-18"
+lastmod: "2026-10-07"
 categories: "[pompa]"
 focus_keyphrase: "Concrete Pump di Sepatan Tangerang"
 meta_title: "Menyewakan Concrete Pump di Sepatan Tangerang [Terdekat] - Pompa Cor"

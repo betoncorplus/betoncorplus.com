@@ -1,6 +1,7 @@
 ---
 title: "Tempat Sewa Concrete Pump Untuk Cor di Slipi Jakarta"
 date: "2024-04-04"
+lastmod: "2026-10-07"
 categories: "[pompa]"
 focus_keyphrase: "Concrete Pump di Slipi Jakarta"
 meta_title: "Menyewakan Concrete Pump di Slipi Jakarta [Terdekat] - Pompa Cor"

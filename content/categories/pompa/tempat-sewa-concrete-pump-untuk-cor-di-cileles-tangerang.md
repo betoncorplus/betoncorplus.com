@@ -1,6 +1,7 @@
 ---
 title: "Tempat Sewa Concrete Pump Untuk Cor di Cileles Tangerang"
 date: "2023-01-31"
+lastmod: "2026-10-07"
 categories: "[pompa]"
 focus_keyphrase: "Concrete Pump di Cileles Tangerang"
 meta_title: "Menyewakan Concrete Pump di Cileles Tangerang [Terdekat] - Pompa Cor"

@@ -1,6 +1,7 @@
 ---
 title: "Jual Cor Beton Readymix Untuk Jalan di Bantar Panjang Tangerang"
 date: "2023-03-05"
+lastmod: "2026-10-07"
 categories: "[jalan]"
 focus_keyphrase: "Beton Readymix di Bantar Panjang Tangerang"
 meta_title: "Jual Beton Readymix di Bantar Panjang Tangerang [Terdekat] - Konstruksi Bangunan"

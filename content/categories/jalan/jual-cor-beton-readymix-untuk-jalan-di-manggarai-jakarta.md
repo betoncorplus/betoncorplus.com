@@ -1,6 +1,7 @@
 ---
 title: "Jual Cor Beton Readymix Untuk Jalan di Manggarai Jakarta"
 date: "2024-01-24"
+lastmod: "2026-10-07"
 categories: "[jalan]"
 focus_keyphrase: "Beton Readymix di Manggarai Jakarta"
 meta_title: "Jual Beton Readymix di Manggarai Jakarta [Terdekat] - Konstruksi Bangunan"

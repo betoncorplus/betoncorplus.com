@@ -1,6 +1,7 @@
 ---
 title: "Jual Cor Beton Readymix Untuk Jalan di Karang Tenga Tangerang"
 date: "2024-06-27"
+lastmod: "2026-10-07"
 categories: "[jalan]"
 focus_keyphrase: "Beton Readymix di Karang Tenga Tangerang"
 meta_title: "Jual Beton Readymix di Karang Tenga Tangerang [Terdekat] - Konstruksi Bangunan"

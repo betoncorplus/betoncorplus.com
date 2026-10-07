@@ -1,6 +1,7 @@
 ---
 title: "Jual Cor Beton Readymix Untuk Jalan di Bakung Tangerang"
 date: "2023-06-21"
+lastmod: "2026-10-07"
 categories: "[jalan]"
 focus_keyphrase: "Beton Readymix di Bakung Tangerang"
 meta_title: "Jual Beton Readymix di Bakung Tangerang [Terdekat] - Konstruksi Bangunan"

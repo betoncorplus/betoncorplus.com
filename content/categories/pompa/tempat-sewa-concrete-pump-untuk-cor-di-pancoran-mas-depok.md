@@ -1,6 +1,7 @@
 ---
 title: "Tempat Sewa Concrete Pump Untuk Cor di Pancoran Mas Depok"
 date: "2023-07-06"
+lastmod: "2026-10-07"
 categories: "[pompa]"
 focus_keyphrase: "Concrete Pump di Pancoran Mas Depok"
 meta_title: "Menyewakan Concrete Pump di Pancoran Mas Depok [Terdekat] - Pompa Cor"

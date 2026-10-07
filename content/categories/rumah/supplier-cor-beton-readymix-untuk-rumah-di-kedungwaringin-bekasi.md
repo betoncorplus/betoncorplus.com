@@ -1,6 +1,7 @@
 ---
 title: "Supplier Cor Beton Readymix Untuk Rumah di Kedungwaringin Bekasi"
 date: "2024-06-22"
+lastmod: "2026-10-07"
 categories: "[rumah]"
 focus_keyphrase: "Beton Readymix di Kedungwaringin Bekasi"
 meta_title: "Jual Beton Readymix di Kedungwaringin Bekasi [Terdekat] - Pengecoran Rumah"

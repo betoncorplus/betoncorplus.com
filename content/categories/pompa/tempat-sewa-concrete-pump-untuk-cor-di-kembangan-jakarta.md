@@ -1,6 +1,7 @@
 ---
 title: "Tempat Sewa Concrete Pump Untuk Cor di Kembangan Jakarta"
 date: "2024-08-24"
+lastmod: "2026-10-07"
 categories: "[pompa]"
 focus_keyphrase: "Concrete Pump di Kembangan Jakarta"
 meta_title: "Menyewakan Concrete Pump di Kembangan Jakarta [Terdekat] - Pompa Cor"

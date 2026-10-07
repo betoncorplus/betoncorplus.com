@@ -1,6 +1,7 @@
 ---
 title: "Tempat Sewa Concrete Pump Untuk Cor di Cisalak Depok"
 date: "2024-04-09"
+lastmod: "2026-10-07"
 categories: "[pompa]"
 focus_keyphrase: "Concrete Pump di Cisalak Depok"
 meta_title: "Menyewakan Concrete Pump di Cisalak Depok [Terdekat] - Pompa Cor"

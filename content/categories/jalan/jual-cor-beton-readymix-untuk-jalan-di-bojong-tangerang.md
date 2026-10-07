@@ -1,6 +1,7 @@
 ---
 title: "Jual Cor Beton Readymix Untuk Jalan di Bojong Tangerang"
 date: "2023-03-12"
+lastmod: "2026-10-07"
 categories: "[jalan]"
 focus_keyphrase: "Beton Readymix di Bojong Tangerang"
 meta_title: "Jual Beton Readymix di Bojong Tangerang [Terdekat] - Konstruksi Bangunan"

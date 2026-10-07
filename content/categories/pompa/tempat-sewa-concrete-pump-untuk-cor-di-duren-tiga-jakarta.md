@@ -1,6 +1,7 @@
 ---
 title: "Tempat Sewa Concrete Pump Untuk Cor di Duren Tiga Jakarta"
 date: "2023-11-29"
+lastmod: "2026-10-07"
 categories: "[pompa]"
 focus_keyphrase: "Concrete Pump di Duren Tiga Jakarta"
 meta_title: "Menyewakan Concrete Pump di Duren Tiga Jakarta [Terdekat] - Pompa Cor"

@@ -1,6 +1,7 @@
 ---
 title: "Tempat Sewa Concrete Pump Untuk Cor di Limo Depok"
 date: "2023-10-10"
+lastmod: "2026-10-07"
 categories: "[pompa]"
 focus_keyphrase: "Concrete Pump di Limo Depok"
 meta_title: "Menyewakan Concrete Pump di Limo Depok [Terdekat] - Pompa Cor"

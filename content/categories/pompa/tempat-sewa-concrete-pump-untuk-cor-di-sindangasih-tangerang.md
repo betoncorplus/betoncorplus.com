@@ -1,6 +1,7 @@
 ---
 title: "Tempat Sewa Concrete Pump Untuk Cor di Sindangasih Tangerang"
 date: "2023-03-05"
+lastmod: "2026-10-07"
 categories: "[pompa]"
 focus_keyphrase: "Concrete Pump di Sindangasih Tangerang"
 meta_title: "Menyewakan Concrete Pump di Sindangasih Tangerang [Terdekat] - Pompa Cor"

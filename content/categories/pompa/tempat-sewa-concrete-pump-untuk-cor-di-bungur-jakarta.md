@@ -1,6 +1,7 @@
 ---
 title: "Tempat Sewa Concrete Pump Untuk Cor di Bungur Jakarta"
 date: "2023-11-13"
+lastmod: "2026-10-07"
 categories: "[pompa]"
 focus_keyphrase: "Concrete Pump di Bungur Jakarta"
 meta_title: "Menyewakan Concrete Pump di Bungur Jakarta [Terdekat] - Pompa Cor"

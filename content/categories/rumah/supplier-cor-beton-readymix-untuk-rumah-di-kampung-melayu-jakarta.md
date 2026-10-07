@@ -1,6 +1,7 @@
 ---
 title: "Supplier Cor Beton Readymix Untuk Rumah di Kampung Melayu Jakarta"
 date: "2024-05-31"
+lastmod: "2026-10-07"
 categories: "[rumah]"
 focus_keyphrase: "Beton Readymix di Kampung Melayu Jakarta"
 meta_title: "Jual Beton Readymix di Kampung Melayu Jakarta [Terdekat] - Pengecoran Rumah"

@@ -1,6 +1,7 @@
 ---
 title: "Tempat Sewa Concrete Pump Untuk Cor di Cukanggalih Tangerang"
 date: "2023-10-17"
+lastmod: "2026-10-07"
 categories: "[pompa]"
 focus_keyphrase: "Concrete Pump di Cukanggalih Tangerang"
 meta_title: "Menyewakan Concrete Pump di Cukanggalih Tangerang [Terdekat] - Pompa Cor"

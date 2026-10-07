@@ -1,6 +1,7 @@
 ---
 title: "Supplier Cor Beton Readymix Untuk Rumah di Pangkat Tangerang"
 date: "2024-03-05"
+lastmod: "2026-10-07"
 categories: "[rumah]"
 focus_keyphrase: "Beton Readymix di Pangkat Tangerang"
 meta_title: "Jual Beton Readymix di Pangkat Tangerang [Terdekat] - Pengecoran Rumah"

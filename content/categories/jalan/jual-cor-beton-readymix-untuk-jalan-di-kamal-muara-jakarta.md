@@ -1,6 +1,7 @@
 ---
 title: "Jual Cor Beton Readymix Untuk Jalan di Kamal Muara Jakarta"
 date: "2024-02-23"
+lastmod: "2026-10-07"
 categories: "[jalan]"
 focus_keyphrase: "Beton Readymix di Kamal Muara Jakarta"
 meta_title: "Jual Beton Readymix di Kamal Muara Jakarta [Terdekat] - Konstruksi Bangunan"

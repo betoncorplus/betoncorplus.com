@@ -1,6 +1,7 @@
 ---
 title: "Tempat Sewa Concrete Pump Untuk Cor di Pematang Tangerang"
 date: "2024-03-13"
+lastmod: "2026-10-07"
 categories: "[pompa]"
 focus_keyphrase: "Concrete Pump di Pematang Tangerang"
 meta_title: "Menyewakan Concrete Pump di Pematang Tangerang [Terdekat] - Pompa Cor"

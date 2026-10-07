@@ -1,6 +1,7 @@
 ---
 title: "Tempat Sewa Concrete Pump Untuk Cor di Jatisampurna Bekasi"
 date: "2023-12-05"
+lastmod: "2026-10-07"
 categories: "[pompa]"
 focus_keyphrase: "Concrete Pump di Jatisampurna Bekasi"
 meta_title: "Menyewakan Concrete Pump di Jatisampurna Bekasi [Terdekat] - Pompa Cor"

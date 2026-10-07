@@ -1,6 +1,7 @@
 ---
 title: "Tempat Sewa Concrete Pump Untuk Cor di Pasir Gintung Tangerang"
 date: "2024-05-28"
+lastmod: "2026-10-07"
 categories: "[pompa]"
 focus_keyphrase: "Concrete Pump di Pasir Gintung Tangerang"
 meta_title: "Menyewakan Concrete Pump di Pasir Gintung Tangerang [Terdekat] - Pompa Cor"

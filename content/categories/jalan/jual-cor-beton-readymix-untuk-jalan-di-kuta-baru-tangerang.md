@@ -1,6 +1,7 @@
 ---
 title: "Jual Cor Beton Readymix Untuk Jalan di Kuta Baru Tangerang"
 date: "2024-02-02"
+lastmod: "2026-10-07"
 categories: "[jalan]"
 focus_keyphrase: "Beton Readymix di Kuta Baru Tangerang"
 meta_title: "Jual Beton Readymix di Kuta Baru Tangerang [Terdekat] - Konstruksi Bangunan"

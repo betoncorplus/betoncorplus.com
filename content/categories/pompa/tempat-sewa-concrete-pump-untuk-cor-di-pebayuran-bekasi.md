@@ -1,6 +1,7 @@
 ---
 title: "Tempat Sewa Concrete Pump Untuk Cor di Pebayuran Bekasi"
 date: "2023-10-20"
+lastmod: "2026-10-07"
 categories: "[pompa]"
 focus_keyphrase: "Concrete Pump di Pebayuran Bekasi"
 meta_title: "Menyewakan Concrete Pump di Pebayuran Bekasi [Terdekat] - Pompa Cor"

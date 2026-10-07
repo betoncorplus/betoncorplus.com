@@ -1,6 +1,7 @@
 ---
 title: "Tempat Sewa Concrete Pump Untuk Cor di Karet Tangerang"
 date: "2023-03-09"
+lastmod: "2026-10-07"
 categories: "[pompa]"
 focus_keyphrase: "Concrete Pump di Karet Tangerang"
 meta_title: "Menyewakan Concrete Pump di Karet Tangerang [Terdekat] - Pompa Cor"

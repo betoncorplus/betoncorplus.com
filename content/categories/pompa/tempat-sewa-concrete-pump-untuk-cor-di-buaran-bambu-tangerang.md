@@ -1,6 +1,7 @@
 ---
 title: "Tempat Sewa Concrete Pump Untuk Cor di Buaran Bambu Tangerang"
 date: "2023-05-05"
+lastmod: "2026-10-07"
 categories: "[pompa]"
 focus_keyphrase: "Concrete Pump di Buaran Bambu Tangerang"
 meta_title: "Menyewakan Concrete Pump di Buaran Bambu Tangerang [Terdekat] - Pompa Cor"

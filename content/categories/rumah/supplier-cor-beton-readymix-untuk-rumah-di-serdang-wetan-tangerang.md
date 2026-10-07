@@ -1,6 +1,7 @@
 ---
 title: "Supplier Cor Beton Readymix Untuk Rumah di Serdang Wetan Tangerang"
 date: "2024-02-19"
+lastmod: "2026-10-07"
 categories: "[rumah]"
 focus_keyphrase: "Beton Readymix di Serdang Wetan Tangerang"
 meta_title: "Jual Beton Readymix di Serdang Wetan Tangerang [Terdekat] - Pengecoran Rumah"

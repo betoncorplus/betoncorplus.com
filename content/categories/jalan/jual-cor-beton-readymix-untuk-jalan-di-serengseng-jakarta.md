@@ -1,6 +1,7 @@
 ---
 title: "Jual Cor Beton Readymix Untuk Jalan di Serengseng Jakarta"
 date: "2024-09-28"
+lastmod: "2026-10-07"
 categories: "[jalan]"
 focus_keyphrase: "Beton Readymix di Serengseng Jakarta"
 meta_title: "Jual Beton Readymix di Serengseng Jakarta [Terdekat] - Konstruksi Bangunan"

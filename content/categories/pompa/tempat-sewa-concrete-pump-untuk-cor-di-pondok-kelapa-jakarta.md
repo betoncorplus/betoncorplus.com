@@ -1,6 +1,7 @@
 ---
 title: "Tempat Sewa Concrete Pump Untuk Cor di Pondok Kelapa Jakarta"
 date: "2023-07-05"
+lastmod: "2026-10-07"
 categories: "[pompa]"
 focus_keyphrase: "Concrete Pump di Pondok Kelapa Jakarta"
 meta_title: "Menyewakan Concrete Pump di Pondok Kelapa Jakarta [Terdekat] - Pompa Cor"

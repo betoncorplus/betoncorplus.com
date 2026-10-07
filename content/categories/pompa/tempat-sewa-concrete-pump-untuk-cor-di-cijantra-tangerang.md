@@ -1,6 +1,7 @@
 ---
 title: "Tempat Sewa Concrete Pump Untuk Cor di Cijantra Tangerang"
 date: "2023-09-07"
+lastmod: "2026-10-07"
 categories: "[pompa]"
 focus_keyphrase: "Concrete Pump di Cijantra Tangerang"
 meta_title: "Menyewakan Concrete Pump di Cijantra Tangerang [Terdekat] - Pompa Cor"

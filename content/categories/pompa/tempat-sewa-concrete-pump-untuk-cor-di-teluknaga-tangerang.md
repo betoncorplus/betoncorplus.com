@@ -1,6 +1,7 @@
 ---
 title: "Tempat Sewa Concrete Pump Untuk Cor di Teluknaga Tangerang"
 date: "2024-05-09"
+lastmod: "2026-10-07"
 categories: "[pompa]"
 focus_keyphrase: "Concrete Pump di Teluknaga Tangerang"
 meta_title: "Menyewakan Concrete Pump di Teluknaga Tangerang [Terdekat] - Pompa Cor"

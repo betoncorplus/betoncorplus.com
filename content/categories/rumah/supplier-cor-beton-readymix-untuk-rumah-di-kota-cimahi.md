@@ -1,6 +1,7 @@
 ---
 title: "Supplier Cor Beton Readymix Untuk Rumah di Kota Cimahi"
 date: "2023-06-10"
+lastmod: "2026-10-07"
 categories: "[rumah]"
 focus_keyphrase: "Beton Readymix di Kota Cimahi"
 meta_title: "Jual Beton Readymix di Kota Cimahi [Terdekat] - Pengecoran Rumah"

@@ -1,6 +1,7 @@
 ---
 title: "Tempat Sewa Concrete Pump Untuk Cor di Salembaran Jaya Tangerang"
 date: "2023-05-16"
+lastmod: "2026-10-07"
 categories: "[pompa]"
 focus_keyphrase: "Concrete Pump di Salembaran Jaya Tangerang"
 meta_title: "Menyewakan Concrete Pump di Salembaran Jaya Tangerang [Terdekat] - Pompa Cor"

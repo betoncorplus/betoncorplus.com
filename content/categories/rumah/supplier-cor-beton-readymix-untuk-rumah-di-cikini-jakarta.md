@@ -1,6 +1,7 @@
 ---
 title: "Supplier Cor Beton Readymix Untuk Rumah di Cikini Jakarta"
 date: "2023-10-07"
+lastmod: "2026-10-07"
 categories: "[rumah]"
 focus_keyphrase: "Beton Readymix di Cikini Jakarta"
 meta_title: "Jual Beton Readymix di Cikini Jakarta [Terdekat] - Pengecoran Rumah"

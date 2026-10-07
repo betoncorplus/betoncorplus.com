@@ -1,6 +1,7 @@
 ---
 title: "Tempat Sewa Concrete Pump Untuk Cor di Bintaro Jakarta"
 date: "2023-12-17"
+lastmod: "2026-10-07"
 categories: "[pompa]"
 focus_keyphrase: "Concrete Pump di Bintaro Jakarta"
 meta_title: "Menyewakan Concrete Pump di Bintaro Jakarta [Terdekat] - Pompa Cor"

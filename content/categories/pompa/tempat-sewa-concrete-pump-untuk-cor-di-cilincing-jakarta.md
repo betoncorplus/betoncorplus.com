@@ -1,6 +1,7 @@
 ---
 title: "Tempat Sewa Concrete Pump Untuk Cor di Cilincing Jakarta"
 date: "2023-05-18"
+lastmod: "2026-10-07"
 categories: "[pompa]"
 focus_keyphrase: "Concrete Pump di Cilincing Jakarta"
 meta_title: "Menyewakan Concrete Pump di Cilincing Jakarta [Terdekat] - Pompa Cor"

@@ -1,6 +1,7 @@
 ---
 title: "Tempat Sewa Concrete Pump Untuk Cor di Kuta Baru Tangerang"
 date: "2024-07-20"
+lastmod: "2026-10-07"
 categories: "[pompa]"
 focus_keyphrase: "Concrete Pump di Kuta Baru Tangerang"
 meta_title: "Menyewakan Concrete Pump di Kuta Baru Tangerang [Terdekat] - Pompa Cor"

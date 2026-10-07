@@ -1,6 +1,7 @@
 ---
 title: "Tempat Sewa Concrete Pump Untuk Cor di Sasak Tangerang"
 date: "2024-01-02"
+lastmod: "2026-10-07"
 categories: "[pompa]"
 focus_keyphrase: "Concrete Pump di Sasak Tangerang"
 meta_title: "Menyewakan Concrete Pump di Sasak Tangerang [Terdekat] - Pompa Cor"

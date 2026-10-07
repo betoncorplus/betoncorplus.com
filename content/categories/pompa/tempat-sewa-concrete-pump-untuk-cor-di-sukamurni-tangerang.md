@@ -1,6 +1,7 @@
 ---
 title: "Tempat Sewa Concrete Pump Untuk Cor di Sukamurni Tangerang"
 date: "2023-07-27"
+lastmod: "2026-10-07"
 categories: "[pompa]"
 focus_keyphrase: "Concrete Pump di Sukamurni Tangerang"
 meta_title: "Menyewakan Concrete Pump di Sukamurni Tangerang [Terdekat] - Pompa Cor"

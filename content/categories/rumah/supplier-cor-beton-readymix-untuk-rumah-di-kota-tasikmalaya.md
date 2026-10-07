@@ -1,6 +1,7 @@
 ---
 title: "Supplier Cor Beton Readymix Untuk Rumah di Kota Tasikmalaya"
 date: "2024-02-13"
+lastmod: "2026-10-07"
 categories: "[rumah]"
 focus_keyphrase: "Beton Readymix di Kota Tasikmalaya"
 meta_title: "Jual Beton Readymix di Kota Tasikmalaya [Terdekat] - Pengecoran Rumah"
