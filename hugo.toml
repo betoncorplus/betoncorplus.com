@@ -204,6 +204,12 @@ paginate = "10"
     endLevel = 5
     ordered = false
 
+  # Required by tools/lib/safe-table.js: AI-generated tables are rendered as raw HTML
+  # (<table class="table">), which Hugo only keeps when unsafe = true.
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 [[params.tabelItems]]
 name = "K225"
 price = "850.000 - 880.000"
