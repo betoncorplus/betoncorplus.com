@@ -22,6 +22,8 @@ concurrency:
 
 permissions:
   contents: write
+  # Lets the last step ask GitHub Pages for a fresh build (ignored if the site isn't on Pages).
+  pages: write
 
 jobs:
   deploy:
@@ -67,7 +69,11 @@ jobs:
             echo "ℹ️  public/ unchanged — nothing to commit."
             exit 0
           fi
-          git commit -m "Build site [skip ci]"
+          # NOTE: no "[skip ci]" here on purpose. Hosts such as GitHub Pages / Cloudflare Pages /
+          # Netlify honour that tag and would SKIP publishing this very commit — which is the
+          # commit that carries the new public/ files, so new articles never went live.
+          # Loop safety comes from `paths-ignore: public/**` on the push trigger instead.
+          git commit -m "Build site"
           for i in 1 2 3 4 5; do
             if git push origin master; then
               echo "✅ Push succeeded (attempt $i)."
@@ -83,3 +89,13 @@ jobs:
             git fetch origin master
             git rebase -X theirs origin/master
           done
+      # Pushes made with GITHUB_TOKEN do not start GitHub Pages' own "build from branch" run, so
+      # ask for it explicitly. Harmless (just logs) when the site is hosted elsewhere
+      # (Cloudflare Pages, Netlify, ...) or Pages isn't set to "Deploy from a branch".
+      - name: Request GitHub Pages build
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh api -X POST "repos/${{ github.repository }}/pages/builds" \
+            && echo "🌐 Pages build requested." \
+            || echo "ℹ️  Pages build request skipped (site likely not on 'Deploy from a branch')."

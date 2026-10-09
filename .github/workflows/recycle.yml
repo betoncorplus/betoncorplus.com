@@ -62,7 +62,7 @@ jobs:
             exit 0
           fi
 
-          git commit -m "Recycle posts and rebuild [skip ci]"
+          git commit -m "Recycle posts and rebuild"
 
           for i in 1 2 3 4 5; do
             if git push origin master; then
