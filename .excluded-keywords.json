@@ -40,5 +40,40 @@
     "matchedTitle": "Jual Cor Beton Readymix Untuk Jalan di Bantar Panjang Tangerang",
     "taggedAt": "2026-10-08T12:50:47.195Z",
     "algoVersion": 2
+  },
+  "harga beton readymix": {
+    "reason": "similar to existing article",
+    "matchedFile": "jual-cor-beton-readymix-untuk-jalan-di-kota-cimahi.md",
+    "matchedTitle": "Jual Cor Beton Readymix Untuk Jalan di Kota Cimahi",
+    "taggedAt": "2026-10-09T12:36:19.955Z",
+    "algoVersion": 2
+  },
+  "sewa concrete pump": {
+    "reason": "similar to existing article",
+    "matchedFile": "tempat-sewa-concrete-pump-untuk-cor-di-kota-banjar.md",
+    "matchedTitle": "Tempat Sewa Concrete Pump Untuk Cor di Kota Banjar",
+    "taggedAt": "2026-10-09T12:36:20.017Z",
+    "algoVersion": 2
+  },
+  "sewa concrete pump terdekat": {
+    "reason": "similar to existing article",
+    "matchedFile": "tempat-sewa-concrete-pump-untuk-cor-di-kota-banjar.md",
+    "matchedTitle": "Tempat Sewa Concrete Pump Untuk Cor di Kota Banjar",
+    "taggedAt": "2026-10-09T12:36:20.019Z",
+    "algoVersion": 2
+  },
+  "sewa concrete pump jakarta": {
+    "reason": "similar to existing article",
+    "matchedFile": "tempat-sewa-concrete-pump-untuk-cor-di-angke-jakarta.md",
+    "matchedTitle": "Tempat Sewa Concrete Pump Untuk Cor di Angke Jakarta",
+    "taggedAt": "2026-10-09T12:36:20.033Z",
+    "algoVersion": 2
+  },
+  "sewa concrete pump medan": {
+    "reason": "similar to existing article",
+    "matchedFile": "tempat-sewa-concrete-pump-untuk-cor-di-medan-satria-bekasi.md",
+    "matchedTitle": "Tempat Sewa Concrete Pump Untuk Cor di Medan Satria Bekasi",
+    "taggedAt": "2026-10-09T12:36:20.047Z",
+    "algoVersion": 2
   }
 }
