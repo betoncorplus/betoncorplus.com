@@ -1,7 +1,7 @@
 ---
 title: "Cor Lantai 2 Bertahap: Panduan Teknis dan Keunggulan Penggunaan Beton Readymix"
 date: "2026-10-08"
-categories: "[rumah]"
+categories: "[blog]"
 focus_keyphrase: "cor lantai 2 bertahap"
 meta_title: "Cor Lantai 2 Bertahap: Panduan Teknis dan Keunggulan Penggunaan Beton Readymix - BetonCorPlus"
 meta_description: "Cor lantai 2 bertahap merupakan solusi efisien untuk konstruksi bangunan. Pelajari panduan teknis, keuntungan, dan rekomendasi mutu beton readymix dari BetonCorPlus."

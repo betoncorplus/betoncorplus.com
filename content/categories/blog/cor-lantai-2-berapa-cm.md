@@ -1,7 +1,7 @@
 ---
 title: "Cor Lantai 2 Berapa Cm? Ketebalan Ideal & Pertimbangan Teknis"
 date: "2026-10-08"
-categories: "[rumah]"
+categories: "[blog]"
 focus_keyphrase: "cor lantai 2 berapa cm"
 meta_title: "Cor Lantai 2 Berapa Cm? Ketebalan Ideal & Pertimbangan Teknis - BetonCorPlus"
 meta_description: "Cor lantai 2 berapa cm idealnya? Pelajari ketebalan minimal, standar SNI, dan faktor penting lainnya untuk pengecoran lantai dua yang kuat dan aman."

@@ -3,7 +3,7 @@ languageCode = "id"
 title = "BetonCorPlus.com | Solusi Beton Readymix Premium untuk Proyek Pengecoran Berkualitas"
 theme = "hugo-bangunan"
 summaryLength = "35"
-paginate = "10"
+paginate = "12"
 
 [permalinks]
     proyek = ":slug"
@@ -176,27 +176,32 @@ paginate = "10"
 [[menu.main]]
     name = "Cor Jalan"
     url = "/categories/jalan/"
-    weight = 5
+    weight = 2
 
 [[menu.main]]
     name = "Cor Rumah"
     url = "/categories/rumah/"
-    weight = 5
+    weight = 3
 
 [[menu.main]]
     name = "Pompa Cor"
     url = "/categories/pompa/"
+    weight = 4
+
+[[menu.main]]
+    name = "Blog"
+    url = "/categories/blog/"
     weight = 5
 
 [[menu.main]]
     name = "Promo"
     url = "/promo/"
-    weight = 5
+    weight = 6
 
 [[menu.main]]
     name = "Profile"
     url = "/profile/"
-    weight = 5
+    weight = 7
 
 [markup]
   [markup.tableOfContents]

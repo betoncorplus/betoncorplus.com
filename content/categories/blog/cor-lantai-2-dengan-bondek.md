@@ -1,7 +1,7 @@
 ---
 title: "Cor Lantai 2 dengan Bondek: Panduan Lengkap, Kelebihan, dan Estimasi Biaya"
 date: "2026-10-08"
-categories: "[rumah]"
+categories: "[blog]"
 focus_keyphrase: "cor lantai 2 dengan bondek"
 meta_title: "Cor Lantai 2 dengan Bondek: Panduan Lengkap, Kelebihan, dan Estimasi Biaya - BetonCorPlus"
 meta_description: "Cor lantai 2 dengan bondek menawarkan solusi konstruksi cepat dan efisien. Pelajari kelebihan, proses pemasangan, dan estimasi biaya dari BetonCorPlus."

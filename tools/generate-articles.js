@@ -139,10 +139,11 @@ const CONFIG = {
   SERPER_AUTO_SEED_COUNT   : 3, // how many top-impression GSC keywords to use as seeds (primary source)
 
 
-  // BetonCorPlus keeps ALL articles under content/categories/<jalan|rumah|pompa>/ (the three
-  // sections linked from the main menu). CONTENT_DIR is the parent of those three folders and
-  // is used for slug-duplicate / similarity checks across every category; each new article is
-  // saved into content/categories/<detected category>/ (see detectArticleCategory() below).
+  // BetonCorPlus keeps its articles under content/categories/<folder>/. The hand-made location
+  // pages live in jalan / rumah / pompa; everything this script generates goes to ONE folder,
+  // ARTICLE_FOLDER (= content/categories/blog/, linked as "Blog" in the main menu).
+  // CONTENT_DIR is the parent of all those folders and is used for slug-duplicate / similarity
+  // checks across every category.
   CONTENT_DIR     : path.join(__dirname, '..', 'content', 'categories'),
   // Full content/ root, used ONLY for building the internal-link candidate index below.
   CONTENT_ROOT_DIR: path.join(__dirname, '..', 'content'),
@@ -181,14 +182,8 @@ const CONFIG = {
   SITE_URL        : 'https://betoncorplus.com/',
   SITE_TITLE      : 'BetonCorPlus.com | Solusi Beton Readymix Premium untuk Proyek Pengecoran Berkualitas',
 
-  // Category folders under content/categories/ and the keyword patterns that route a new
-  // keyword to each. First match wins; DEFAULT_CATEGORY is used when nothing matches.
-  CATEGORY_RULES  : [
-    { folder: 'pompa', pattern: /pompa|pump|boom|sewa alat/i },
-    { folder: 'jalan', pattern: /jalan|aspal|trotoar|paving|perkerasan|rigid|lingkungan|gang|parkir|lapangan|jembatan/i },
-    { folder: 'rumah', pattern: /rumah|pondasi|lantai|sloof|kolom|dak|ruko|gedung|bangunan|cakar ayam|bore ?pile/i },
-  ],
-  DEFAULT_CATEGORY: 'rumah',
+  // Folder (under content/categories/) that receives every generated article.
+  ARTICLE_FOLDER  : 'blog',
 
   // Dummy keywords for dry-run
   DRY_RUN_KEYWORDS: [
@@ -1033,13 +1028,10 @@ async function generateAIImage(keyword, slug) {
   return `${CONFIG.BLOG_IMAGES_URL}/${fileName}`;
 }
 
-// Routes a keyword to one of the three article folders (jalan / rumah / pompa) using
-// CONFIG.CATEGORY_RULES — first match wins, otherwise CONFIG.DEFAULT_CATEGORY.
-function detectArticleCategory(keyword) {
-  for (const rule of CONFIG.CATEGORY_RULES) {
-    if (rule.pattern.test(keyword)) return rule.folder;
-  }
-  return CONFIG.DEFAULT_CATEGORY;
+// Every generated article goes to the same folder (CONFIG.ARTICLE_FOLDER = "blog"). Kept as a
+// function so the folder/`categories:` value stays defined in exactly one place.
+function detectArticleCategory() {
+  return CONFIG.ARTICLE_FOLDER;
 }
 
 // Style-variation banks — text lives in prompts/generate-articles.json, see PROMPTS above.
@@ -1210,7 +1202,7 @@ function parseAndSave(raw, keyword, slug, imagePath, relatedCandidates = []) {
     // land literal asterisks in the YAML title (breaks <title>, meta tags, breadcrumbs).
     if (t.startsWith('JUDUL:'))        { title = t.replace('JUDUL:', '').replace(/\*\*/g, '').replace(/^#+\s*/, '').trim(); continue; }
     if (t.startsWith('DESCRIPTION:'))  { desc  = t.replace('DESCRIPTION:', '').trim(); continue; }
-    if (t.startsWith('CATEGORIES:'))   { /* ignored — folder is chosen by detectArticleCategory() */ continue; }
+    if (t.startsWith('CATEGORIES:'))   { /* ignored — folder is always CONFIG.ARTICLE_FOLDER */ continue; }
     if (t.startsWith('TAGS:'))         { tags  = t.replace('TAGS:', '').trim().split(',').map(t => t.trim()); continue; }
     if (t === 'ARTIKEL_MULAI')         { inBody = true; continue; }
     if (inBody) body += line + '\n';
@@ -1242,7 +1234,7 @@ function parseAndSave(raw, keyword, slug, imagePath, relatedCandidates = []) {
   body = enforceInternalLinks(body, relatedCandidates.map(c => c.url), 2);
 
   const today    = new Date().toISOString().split('T')[0];
-  const category = detectArticleCategory(keyword);
+  const category = detectArticleCategory();
   const safeTitle = yamlEscape(title);
   const safeDesc  = yamlEscape(desc);
   const safeKw    = yamlEscape(keyword);
@@ -1579,12 +1571,12 @@ async function main() {
     const slug = toSlug(item.keyword);
     console.log(`\n[${toProcess.indexOf(item) + 1}/${toProcess.length}] "${item.keyword}"`);
     console.log(`   📊 Impressions: ${item.impressions} | Position: ${item.position.toFixed(1)} | CTR: ${(item.ctr*100).toFixed(1)}%`);
-    console.log(`   🔑 Slug: ${slug} | Folder: categories/${detectArticleCategory(item.keyword)}`);
+    console.log(`   🔑 Slug: ${slug} | Folder: categories/${detectArticleCategory()}`);
 
     try {
       const categoryHint = guessCategoryHint(item.keyword, knownCategories);
       const relatedCandidates = findRelatedCandidates(
-        { text: item.keyword, excludeUrl: `/categories/${detectArticleCategory(item.keyword)}/${slug}/`, categoryHint },
+        { text: item.keyword, excludeUrl: `/categories/${detectArticleCategory()}/${slug}/`, categoryHint },
         articleIndex,
         { max: 6 }
       );

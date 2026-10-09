@@ -1,0 +1,23 @@
+{{/* Card used by archive pages and "Artikel Terkait". Usage: partial "post-card.html" (dict "page" . "label" "Selengkapnya") */}}
+{{ $p := .page }}
+{{ $label := .label | default "Selengkapnya" }}
+{{ $img := "/images/readymix.png" }}
+{{ if $p.Params.featured_image }}
+  {{ $img = $p.Params.featured_image }}
+{{ else }}
+  {{ $m := findRESubmatch `<img[^>]+src=["']([^"']+)["']` $p.Content 1 }}
+  {{ if $m }}{{ $img = index (index $m 0) 1 }}{{ end }}
+{{ end }}
+{{ $excerpt := or $p.Params.description $p.Params.meta_description }}
+{{ if not $excerpt }}{{ $excerpt = $p.Summary | plainify | truncate 160 }}{{ end }}
+<article class="post-card">
+  <a class="post-card-img" href="{{ $p.Permalink }}" tabindex="-1" aria-hidden="true">
+    <img src="{{ $img }}" alt="{{ $p.Title }}" loading="lazy">
+  </a>
+  <div class="post-card-body">
+    <time class="post-card-date" datetime="{{ $p.Date.Format "2006-01-02" }}">{{ $p.Date.Format "2 January 2006" }}</time>
+    <h3 class="post-card-title"><a href="{{ $p.Permalink }}">{{ $p.Title }}</a></h3>
+    <p class="post-card-excerpt">{{ $excerpt }}</p>
+    <a class="post-card-btn" href="{{ $p.Permalink }}">{{ $label }}</a>
+  </div>
+</article>
