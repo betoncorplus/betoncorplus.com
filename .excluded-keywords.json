@@ -180,5 +180,12 @@
     "matchedTitle": "Harga Beton Ready Mix K300 per M3: Panduan Lengkap dan Estimasi Biaya 2026",
     "taggedAt": "2026-10-10T11:56:31.677Z",
     "algoVersion": 2
+  },
+  "ready mix k225": {
+    "reason": "similar to existing article",
+    "matchedFile": "ready-mix-k225-harga.md",
+    "matchedTitle": "Ready Mix K225 Harga – Panduan Memilih dan Memperkirakan Biaya Pengecoran",
+    "taggedAt": "2026-10-11T12:08:33.952Z",
+    "algoVersion": 2
   }
 }
