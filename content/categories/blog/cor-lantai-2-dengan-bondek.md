@@ -1,7 +1,7 @@
 ---
 title: "Cor Lantai 2 dengan Bondek: Panduan Lengkap, Kelebihan, dan Estimasi Biaya"
 date: "2026-10-08"
-lastmod: "2026-10-09"
+lastmod: "2026-10-14"
 categories: "[blog]"
 focus_keyphrase: "cor lantai 2 dengan bondek"
 meta_title: "Cor Lantai 2 dengan Bondek: Panduan Lengkap, Kelebihan, dan Estimasi Biaya - BetonCorPlus"
@@ -47,4 +47,4 @@ Memilih mutu beton yang tepat adalah kunci untuk memastikan kekuatan dan keberla
 
 Selain memilih mutu beton yang tepat, penggunaan jasa pengecoran profesional sangat direkomendasikan. BetonCorPlus dengan bangga menyediakan layanan pengecoran lantai 2 dengan bondek yang dikerjakan oleh tenaga ahli berpengalaman. Kami juga menawarkan solusi penyewaan *concrete pump* yang mempermudah proses pemompaan beton ke area pengecoran, terutama untuk bangunan yang memiliki akses terbatas. Dengan mempercayakan proyek Anda kepada Kami, Anda dapat yakin akan hasil pengecoran yang lancar dan lantai yang kokoh tahan lama.
 
-Jika ada pertanyaan lebih lanjut mengenai metode dan material yang sesuai untuk proyek Anda di (not detected), jangan ragu untuk menghubungi Kami melalui tombol **Telepon** ataupun **WhatsApp** yang tersedia di halaman ini. [Cor Lantai 2 Berapa Cm? Ketebalan Ideal & Pertimbangan Teknis](URL_ARTIKEL_1) perihal ketebalan cor lantai dapat menjadi referensi tambahan Anda. [Jual Cor Beton Readymix Untuk Jalan di Abadijaya Depok](URL_ARTIKEL_5) juga memberikan gambaran lebih jelas tentang komitmen kami terhadap kualitas dan pelayanan di wilayah (not detected).
+Jika ada pertanyaan lebih lanjut mengenai metode dan material yang sesuai untuk proyek Anda di (not detected), jangan ragu untuk menghubungi Kami melalui tombol **Telepon** ataupun **WhatsApp** yang tersedia di halaman ini. [Penyebab retakan pada cor lantai 2](/categories/blog/cor-lantai-2-retak/) dan solusinya perlu Anda ketahui untuk mencegah kerusakan lebih lanjut. [Alternatif bekisting lain seperti triplek](/categories/blog/cor-lantai-2-dengan-triplek/) juga bisa menjadi pertimbangan. [Cor Lantai 2 Berapa Cm? Ketebalan Ideal & Pertimbangan Teknis](URL_ARTIKEL_1) perihal ketebalan cor lantai dapat menjadi referensi tambahan Anda. [Jual Cor Beton Readymix Untuk Jalan di Abadijaya Depok](URL_ARTIKEL_5) juga memberikan gambaran lebih jelas tentang komitmen kami terhadap kualitas dan pelayanan di wilayah (not detected).

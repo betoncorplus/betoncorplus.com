@@ -1,7 +1,7 @@
 ---
 title: "Cor Lantai 2 Bertahap: Panduan Teknis dan Keunggulan Penggunaan Beton Readymix"
 date: "2026-10-08"
-lastmod: "2026-10-09"
+lastmod: "2026-10-14"
 categories: "[blog]"
 focus_keyphrase: "cor lantai 2 bertahap"
 meta_title: "Cor Lantai 2 Bertahap: Panduan Teknis dan Keunggulan Penggunaan Beton Readymix - BetonCorPlus"
@@ -36,7 +36,7 @@ Proses cor lantai 2 bertahap membutuhkan perencanaan dan eksekusi yang cermat. P
 
 Memilih mutu beton readymix yang sesuai sangat penting untuk menjamin kekuatan dan umur panjang struktur lantai 2 Anda. Untuk proyek rumah tinggal di (not detected), Kami dari BetonCorPlus merekomendasikan penggunaan beton mutu K-250 hingga K-300. K-250 menawarkan kekuatan tekan karakteristik 25 MPa, sementara K-300 memberikan kekuatan 30 MPa.
 
-Sebagai referensi, berikut adalah tabel yang merangkum mutu beton readymix yang sering digunakan:
+Sebagai referensi, berikut adalah tabel yang merangkum mutu beton readymix yang sering digunakan: [pelajari lebih lanjut tentang mutu beton K225](/categories/blog/harga-beton-readymix-k225/)
 
 <table class="table">
   <caption>Perbandingan Mutu Beton Readymix</caption>
