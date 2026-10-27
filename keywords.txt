@@ -12,10 +12,7 @@ cor jalan harga
 cor jalan kering berapa lama
 cor jalan k berapa
 cor jalan kampung
-cor jalan lingkungan
 cor jalan masuk rumah
-cor jalan per meter
-cor jalan pakai bambu
 cor jalan pakai k berapa
 cor jalan pakai wiremesh
 cor jalan pakai apa
