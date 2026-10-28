@@ -20,11 +20,8 @@ cor jalan pakai besi
 cor jalan rigid
 cor jalan raya
 cor jalan rumah
-cor jalan setapak
-cor jalan saat hujan
 cor jalan tanjakan
 cor jalan tanpa wiremesh
-cor jalan wiremesh
 cor jalan yang panjang
 cor jalan manual
 cor rumah tingkat

@@ -628,5 +628,33 @@
     "matchedTitle": "Cor Jalan Kering Berapa Lama? Panduan Waktu Pengeringan & Faktor yang Mempengaruhi",
     "taggedAt": "2026-10-27T11:37:50.727Z",
     "algoVersion": 2
+  },
+  "cor jalan pakai wiremesh": {
+    "reason": "similar to existing article",
+    "matchedFile": "cor-jalan-pakai-bambu.md",
+    "matchedTitle": "Cor Jalan Pakai Bambu: Efektivitas, Batasan, dan Alternatif Terbaik",
+    "taggedAt": "2026-10-28T12:09:38.926Z",
+    "algoVersion": 2
+  },
+  "cor jalan pakai apa": {
+    "reason": "similar to existing article",
+    "matchedFile": "cor-jalan-pakai-bambu.md",
+    "matchedTitle": "Cor Jalan Pakai Bambu: Efektivitas, Batasan, dan Alternatif Terbaik",
+    "taggedAt": "2026-10-28T12:09:38.926Z",
+    "algoVersion": 2
+  },
+  "biaya cor bangunan per meter": {
+    "reason": "similar to existing article",
+    "matchedFile": "cor-jalan-per-meter.md",
+    "matchedTitle": "Cor Jalan Per Meter: Harga, Mutu Beton, dan Tips Pengecoran Efisien",
+    "taggedAt": "2026-10-28T12:09:38.968Z",
+    "algoVersion": 2
+  },
+  "harga cor bangunan per meter": {
+    "reason": "similar to existing article",
+    "matchedFile": "cor-jalan-per-meter.md",
+    "matchedTitle": "Cor Jalan Per Meter: Harga, Mutu Beton, dan Tips Pengecoran Efisien",
+    "taggedAt": "2026-10-28T12:09:39.223Z",
+    "algoVersion": 2
   }
 }
