@@ -1,7 +1,7 @@
 ---
 title: "Cor Jalan Desa: Panduan Lengkap Mutu Beton, Biaya, dan Pelaksanaan"
 date: "2026-10-15"
-lastmod: "2026-10-16"
+lastmod: "2026-10-28"
 categories: "[blog]"
 focus_keyphrase: "cor jalan desa"
 meta_title: "Cor Jalan Desa: Panduan Lengkap Mutu Beton, Biaya, dan Pelaksanaan - BetonCorPlus"
@@ -42,7 +42,7 @@ Biaya pengecoran jalan desa sangat bervariasi dan dipengaruhi oleh beberapa fakt
 *   **Upah Tenaga Kerja:** Biaya tukang dan pekerja juga merupakan komponen penting dalam perhitungan biaya.
 *   **Biaya Tambahan:** Biaya cetakan, besi tulangan, perizinan, dan biaya tak terduga lainnya perlu diperhitungkan.
 
-Untuk mendapatkan gambaran, harga beton readymix di wilayah (not detected) pada tahun 2026, secara umum berkisar antara Rp 850.000 hingga Rp 1.200.000 per meter kubik (m³). Harga ini bersifat indikatif dan dapat berubah sesuai dengan fluktuasi pasar. Untuk informasi harga terkini dan penawaran khusus, silakan hubungi tim BetonCorPlus. [[[PLACEHOLDER_N]]]
+Untuk mendapatkan gambaran, harga beton readymix di wilayah (not detected) pada tahun 2026, secara umum berkisar antara Rp 850.000 hingga Rp 1.200.000 per meter kubik (m³), dan Anda bisa menemukan panduan lengkap mengenai [cor jalan per meter](/categories/blog/cor-jalan-per-meter/) yang relevan dengan proyek Anda. Harga ini bersifat indikatif dan dapat berubah sesuai dengan fluktuasi pasar. Untuk informasi harga terkini dan penawaran khusus, silakan hubungi tim BetonCorPlus. [[[PLACEHOLDER_N]]]
 
 ### Simulasi Perhitungan Biaya
 
