@@ -23,7 +23,6 @@ cor jalan rumah
 cor jalan tanjakan
 cor jalan tanpa wiremesh
 cor jalan yang panjang
-cor jalan manual
 cor rumah tingkat
 cor rumah lantai 2
 cor rumah adalah
@@ -57,9 +56,7 @@ sewa concrete pump mini
 sewa concrete pump bali
 sewa concrete pump palembang
 sewa concrete pump long boom
-biaya borongan dak rumah per meter
 biaya buat dak beton
-biaya buat dak per meter
 biaya buat dak rumah
 biaya buat tangga cor
 biaya cor bangunan per meter
