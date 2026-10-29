@@ -172,6 +172,21 @@ function fixMarkdown(body) {
   if (drop.size) { lines = lines.filter((_, i) => !drop.has(i)); kinds = classify(lines); }
   else kinds = classify(lines);
 
+  // ── paragraf pembuka: "**Judul** –" yang terpisah baris kosong dari kalimat lanjutannya digabung ──
+  {
+    const first = kinds.findIndex(k => k !== 'blank');
+    if (first >= 0 && kinds[first] === 'para' && /^\s*\*\*[^*]+\*\*\s*[–—-]\s*$/.test(lines[first])) {
+      let j = first + 1;
+      while (j < lines.length && kinds[j] === 'blank') j++;
+      if (j < lines.length && kinds[j] === 'para') {
+        lines[first] = lines[first].trim() + ' ' + lines[j].trim();
+        lines.splice(first + 1, j - first);      // buang baris kosong + baris lanjutan yang sudah digabung
+        kinds = classify(lines);
+        note('paragraf pembuka "**Judul** –" digabung dengan kalimat lanjutannya');
+      }
+    }
+  }
+
   // spasi di akhir baris dibuang (kecuali "  " sebagai <br> yang disengaja di antara dua baris paragraf)
   for (let i = 0; i < lines.length; i++) {
     const k = kinds[i];
