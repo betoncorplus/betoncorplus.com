@@ -16,7 +16,7 @@ draft: false
 
 ## Memahami Fungsi dan Jenis Bangunan Cor Dak
 
-Sebagai elemen krusial dalam konstruksi bangunan, dak beton berperan penting sebagai penutup atas sebuah ruangan, menanggung beban dari atas. Dibandingkan material lain, dak beton menawarkan kekuatan dan ketahanan yang lebih unggul. Terdapat beragam jenis bangunan cor dak yang umum digunakan, termasuk dak plat sederhana, dak rib, dan dak komposit. Pemilihan jenis dak sebaiknya disesuaikan dengan bentang bangunan, beban yang direncanakan, serta aspek estetika yang diinginkan. 
+Sebagai elemen krusial dalam konstruksi bangunan, dak beton berperan penting sebagai penutup atas sebuah ruangan, menanggung beban dari atas. Dibandingkan material lain, dak beton menawarkan kekuatan dan ketahanan yang lebih unggul. Terdapat beragam jenis bangunan cor dak yang umum digunakan, termasuk dak plat sederhana, dak rib, dan dak komposit. Pemilihan jenis dak sebaiknya disesuaikan dengan bentang bangunan, beban yang direncanakan, serta aspek estetika yang diinginkan.
 
 Secara umum, ketebalan dak beton minimal untuk rumah tinggal berkisar antara 10 – 12 cm. Namun, angka ini sangat bergantung pada hasil perhitungan struktural dan beban yang diterima. Untuk bangunan dengan fungsi komersial atau industri, ketebalan dak beton umumnya lebih besar, mencapai 20 cm atau bahkan lebih. Penggunaan beton mutu tinggi seperti K-225 atau K-300 sangat kami rekomendasikan untuk memastikan kekuatan dan umur panjang dak. BetonCorPlus menyediakan beragam pilihan mutu beton readymix yang dapat disesuaikan dengan kebutuhan spesifik proyek Anda di (not detected).
 
@@ -35,7 +35,7 @@ Proses pengecoran dak beton memerlukan serangkaian tahapan yang dilaksanakan sec
 1.  **Persiapan Bekisting:**  Pastikan bekisting terpasang dengan kokoh dan rata. Lapisi bekisting dengan minyak bekisting untuk mencegah beton menempel dan memudahkan pembongkaran.
 2.  **Pemasangan Besi Tulangan:**  Lakukan pemasangan besi tulangan secara presisi sesuai dengan gambar rencana struktur. Perhatikan dengan seksama jarak dan diameter besi tulangan yang telah ditentukan.
 3.  **Pengecoran Beton:** Tuangkan beton readymix secara merata ke dalam bekisting. Manfaatkan vibrator beton untuk memadatkan campuran dan menghilangkan potensi rongga udara.
-4.  **Perawatan Beton:** Lakukan perawatan beton secara intensif selama minimal 7 hari setelah proses pengecoran. Basahi permukaan beton secara berkala untuk mencegah keretakan akibat penguapan air yang terlalu cepat. 
+4.  **Perawatan Beton:** Lakukan perawatan beton secara intensif selama minimal 7 hari setelah proses pengecoran. Basahi permukaan beton secara berkala untuk mencegah keretakan akibat penguapan air yang terlalu cepat.
 
 Perawatan beton adalah tahapan yang tidak boleh diabaikan.  Beton membutuhkan kelembaban yang memadai selama proses hidrasi. Kurangnya kelembaban dapat menyebabkan retak dan mengurangi kekuatan struktural beton.
 

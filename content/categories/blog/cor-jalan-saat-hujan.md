@@ -30,7 +30,6 @@ Pemilihan campuran beton *readymix* yang tepat sangat krusial saat pengecoran di
 
 Selain mutu, perhatikan juga penggunaan *admixture* yang tepat. *Water reducing admixture* dapat membantu mengurangi kebutuhan air dalam campuran, sehingga meningkatkan kekuatan dan daya tahan beton. *Air entraining admixture* juga sangat penting karena menciptakan gelembung udara mikroskopis dalam beton, yang membantu meningkatkan ketahanan terhadap siklus beku-cair yang sering terjadi di musim hujan.  Berikut tabel perbandingan mutu beton umum untuk jalan:
 
-
 <table class="table">
   <caption>Perbandingan Mutu Beton untuk Jalan</caption>
   <thead>
@@ -43,14 +42,13 @@ Selain mutu, perhatikan juga penggunaan *admixture* yang tepat. *Water reducing 
   </tbody>
 </table>
 
-
 Harga beton *readymix* bervariasi tergantung mutu dan lokasi pengiriman. Sebagai estimasi, harga beton K-300 di wilayah Jabodetabek berkisar antara Rp 850.000 hingga Rp 950.000 per meter kubik (harga ini bersifat estimasi dan dapat berubah sewaktu-waktu — hubungi Kami untuk penawaran terbaru dan paling akurat sesuai kebutuhan proyek Anda).
 
 ## Prosedur Pengecoran yang Benar Saat Hujan
 
 Prosedur pengecoran yang benar saat hujan memerlukan perhatian ekstra pada beberapa aspek. Pertama, pastikan beton *readymix* ditutup rapat selama pengangkutan untuk mencegah kontaminasi air hujan. Kedua, segera lakukan pengecoran setelah beton tiba di lokasi proyek. Jangan menunda-nunda, karena semakin lama beton terpapar hujan, semakin besar risiko penurunan kualitasnya.
 
-Selama proses pengecoran, gunakan metode yang meminimalkan paparan air hujan. Pengecoran menggunakan *concrete pump* sangat direkomendasikan karena beton disalurkan langsung ke lokasi yang dituju dengan cepat dan efisien. Pastikan juga permukaan dasar yang akan dicor bersih dari genangan air dan kotoran. 
+Selama proses pengecoran, gunakan metode yang meminimalkan paparan air hujan. Pengecoran menggunakan *concrete pump* sangat direkomendasikan karena beton disalurkan langsung ke lokasi yang dituju dengan cepat dan efisien. Pastikan juga permukaan dasar yang akan dicor bersih dari genangan air dan kotoran.
 
 Setelah pengecoran selesai, lakukan perawatan beton dengan benar. Tutup permukaan beton dengan terpal atau karung basah untuk menjaga kelembapan dan mencegah retak akibat penguapan air yang terlalu cepat. Proses perawatan ini sangat penting, terutama di musim hujan, untuk memastikan beton mencapai kekuatan optimal.
 

@@ -24,8 +24,8 @@ Lebih jauh lagi, keselamatan kerja turut ditingkatkan. Penggunaan pompa beton me
 
 Beragam jenis *concrete pump* tersedia untuk memenuhi kebutuhan konstruksi yang berbeda. Pilihan yang tepat bergantung pada skala proyek, kondisi lokasi, dan anggaran. Secara garis besar, pompa beton dapat dikelompokkan menjadi dua kategori utama: *concrete pump* statis dan *concrete pump* mounted (terpasang pada truk).
 
-*   **Concrete Pump Statis:** Cocok untuk proyek skala kecil hingga menengah dengan aksesibilitas yang baik. Pompa statis menggunakan selang fleksibel yang dapat disesuaikan panjangnya sesuai kebutuhan.
-*   **Concrete Pump Mounted (Truck-Mounted Concrete Pump):** Lebih serbaguna dan ideal untuk proyek besar dengan area pengecoran yang luas. Dilengkapi dengan *boom* (lengan) yang dapat menjangkau area yang sulit diakses. Panjang *boom* bervariasi, mulai dari 21 meter hingga lebih dari 60 meter.
+- **Concrete Pump Statis:** Cocok untuk proyek skala kecil hingga menengah dengan aksesibilitas yang baik. Pompa statis menggunakan selang fleksibel yang dapat disesuaikan panjangnya sesuai kebutuhan.
+- **Concrete Pump Mounted (Truck-Mounted Concrete Pump):** Lebih serbaguna dan ideal untuk proyek besar dengan area pengecoran yang luas. Dilengkapi dengan *boom* (lengan) yang dapat menjangkau area yang sulit diakses. Panjang *boom* bervariasi, mulai dari 21 meter hingga lebih dari 60 meter.
 
 ![Concrete pump mounted sedang beroperasi di proyek konstruksi](/images/artikel/sewa-concrete-pump-surabaya.jpg)
 
@@ -39,7 +39,6 @@ Ketiga, nilai kapasitas pompa beton dan pastikan sesuai dengan volume pengecoran
 
 Keempat, bandingkan biaya sewa dari berbagai penyedia. Harga sewa alat ini di Surabaya beragam, dipengaruhi oleh jenis pompa, durasi penyewaan, dan jarak layanan. Untuk informasi harga yang akurat dan terperinci sesuai dengan kebutuhan spesifik proyek Anda, silakan hubungi Kami.
 
-
 <table class="table">
   <caption>Perbandingan Concrete Pump Statis dan Mounted</caption>
   <thead>
@@ -52,7 +51,6 @@ Keempat, bandingkan biaya sewa dari berbagai penyedia. Harga sewa alat ini di Su
     <tr><td>Biaya</td><td>Umumnya lebih ekonomis</td><td>Cenderung lebih mahal</td></tr>
   </tbody>
 </table>
-
 
 ## BetonCorPlus: Mitra Anda untuk Layanan Sewa Concrete Pump di Surabaya
 

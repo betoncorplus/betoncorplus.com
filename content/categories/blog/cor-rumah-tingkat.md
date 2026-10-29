@@ -28,10 +28,10 @@ Namun, perlu diingat bahwa angka ini hanyalah estimasi awal. Informasi harga yan
 
 Selain biaya beton readymix, pertimbangkan juga pos-pos biaya berikut:
 
-*   **Biaya Pemotongan dan Pemasangan Besi (Tulangan):** Tergantung volume dan harga besi beton.
-*   **Biaya Pengecoran:** Termasuk upah tukang, biaya bekisting, dan penggunaan alat.
-*   **Biaya Sewa Concrete Pump:** Penting jika lokasi sulit diakses.
-*   **Biaya Transportasi:**  Biaya pengiriman beton ke lokasi proyek di (not detected).
+- **Biaya Pemotongan dan Pemasangan Besi (Tulangan):** Tergantung volume dan harga besi beton.
+- **Biaya Pengecoran:** Termasuk upah tukang, biaya bekisting, dan penggunaan alat.
+- **Biaya Sewa Concrete Pump:** Penting jika lokasi sulit diakses.
+- **Biaya Transportasi:**  Biaya pengiriman beton ke lokasi proyek di (not detected).
 
 Contoh:  Jika Anda akan mencor lantai seluas 100 m² dengan ketebalan 12 cm (0,12 m), volume beton yang dibutuhkan adalah 12 m³. Dengan asumsi harga beton Rp 1.000.000 per m³, total biaya beton adalah Rp 12.000.000.
 

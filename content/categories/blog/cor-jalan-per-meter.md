@@ -20,7 +20,7 @@ Infrastruktur jalan yang memadai berperan penting dalam konektivitas dan mendoro
 
 Fondasi utama kekuatan dan durabilitas jalan terletak pada pemilihan mutu beton readymix yang tepat. Mutu beton dinyatakan dalam notasi K-xxx, yang mencerminkan kekuatan tekan karakteristik beton setelah 28 hari pengujian. Untuk aplikasi jalan, mutu beton yang sering digunakan antara lain K-225, K-300, dan K-350.
 
-K-225 umumnya paling sesuai untuk jalan lingkungan atau jalur kecil yang menerima beban lalu lintas rendah. K-300 seringkali menjadi pilihan yang baik untuk jalan perkotaan atau jalan penghubung antar desa dengan volume lalu lintas yang sedang. Sementara itu, K-350 atau bahkan mutu yang lebih tinggi amat direkomendasikan untuk jalan arteri, jalan tol, atau infrastruktur jalan yang dirancang untuk menahan beban lalu lintas yang sangat berat. 
+K-225 umumnya paling sesuai untuk jalan lingkungan atau jalur kecil yang menerima beban lalu lintas rendah. K-300 seringkali menjadi pilihan yang baik untuk jalan perkotaan atau jalan penghubung antar desa dengan volume lalu lintas yang sedang. Sementara itu, K-350 atau bahkan mutu yang lebih tinggi amat direkomendasikan untuk jalan arteri, jalan tol, atau infrastruktur jalan yang dirancang untuk menahan beban lalu lintas yang sangat berat.
 
 Pertimbangkan dengan matang beban lalu lintas yang diperkirakan, kondisi tanah setempat, dan faktor iklim di (not detected) saat menentukan mutu beton yang paling optimal. Konsultasikan dengan ahli konstruksi atau penyedia beton readymix yang berpengalaman seperti BetonCorPlus untuk memastikan Anda mendapatkan rekomendasi yang selaras dengan spesifikasi proyek Anda.
 

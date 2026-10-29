@@ -36,7 +36,6 @@ Biaya beton readymix merupakan komponen penting dalam anggaran proyek konstruksi
 
 Untuk mengoptimalkan penggunaan beton readymix dan menekan biaya, penting untuk melakukan perencanaan yang matang dan perhitungan volume beton yang akurat. Misalnya, dalam desain Bangunan Corina Kavanagh, penggunaan software Building Information Modeling (BIM) dapat membantu dalam melakukan perhitungan volume beton secara presisi dan mendeteksi potensi masalah konstruksi sejak dini. Selain itu, pemilihan mutu beton yang tepat juga dapat menghemat biaya. Jika kekuatan beton yang lebih rendah sudah mencukupi untuk memenuhi persyaratan struktural, maka tidak perlu menggunakan mutu beton yang lebih tinggi.
 
-
 <table class="table">
   <caption>Perbandingan Mutu Beton Readymix dan Penggunaannya</caption>
   <thead>
@@ -49,7 +48,6 @@ Untuk mengoptimalkan penggunaan beton readymix dan menekan biaya, penting untuk 
     <tr><td>K-400</td><td>40</td><td>Struktur tinggi yang memerlukan kekuatan tinggi, jembatan</td></tr>
   </tbody>
 </table>
-
 
 ## BetonCorPlus: Mitra Terpercaya untuk Kebutuhan Beton Readymix Anda
 

@@ -16,7 +16,7 @@ draft: false
 
 ![Memahami Harga Ready Mix Price Per M3: Faktor, Estimasi, dan Tips Menghitung Kebutuhan Beton](/images/artikel/ready-mix-price-per-m3.jpg)
 
-### Membongkar Faktor Penentu Harga Beton Ready Mix Per M3
+## Membongkar Faktor Penentu Harga Beton Ready Mix Per M3
 
 Harga *ready mix price per m3* bukanlah angka tunggal, melainkan hasil kalkulasi berbagai variabel. Kualitas beton, yang tercermin dalam mutunya, adalah penentu utama. Semakin tinggi mutu yang dibutuhkan – misalnya, K-350 versus K-225 – semakin tinggi pula biaya per meter kubiknya. Hal ini disebabkan oleh proporsi material (semen, agregat, air) dan proses kontrol kualitas yang lebih ketat.
 

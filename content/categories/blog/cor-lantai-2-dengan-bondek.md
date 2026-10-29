@@ -32,8 +32,8 @@ Hasil akhir juga menjadi keunggulan tersendiri. Bondek menciptakan permukaan lan
 
 Mari kita simulasikan perhitungan kebutuhan beton dan perkiraan biaya untuk lantai 2 berukuran 6m x 8m dengan ketebalan pelat 12 cm.
 
-*   **Luas Lantai:** 6m x 8m = 48 m²
-*   **Volume Beton:** 48 m² x 0,12 m = 5,76 m³
+- **Luas Lantai:** 6m x 8m = 48 m²
+- **Volume Beton:** 48 m² x 0,12 m = 5,76 m³
 
 Untuk mendapatkan informasi mengenai harga beton readymix K-250, silakan merujuk pada tabel harga terbaru yang tersedia .
 

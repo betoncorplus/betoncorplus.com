@@ -26,11 +26,11 @@ Selain efisiensi waktu, beton pracetak juga menjamin kualitas yang lebih terperc
 
 Berbagai elemen bangunan dapat diproduksi secara pracetak, memberikan fleksibilitas desain dan efisiensi konstruksi. Berikut adalah beberapa jenis komponen yang paling sering ditemui:
 
-*   **Dinding Panel:** Dinding pracetak merupakan solusi ideal untuk pembangunan gedung bertingkat, gudang, dan rumah. Desainnya yang fleksibel memungkinkan berbagai tekstur dan finishing, menyesuaikan dengan estetika yang diinginkan.
-*   **Balok dan Kolom:** Komponen-komponen struktural ini diproduksi dengan presisi tinggi, menjamin kekuatan dan stabilitas bangunan secara keseluruhan. Balok pracetak sangat efisien untuk pembangunan jembatan dan struktur industri.
-*   **Pelat Lantai:** Pelat lantai pracetak, termasuk *hollow core slab* dan *solid slab*, menawarkan solusi cepat dan efisien untuk lantai. *Hollow core slab* dengan rongga di dalamnya, tidak hanya mengurangi berat struktur, tetapi juga meningkatkan efisiensi termal dan akustik.
-*   **Tangga:** Tangga pracetak hadir sebagai solusi yang aman, kokoh, dan cepat dipasang untuk akses vertikal dalam bangunan.
-*   **Komponen Khusus:** Beton pracetak tidak terbatas pada komponen standar. Komponen khusus seperti fasad bangunan, elemen dekoratif, dan bentuk arsitektur unik dapat diproduksi sesuai desain, memberikan kebebasan berkreasi yang tak terbatas.
+- **Dinding Panel:** Dinding pracetak merupakan solusi ideal untuk pembangunan gedung bertingkat, gudang, dan rumah. Desainnya yang fleksibel memungkinkan berbagai tekstur dan finishing, menyesuaikan dengan estetika yang diinginkan.
+- **Balok dan Kolom:** Komponen-komponen struktural ini diproduksi dengan presisi tinggi, menjamin kekuatan dan stabilitas bangunan secara keseluruhan. Balok pracetak sangat efisien untuk pembangunan jembatan dan struktur industri.
+- **Pelat Lantai:** Pelat lantai pracetak, termasuk *hollow core slab* dan *solid slab*, menawarkan solusi cepat dan efisien untuk lantai. *Hollow core slab* dengan rongga di dalamnya, tidak hanya mengurangi berat struktur, tetapi juga meningkatkan efisiensi termal dan akustik.
+- **Tangga:** Tangga pracetak hadir sebagai solusi yang aman, kokoh, dan cepat dipasang untuk akses vertikal dalam bangunan.
+- **Komponen Khusus:** Beton pracetak tidak terbatas pada komponen standar. Komponen khusus seperti fasad bangunan, elemen dekoratif, dan bentuk arsitektur unik dapat diproduksi sesuai desain, memberikan kebebasan berkreasi yang tak terbatas.
 
 ![Contoh Pemasangan Dinding Beton Pracetak di Proyek Perumahan](/images/artikel/bangunan-beton-pracetak.jpg)
 

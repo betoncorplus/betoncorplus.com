@@ -12,10 +12,9 @@ toc: true
 draft: false
 ---
 
-**Bangunan Corongan Irigasi** – Struktur vital untuk distribusi air yang efisien. 
+**Bangunan Corongan Irigasi** – Struktur vital untuk distribusi air yang efisien.
 
 ![Bangunan Corongan Irigasi: Perencanaan, Material, dan Pengecoran Optimal](/images/artikel/bangunan-corongan-irigasi.jpg)
-
 
 Bangunan corongan irigasi berperan penting dalam memastikan suplai air yang teratur dan memadai ke lahan pertanian. Struktur ini berfungsi mengalirkan air dari saluran utama atau sumber air lainnya ke saluran-saluran sekunder yang lebih kecil, sehingga air dapat mencapai setiap area yang membutuhkan. Perencanaan dan pelaksanaan yang tepat sangat krusial untuk menjamin keberhasilan sistem irigasi secara keseluruhan.
 
@@ -37,7 +36,6 @@ Pemilihan mutu beton readymix yang tepat sangat penting. Untuk corongan irigasi 
 
 Berikut adalah tabel perbandingan mutu beton readymix yang umum digunakan untuk bangunan corongan irigasi:
 
-
 <table class="table">
   <caption>Perbandingan Mutu Beton Readymix untuk Corongan Irigasi</caption>
   <thead>
@@ -49,7 +47,6 @@ Berikut adalah tabel perbandingan mutu beton readymix yang umum digunakan untuk 
     <tr><td>K-350</td><td>35</td><td>Corongan irigasi di lingkungan agresif (tanah berkadar garam tinggi)</td><td>1.000.000 - 1.100.000</td></tr>
   </tbody>
 </table>
-
 
 Harga ini bersifat estimasi dan dapat berubah sewaktu-waktu — hubungi Kami untuk penawaran terbaru dan paling akurat sesuai kebutuhan proyek Anda.
 

@@ -16,7 +16,7 @@ draft: false
 
 ![Cor Rumah Berapa: Estimasi Biaya, Mutu Beton, dan Tips Mendapatkan Penawaran Terbaik](/images/artikel/cor-rumah-habis-berapa.jpg)
 
-### Faktor-Faktor yang Membentuk Biaya Pengecoran Rumah
+## Faktor-Faktor yang Membentuk Biaya Pengecoran Rumah
 
 Menghitung biaya cor rumah tidak sesederhana mengalikan volume beton dengan harga per meter kubik. Ada beberapa elemen penting yang perlu dipertimbangkan. Luas area yang dicor, misalnya, jelas berdampak langsung pada volume beton yang dibutuhkan—semakin luas area tersebut, semakin banyak beton yang diperlukan. Kemudian, ada mutu beton yang dipilih; mutu yang lebih tinggi umumnya memiliki harga yang lebih mahal. Aksesibilitas lokasi juga penting, karena lokasi proyek yang sulit dijangkau dapat meningkatkan biaya transportasi dan pengecoran. Biaya jasa tenaga kerja, termasuk upah tukang, mandor, dan operator alat jika digunakan, juga harus diperhitungkan. Terakhir, jangan lupakan biaya tambahan seperti sewa alat (concrete pump, vibrator) dan persiapan lahan.
 

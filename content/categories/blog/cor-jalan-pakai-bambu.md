@@ -14,7 +14,7 @@ draft: false
 
 **Cor Jalan Pakai Bambu: Efektivitas, Batasan, dan Alternatif Terbaik** – Pembangunan dan pemeliharaan jalan merupakan aspek vital dalam konektivitas dan pertumbuhan ekonomi sebuah wilayah. Anda mungkin pernah mendengar atau bahkan melihat praktik pengecoran jalan menggunakan bambu sebagai bekisting atau bahkan sebagai pengganti tulangan baja. Praktik ini, meski terlihat hemat biaya, memiliki implikasi signifikan terhadap kualitas dan umur jalan. Artikel ini akan mengulas secara mendalam efektivitas cor jalan pakai bambu, batasan-batasannya, serta menyajikan alternatif yang lebih optimal, yaitu penggunaan beton readymix berkualitas dari BetonCorPlus.
 
-### Mengapa Cor Jalan Pakai Bambu Dilakukan?
+## Mengapa Cor Jalan Pakai Bambu Dilakukan?
 
 Penggunaan bambu dalam pengecoran jalan umumnya didorong oleh dua faktor utama: ketersediaan material yang melimpah dan biaya yang relatif rendah. Di daerah-daerah tertentu, bambu lebih mudah didapatkan daripada baja tulangan, sehingga menjadi pilihan yang tampak ekonomis. Selain itu, bambu dianggap memiliki sifat lentur yang dapat menahan tekanan saat pengecoran berlangsung. Namun, perlu diingat bahwa efektivitas penggunaan bambu sangat bergantung pada jenis bambu yang digunakan, perlakuan awal, dan desain struktur yang tepat. Bambu yang digunakan harus dipilih dari spesies yang memiliki kekuatan tarik tinggi dan telah melalui proses pengeringan untuk mengurangi kadar airnya.
 
@@ -40,7 +40,6 @@ Sebagai contoh, untuk pengecoran jalan sepanjang 100 meter dengan lebar 3 meter 
 
 Pemilihan mutu beton readymix yang tepat sangat penting untuk memastikan kekuatan dan umur jalan yang optimal. Berikut adalah tabel yang menunjukkan rekomendasi mutu beton readymix berdasarkan jenis jalan dan beban lalu lintas:
 
-
 <table class="table">
   <caption>Rekomendasi Mutu Beton Readymix untuk Jalan</caption>
   <thead>
@@ -53,7 +52,6 @@ Pemilihan mutu beton readymix yang tepat sangat penting untuk memastikan kekuata
     <tr><td>Jalan Arterial</td><td>Berat</td><td>K-350 atau K-400</td></tr>
   </tbody>
 </table>
-
 
 Selain mutu beton, faktor lain yang perlu diperhatikan adalah rasio air-semen (water-cement ratio). Rasio air-semen yang rendah akan menghasilkan beton yang lebih kuat dan lebih tahan lama. Kami dari BetonCorPlus menggunakan campuran beton yang optimal dengan rasio air-semen yang sesuai dengan standar SNI, sehingga Anda dapat yakin dengan kualitas beton yang Kami sediakan.
 

@@ -12,7 +12,7 @@ tags: ["cor jalan perumahan", "beton readymix", "pengecoran jalan", "pompa beton
 toc: true
 draft: false
 ---
-**Cor Jalan Perumahan: Panduan Lengkap Mutu Beton, Biaya, dan Pelaksanaan** – Membangun jalan di lingkungan perumahan memerlukan perhatian khusus pada kualitas dan daya tahannya. Jalan yang kokoh memberikan kenyamanan dan keamanan bagi penghuni. Pemilihan material yang tepat, terutama beton untuk pengecoran, adalah kunci utama. Beton readymix menawarkan solusi praktis dengan kualitas yang lebih terkontrol. 
+**Cor Jalan Perumahan: Panduan Lengkap Mutu Beton, Biaya, dan Pelaksanaan** – Membangun jalan di lingkungan perumahan memerlukan perhatian khusus pada kualitas dan daya tahannya. Jalan yang kokoh memberikan kenyamanan dan keamanan bagi penghuni. Pemilihan material yang tepat, terutama beton untuk pengecoran, adalah kunci utama. Beton readymix menawarkan solusi praktis dengan kualitas yang lebih terkontrol.
 
 ![Cor Jalan Perumahan: Panduan Lengkap Mutu Beton, Biaya, dan Pelaksanaan](/images/artikel/cor-jalan-perumahan.jpg)
 
@@ -60,7 +60,8 @@ Misalnya, untuk jalan seluas 100 m² dengan ketebalan 15 cm dan mutu beton K-300
 Volume beton: 100 m² x 0,15 m = 15 m³
 Biaya beton: 15 m³ x Rp950.000 = Rp14.250.000
 
-Jumlah ini belum mencakup biaya persiapan, pemasangan tulangan, sewa alat, dan perawatan. Untuk mendapatkan perkiraan biaya yang lebih akurat untuk proyek Anda di (not detected), Kami sarankan untuk berkonsultasi dengan penyedia beton readymix dan kontraktor berpengalaman. 
+Jumlah ini belum mencakup biaya persiapan, pemasangan tulangan, sewa alat, dan perawatan. Untuk mendapatkan perkiraan biaya yang lebih akurat untuk proyek Anda di (not detected), Kami sarankan untuk berkonsultasi dengan penyedia beton readymix dan kontraktor berpengalaman.
+
 <table class="table">
   <caption>Biaya Tambahan Pengecoran Jalan Perumahan</caption>
   <thead>
@@ -73,7 +74,6 @@ Jumlah ini belum mencakup biaya persiapan, pemasangan tulangan, sewa alat, dan p
     <tr><td>Perawatan Beton (7 Hari)</td><td>Rp 10.000 - Rp 20.000/m²</td></tr>
   </tbody>
 </table>
-
 
 ## Penggunaan Concrete Pump untuk Efisiensi Pengecoran
 

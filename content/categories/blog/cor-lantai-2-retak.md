@@ -16,8 +16,7 @@ draft: false
 
 ![Cor Lantai 2 Retak? Penyebab, Pencegahan, dan Solusi Terbaik](/images/artikel/cor-lantai-2-retak.jpg)
 
-
-### Penyebab Umum Cor Lantai 2 Retak
+## Penyebab Umum Cor Lantai 2 Retak
 
 Retakan pada cor lantai 2 dapat disebabkan oleh berbagai faktor, mulai dari kualitas material yang digunakan hingga kesalahan dalam proses pelaksanaan. Salah satu penyebab utama adalah kualitas beton yang tidak memenuhi standar mutu. Penggunaan campuran beton yang tidak tepat, rasio air-semen yang terlalu tinggi, atau agregat yang kurang berkualitas dapat menghasilkan beton yang lemah dan rentan terhadap retak. Selain itu, kurangnya pemadatan beton yang optimal saat pengecoran juga dapat menyebabkan rongga udara yang menjadi titik awal munculnya retakan.
 
@@ -27,8 +26,7 @@ Terakhir, kesalahan dalam perencanaan struktural juga dapat menjadi penyebab ret
 
 ### Pencegahan Retakan pada Cor Lantai 2: Peran Beton Readymix
 
-Mencegah lebih baik daripada mengobati. Penggunaan beton readymix berkualitas tinggi adalah langkah preventif yang sangat efektif untuk menghindari masalah retakan pada cor lantai 2. Beton readymix dari BetonCorPlus diproduksi dengan kontrol kualitas yang ketat, menggunakan material pilihan dan rasio campuran yang tepat sesuai dengan standar SNI. Kami menyediakan berbagai pilihan mutu beton, mulai dari K-225 hingga K-300, yang dapat disesuaikan dengan kebutuhan proyek Anda. 
-
+Mencegah lebih baik daripada mengobati. Penggunaan beton readymix berkualitas tinggi adalah langkah preventif yang sangat efektif untuk menghindari masalah retakan pada cor lantai 2. Beton readymix dari BetonCorPlus diproduksi dengan kontrol kualitas yang ketat, menggunakan material pilihan dan rasio campuran yang tepat sesuai dengan standar SNI. Kami menyediakan berbagai pilihan mutu beton, mulai dari K-225 hingga K-300, yang dapat disesuaikan dengan kebutuhan proyek Anda.
 
 <table class="table">
   <caption>Rekomendasi Mutu Beton Readymix untuk Lantai 2</caption>
@@ -41,7 +39,6 @@ Mencegah lebih baik daripada mengobati. Penggunaan beton readymix berkualitas ti
     <tr><td>K-300</td><td>30</td><td>Lantai 2 rumah tinggal mewah, bangunan komersial, struktur yang membutuhkan kekuatan tinggi</td></tr>
   </tbody>
 </table>
-
 
 Selain memilih mutu beton yang tepat, proses pengecoran yang benar juga sangat penting. Pastikan beton dipadatkan dengan vibrator untuk menghilangkan rongga udara dan memastikan kepadatan beton yang optimal. Hindari pengecoran pada cuaca ekstrem seperti hujan deras atau panas terik, karena kondisi ini dapat mempengaruhi proses hidrasi beton dan menyebabkan retak. Jika Anda menggunakan jasa pengecoran, pastikan tenaga kerja yang digunakan memiliki pengalaman dan keahlian yang memadai.
 

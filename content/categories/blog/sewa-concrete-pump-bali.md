@@ -30,7 +30,6 @@ Kami menyediakan berbagai jenis concrete pump untuk mengatasi beragam kebutuhan 
 
 Untuk proyek-proyek skala besar, seperti pembangunan hotel, kompleks apartemen, atau proyek infrastruktur jalan, *concrete pump long boom* adalah pilihan yang paling efisien. Concrete pump long boom menawarkan jangkauan horizontal yang lebih luas, seringkali melebihi 60 meter, sehingga memungkinkan pengecoran beton di area yang luas tanpa sering melakukan pemindahan unit. Berikut adalah ringkasan perbandingan antara concrete pump mini dan long boom:
 
-
 <table class="table">
   <caption>Perbandingan Concrete Pump Mini vs. Long Boom</caption>
   <thead>
@@ -43,7 +42,6 @@ Untuk proyek-proyek skala besar, seperti pembangunan hotel, kompleks apartemen, 
     <tr><td>Estimasi Biaya Sewa</td><td>Rp 800.000 - Rp 1.500.000 /hari</td><td>Rp 1.800.000 - Rp 3.500.000 /hari</td></tr>
   </tbody>
 </table>
-
 
 Perlu diketahui bahwa biaya sewa ini bersifat estimasi dan dapat bervariasi. Untuk mendapatkan penawaran yang akurat dan sesuai dengan kebutuhan proyek Anda di (not detected), silakan hubungi tim Kami. Kami juga menawarkan opsi concrete pump statis untuk lokasi dengan akses yang terbatas.
 

@@ -34,7 +34,6 @@ Pemilihan mutu beton memainkan peran vital dalam menentukan ketebalan cor lantai
 
 Berikut adalah tabel perbandingan mutu beton dan aplikasinya:
 
-
 <table class="table">
   <caption>Panduan Mutu Beton untuk Proyek Lantai 2</caption>
   <thead>
@@ -47,8 +46,7 @@ Berikut adalah tabel perbandingan mutu beton dan aplikasinya:
   </tbody>
 </table>
 
-
-Sebagai contoh, jika Anda berencana membangun rumah dua lantai di (not detected) dengan bentang kolom 6 meter dan beban hidup sekitar 200 kg/m², beton K-225 mungkin memerlukan ketebalan minimal 15 cm untuk memastikan keamanan. Namun, dengan memilih beton K-300, Anda dapat mengurangi ketebalan menjadi 12 cm tanpa mengorbankan integritas struktural. 
+Sebagai contoh, jika Anda berencana membangun rumah dua lantai di (not detected) dengan bentang kolom 6 meter dan beban hidup sekitar 200 kg/m², beton K-225 mungkin memerlukan ketebalan minimal 15 cm untuk memastikan keamanan. Namun, dengan memilih beton K-300, Anda dapat mengurangi ketebalan menjadi 12 cm tanpa mengorbankan integritas struktural.
 
 ## Percayakan Pengecoran Lantai 2 Anda Pada Ahlinya
 

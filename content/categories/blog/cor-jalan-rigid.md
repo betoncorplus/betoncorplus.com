@@ -24,18 +24,17 @@ Sebaliknya, jalan rigid menawarkan ketahanan yang jauh lebih baik terhadap semua
 
 ## Proses Pengecoran Cor Jalan Rigid yang Tepat
 
-Proses pengecoran cor jalan rigid memerlukan perencanaan dan pelaksanaan yang cermat untuk memastikan kualitas dan daya tahan jalan yang optimal. Tahapan awal meliputi persiapan lahan, pemasangan bekisting, dan penulangan (jika diperlukan). Setelah itu, beton readymix dengan mutu yang sesuai (umumnya K-300 atau K-350) dipompakan ke lokasi pengecoran menggunakan *concrete pump*. 
+Proses pengecoran cor jalan rigid memerlukan perencanaan dan pelaksanaan yang cermat untuk memastikan kualitas dan daya tahan jalan yang optimal. Tahapan awal meliputi persiapan lahan, pemasangan bekisting, dan penulangan (jika diperlukan). Setelah itu, beton readymix dengan mutu yang sesuai (umumnya K-300 atau K-350) dipompakan ke lokasi pengecoran menggunakan *concrete pump*.
 
 ![Concrete pump sedang memompa beton untuk pengecoran jalan](/images/artikel/cor-jalan-rigid.jpg)
 
-Penting untuk memastikan bahwa beton yang digunakan memiliki *slump* yang tepat (biasanya antara 80-100 mm) agar mudah didistribusikan dan dipadatkan. Setelah beton dituang, proses pemadatan dilakukan menggunakan vibrator untuk menghilangkan gelembung udara dan memastikan kepadatan yang seragam. Permukaan beton kemudian diratakan dan dihaluskan menggunakan alat khusus. Proses curing (pemeliharaan) yang tepat, dengan menjaga kelembaban beton selama minimal 7 hari, sangat penting untuk mencapai kekuatan beton yang optimal. 
+Penting untuk memastikan bahwa beton yang digunakan memiliki *slump* yang tepat (biasanya antara 80-100 mm) agar mudah didistribusikan dan dipadatkan. Setelah beton dituang, proses pemadatan dilakukan menggunakan vibrator untuk menghilangkan gelembung udara dan memastikan kepadatan yang seragam. Permukaan beton kemudian diratakan dan dihaluskan menggunakan alat khusus. Proses curing (pemeliharaan) yang tepat, dengan menjaga kelembaban beton selama minimal 7 hari, sangat penting untuk mencapai kekuatan beton yang optimal.
 
 Sebagai ilustrasi, untuk membangun jalan rigid selebar 6 meter dan panjang 100 meter dengan ketebalan 20 cm (0,2 meter), dibutuhkan volume beton sebesar: 6 m x 100 m x 0,2 m = 120 m³. BetonCorPlus dapat menyediakan volume tersebut dengan cepat dan efisien, memastikan kelancaran proyek Anda.
 
 ## Pertimbangan Mutu Beton dan Biaya Cor Jalan Rigid
 
 Pemilihan mutu beton yang tepat sangat krusial dalam konstruksi jalan rigid. Mutu beton yang lebih tinggi, seperti K-350, menawarkan kekuatan tekan yang lebih besar dan ketahanan yang lebih baik terhadap abrasi dan keausan. Namun, mutu beton yang lebih tinggi juga biasanya lebih mahal. Berikut adalah perbandingan mutu beton umum untuk jalan rigid:
-
 
 <table class="table">
   <caption>Perbandingan Mutu Beton untuk Jalan Rigid</caption>
@@ -48,7 +47,6 @@ Pemilihan mutu beton yang tepat sangat krusial dalam konstruksi jalan rigid. Mut
     <tr><td>K-350</td><td>35</td><td>Jalan tol, jalan arteri dengan lalu lintas berat</td><td>Rp 1.000.000 - Rp 1.100.000</td></tr>
   </tbody>
 </table>
-
 
 Harga ini bersifat estimasi dan dapat berubah sewaktu-waktu — hubungi Kami untuk penawaran terbaru dan paling akurat sesuai kebutuhan proyek Anda.
 
