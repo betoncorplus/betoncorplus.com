@@ -48,6 +48,7 @@ const {
 // file header comments in lib/safe-table.js for why raw AI-written Markdown tables are never
 // trusted directly.
 const { renderSafeTables, hasLeftoverTableMarkers } = require('./lib/safe-table.js');
+const MdLint = require('./lib/md-lint.js');
 
 function renderTemplate(str, vars) {
   return str.replace(/\{\{(\w+)\}\}/g, (_, key) => (key in vars ? vars[key] : `{{${key}}}`));
@@ -832,7 +833,15 @@ async function pickImage(keyword, slug) {
     return res;
   }
 
-  const allImages = getImages(imgDir);
+  // Only images inside SUB-folders of static/images/ (static/images/<folder>/...) are candidates.
+  // Files directly in static/images/ (logo, favicon, readymix.png, banners, ...) are never used
+  // as reference, so a keyword can't match "logo" or the generic placeholder by accident.
+  const allImages = [];
+  try {
+    fs.readdirSync(imgDir, { withFileTypes: true }).forEach(e => {
+      if (e.isDirectory()) allImages.push(...getImages(path.join(imgDir, e.name)));
+    });
+  } catch {}
   if (!allImages.length) return useGenericOrAIImage(keyword, slug);
 
   // Reuses the same comprehensive stopword filter as duplicate-title detection above
@@ -1274,6 +1283,14 @@ function parseAndSave(raw, keyword, slug, imagePath, relatedCandidates = []) {
   // and never more than 2 total — regardless of what the AI actually did.
   body = enforceInternalLinks(body, relatedCandidates.map(c => c.url), 2);
 
+  // Deterministic Markdown tidy-up (no AI): weird bullets, lists glued to paragraphs, H1 in the
+  // body, heading level jumps, unpaired ** ... See lib/md-lint.js. HTML tables are left alone.
+  {
+    const lint = MdLint.fixMarkdown(body);
+    body = lint.text;
+    if (lint.fixes.length) console.log(`   🧹 Markdown dirapikan: ${lint.fixes.join('; ')}`);
+  }
+
   const today    = new Date().toISOString().split('T')[0];
   const category = detectArticleCategory();
   const safeTitle = yamlEscape(title);
@@ -1420,6 +1437,9 @@ function validateArticle(filePath) {
   const bodyOnly = content.replace(/---[\s\S]*?---/, '').trim();
   const wordCount = bodyOnly.split(/\s+/).length;
   if (wordCount < 300) issues.push(`⚠️  Konten terlalu pendek: ${wordCount} kata`);
+
+  // Structure warnings that can't be auto-fixed (too few/many H2, empty sections, wall-of-text paragraphs).
+  MdLint.mdIssues(bodyOnly).forEach(i => issues.push(`⚠️  ${i}`));
 
   const openingIssues = checkOpeningVariety(bodyOnly);
   issues.push(...openingIssues);

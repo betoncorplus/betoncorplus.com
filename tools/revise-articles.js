@@ -50,6 +50,7 @@ const {
 
 // Deterministic, crash-proof table rendering — see lib/safe-table.js.
 const { renderSafeTables, hasLeftoverTableMarkers } = require('./lib/safe-table.js');
+const MdLint = require('./lib/md-lint.js');
 
 function renderTemplate(str, vars) {
   return str.replace(/\{\{(\w+)\}\}/g, (_, key) => (key in vars ? vars[key] : `{{${key}}}`));
@@ -484,6 +485,13 @@ async function main() {
         log('   ⚠️  Leftover [[TABEL_...]] marker found after table rendering — check article manually.');
       }
       revisedContent = enforceInternalLinks(revisedContent, relatedCandidates.map(c => c.url), 2);
+
+      // Deterministic Markdown tidy-up (lib/md-lint.js) — never touches HTML tables/shortcodes.
+      {
+        const lint = MdLint.fixMarkdown(revisedContent);
+        revisedContent = lint.text;
+        if (lint.fixes.length) log(`   🧹 Markdown dirapikan: ${lint.fixes.join('; ')}`);
+      }
 
       const issues = validateFinalContent(parsed.content, revisedContent, location);
 
