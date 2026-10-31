@@ -656,5 +656,26 @@
     "matchedTitle": "Cor Jalan Per Meter: Harga, Mutu Beton, dan Tips Pengecoran Efisien",
     "taggedAt": "2026-10-28T12:09:39.223Z",
     "algoVersion": 2
+  },
+  "biaya dak rumah per m2": {
+    "reason": "similar to existing article",
+    "matchedFile": "biaya-buat-dak-rumah.md",
+    "matchedTitle": "Biaya Buat Dak Rumah: Estimasi, Faktor Pengaruh, dan Tips Efisien",
+    "taggedAt": "2026-10-31T11:42:48.894Z",
+    "algoVersion": 2
+  },
+  "biaya membuat dak rumah": {
+    "reason": "similar to existing article",
+    "matchedFile": "biaya-buat-dak-rumah.md",
+    "matchedTitle": "Biaya Buat Dak Rumah: Estimasi, Faktor Pengaruh, dan Tips Efisien",
+    "taggedAt": "2026-10-31T11:42:48.924Z",
+    "algoVersion": 2
+  },
+  "cara dak rumah murah": {
+    "reason": "similar to existing article",
+    "matchedFile": "biaya-buat-dak-rumah.md",
+    "matchedTitle": "Biaya Buat Dak Rumah: Estimasi, Faktor Pengaruh, dan Tips Efisien",
+    "taggedAt": "2026-10-31T11:42:49.053Z",
+    "algoVersion": 2
   }
 }
