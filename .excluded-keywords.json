@@ -677,5 +677,19 @@
     "matchedTitle": "Biaya Buat Dak Rumah: Estimasi, Faktor Pengaruh, dan Tips Efisien",
     "taggedAt": "2026-10-31T11:42:49.053Z",
     "algoVersion": 2
+  },
+  "biaya dak cor ukuran 6x8": {
+    "reason": "similar to existing article",
+    "matchedFile": "biaya-cor-dak-ukuran-3x6.md",
+    "matchedTitle": "Biaya Cor Dak Ukuran 3x6: Estimasi Lengkap dan Faktor Penentu 2026",
+    "taggedAt": "2026-11-01T12:41:57.550Z",
+    "algoVersion": 2
+  },
+  "biaya dak cor ukuran 7x10": {
+    "reason": "similar to existing article",
+    "matchedFile": "biaya-cor-dak-ukuran-3x6.md",
+    "matchedTitle": "Biaya Cor Dak Ukuran 3x6: Estimasi Lengkap dan Faktor Penentu 2026",
+    "taggedAt": "2026-11-01T12:41:57.551Z",
+    "algoVersion": 2
   }
 }
