@@ -691,5 +691,19 @@
     "matchedTitle": "Biaya Cor Dak Ukuran 3x6: Estimasi Lengkap dan Faktor Penentu 2026",
     "taggedAt": "2026-11-01T12:41:57.551Z",
     "algoVersion": 2
+  },
+  "harga cor dak per meter persegi": {
+    "reason": "similar to existing article",
+    "matchedFile": "biaya-dak-per-meter-persegi.md",
+    "matchedTitle": "Biaya Dak Per Meter Persegi: Estimasi Terkini dan Faktor Penentu di Jabodetabek",
+    "taggedAt": "2026-11-02T14:48:05.315Z",
+    "algoVersion": 2
+  },
+  "harga cor rumah per meter": {
+    "reason": "similar to existing article",
+    "matchedFile": "biaya-cor-rumah-per-meter.md",
+    "matchedTitle": "Biaya Cor Rumah Per Meter: Panduan Lengkap & Estimasi Terkini",
+    "taggedAt": "2026-11-02T14:48:05.315Z",
+    "algoVersion": 2
   }
 }
