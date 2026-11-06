@@ -81,9 +81,6 @@ biaya membuat dak beton per m2
 biaya membuat dak beton per meter
 biaya membuat dak rumah
 biaya ngedak per meter
-biaya ngedak rumah dengan bondek
-biaya ngedak rumah per m2
-biaya ngedak rumah per meter
 biaya ngedak rumah ukuran 4x6
 biaya ngedak rumah ukuran 6x10
 biaya ngedak rumah ukuran 6x6

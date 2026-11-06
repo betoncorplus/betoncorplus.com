@@ -775,5 +775,26 @@
     "matchedTitle": "Biaya Ngecor Rumah Per Meter: Estimasi Akurat dan Faktor Penentu di Jabodetabek",
     "taggedAt": "2026-11-05T14:00:26.114Z",
     "algoVersion": 2
+  },
+  "biaya ngedak per meter": {
+    "reason": "similar to existing article",
+    "matchedFile": "biaya-ngedak-bondek-per-meter.md",
+    "matchedTitle": "Biaya Ngedak Bondek Per Meter: Estimasi Terkini dan Tips Penghematan 2026",
+    "taggedAt": "2026-11-06T13:46:15.151Z",
+    "algoVersion": 2
+  },
+  "harga ngedak per m2": {
+    "reason": "similar to existing article",
+    "matchedFile": "biaya-ngedak-per-m2.md",
+    "matchedTitle": "Biaya Ngedak Per M2: Estimasi, Faktor Pengaruh, dan Tips Optimasi",
+    "taggedAt": "2026-11-06T13:46:15.414Z",
+    "algoVersion": 2
+  },
+  "harga ngedak per meter": {
+    "reason": "similar to existing article",
+    "matchedFile": "biaya-ngedak-bondek-per-meter.md",
+    "matchedTitle": "Biaya Ngedak Bondek Per Meter: Estimasi Terkini dan Tips Penghematan 2026",
+    "taggedAt": "2026-11-06T13:46:15.414Z",
+    "algoVersion": 2
   }
 }
