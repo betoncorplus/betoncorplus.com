@@ -81,9 +81,6 @@ biaya membuat dak beton per m2
 biaya membuat dak beton per meter
 biaya membuat dak rumah
 biaya ngedak per meter
-biaya ngedak rumah ukuran 4x6
-biaya ngedak rumah ukuran 6x10
-biaya ngedak rumah ukuran 6x6
 biaya ngedak ukuran 3x3
 biaya ngedak ukuran 3x6
 biaya pembuatan dak beton
