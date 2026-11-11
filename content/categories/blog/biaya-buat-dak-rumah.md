@@ -1,7 +1,7 @@
 ---
 title: "Biaya Buat Dak Rumah: Estimasi, Faktor Pengaruh, dan Tips Efisien"
 date: "2026-10-30"
-lastmod: "2026-10-31"
+lastmod: "2026-11-11"
 categories: "[blog]"
 focus_keyphrase: "biaya buat dak rumah"
 meta_title: "Biaya Buat Dak Rumah: Estimasi, Faktor Pengaruh, dan Tips Efisien - BetonCorPlus"
@@ -20,7 +20,7 @@ Dak beton berperan krusial sebagai penutup atas bangunan, sekaligus menahan beba
 
 ## Perkiraan Biaya Pembuatan Dak Rumah Berdasarkan Luas Area
 
-Biaya pembuatan dak rumah sangat dipengaruhi oleh luas area yang akan dicor. Semakin besar area dak, semakin besar pula biaya yang dibutuhkan. Sebagai panduan awal, berikut adalah perkiraan rentang harga yang perlu Anda pertimbangkan (harga ini bersifat indikatif dan dapat berubah sewaktu-waktu — Kami sarankan untuk menghubungi BetonCorPlus untuk mendapatkan penawaran harga yang paling akurat sesuai dengan spesifikasi proyek Anda):
+Biaya pembuatan dak rumah sangat dipengaruhi oleh luas area yang akan dicor. Semakin besar area dak, semakin besar pula biaya yang dibutuhkan. Sebagai panduan awal, berikut adalah perkiraan rentang harga yang perlu Anda pertimbangkan (harga ini bersifat indikatif dan dapat berubah sewaktu-waktu — Kami sarankan untuk menghubungi BetonCorPlus untuk mendapatkan penawaran harga yang paling akurat sesuai dengan spesifikasi proyek Anda): [Estimasi biaya dak rumah 60m2](/categories/blog/biaya-dak-rumah-60m2/) dapat menjadi referensi tambahan.
 
 - **Luas Area < 50 m²:** Perkiraan biaya berkisar antara Rp 3.500.000 – Rp 7.000.000.
 - **Luas Area 50 – 100 m²:** Perkiraan biaya berkisar antara Rp 7.000.000 – Rp 14.000.000.

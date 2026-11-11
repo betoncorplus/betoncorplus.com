@@ -1,7 +1,7 @@
 ---
 title: "Biaya Cor Dak Ukuran 3x6: Estimasi Lengkap dan Faktor Penentu 2026"
 date: "2026-10-31"
-lastmod: "2026-10-31"
+lastmod: "2026-11-11"
 categories: "[blog]"
 focus_keyphrase: "biaya cor dak ukuran 3x6"
 meta_title: "Biaya Cor Dak Ukuran 3x6: Estimasi Lengkap dan Faktor Penentu 2026 - BetonCorPlus"
@@ -57,4 +57,4 @@ Ada beberapa strategi yang dapat Anda terapkan untuk mengoptimalkan anggaran pen
 - **Optimalisasi Concrete Pump:** Pertimbangkan penggunaan concrete pump guna mempercepat proses pengecoran dan mengurangi biaya tenaga kerja. BetonCorPlus menyediakan jasa penyewaan concrete pump dengan berbagai kapasitas.
 - **Perencanaan yang Terstruktur:** Perencanaan yang matang akan meminimalkan pemborosan material dan biaya tak terduga. Susun rencana kerja yang detail sebelum memulai proyek.
 
-Untuk informasi lebih lanjut dan mendapatkan solusi pengecoran dak yang sesuai dengan kebutuhan Anda di (not detected), hubungi tim Kami sekarang juga melalui tombol **Telepon** atau **WhatsApp** yang tersedia di bawah. Jangan tunda, konsultasikan proyek Anda dengan ahlinya! [Biaya Buat Tangga Cor: Estimasi, Faktor Pengaruh, dan Tips Optimasi 2026](/categories/blog/biaya-buat-tangga-cor/) – Pelajari juga bagaimana mengoptimalkan anggaran proyek tangga cor Anda.
+Untuk informasi lebih lanjut dan mendapatkan solusi pengecoran dak yang sesuai dengan kebutuhan Anda di (not detected), hubungi tim Kami sekarang juga melalui tombol **Telepon** atau **WhatsApp** yang tersedia di bawah. [Pelajari juga estimasi biaya ngecor untuk ukuran lain](/categories/blog/biaya-ngecor-ukuran-6x6/) – termasuk biaya ngecor ukuran 6x6. Jangan tunda, konsultasikan proyek Anda dengan ahlinya! [Biaya Buat Tangga Cor: Estimasi, Faktor Pengaruh, dan Tips Optimasi 2026](/categories/blog/biaya-buat-tangga-cor/) – Pelajari juga bagaimana mengoptimalkan anggaran proyek tangga cor Anda.

@@ -1,7 +1,7 @@
 ---
 title: "Biaya Ngecor Dak Rumah: Estimasi 2026, Faktor Penentu, dan Tips Penghematan"
 date: "2026-11-04"
-lastmod: "2026-11-05"
+lastmod: "2026-11-11"
 categories: "[blog]"
 focus_keyphrase: "biaya ngecor dak rumah"
 meta_title: "Biaya Ngecor Dak Rumah: Estimasi 2026, Faktor Penentu, dan Tips Penghematan - BetonCorPlus"
@@ -52,4 +52,4 @@ Selain memilih metode pengecoran dan mutu beton yang tepat, ada beberapa strateg
 
 Dengan perencanaan yang terstruktur, metode pengecoran yang efisien, dan penerapan tips penghematan, Anda dapat mengendalikan anggaran ngecor dak rumah Anda dan menciptakan hunian yang kokoh serta berkualitas. [Biaya Dak Per Meter Persegi: Estimasi Terkini dan Faktor Penentu di Jabodetabek](/categories/blog/biaya-dak-per-meter-persegi/) bisa menjadi bacaan tambahan untuk memperdalam pemahaman Anda mengenai perencanaan biaya pengecoran.
 
-Untuk informasi lebih lanjut atau konsultasi gratis, jangan ragu untuk menghubungi Kami melalui tombol **Telepon** atau **WhatsApp** yang tersedia di halaman ini. Kami siap membantu Anda mewujudkan proyek dak rumah impian di (not detected).
+Untuk informasi lebih lanjut atau konsultasi gratis, jangan ragu untuk menghubungi Kami melalui tombol **Telepon** atau **WhatsApp** yang tersedia di halaman ini, atau pelajari lebih lanjut tentang [biaya ngecor halaman rumah](/categories/blog/biaya-ngecor-halaman-rumah/). Kami siap membantu Anda mewujudkan proyek dak rumah impian di (not detected).
