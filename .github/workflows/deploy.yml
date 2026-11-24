@@ -87,6 +87,12 @@ jobs:
             echo "⏳ Push rejected, rebasing & retrying in ${wait_s}s... (attempt $i/5)"
             sleep "$wait_s"
             git fetch origin master
+
+            # The local commit already contains every intended public/ change.  Discard only
+            # uncommitted build side-effects before rebasing; --autostash would preserve them,
+            # but reapplying generated source changes can block or corrupt the retry.
+            git reset --hard HEAD
+            git rebase --abort 2>/dev/null || true
             git rebase -X theirs origin/master
           done
       # Pushes made with GITHUB_TOKEN do not start GitHub Pages' own "build from branch" run, so
