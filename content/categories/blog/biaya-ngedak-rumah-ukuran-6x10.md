@@ -1,7 +1,7 @@
 ---
 title: "Biaya Ngedak Rumah Ukuran 6x10: Estimasi Lengkap dan Tips 2026"
 date: "2026-11-08"
-lastmod: "2026-11-08"
+lastmod: "2026-11-25"
 categories: "[blog]"
 focus_keyphrase: "biaya ngedak rumah ukuran 6x10"
 meta_title: "Biaya Ngedak Rumah Ukuran 6x10: Estimasi Lengkap dan Tips 2026 - BetonCorPlus"
@@ -47,7 +47,7 @@ Berikut adalah perbandingan biaya antara metode pengecoran beton readymix dan ca
   </tbody>
 </table>
 
-Perlu diingat bahwa angka-angka ini adalah estimasi dan rentan terhadap perubahan pasar. Untuk mendapatkan penawaran harga terkini dan paling akurat sesuai dengan kebutuhan proyek Anda di (not detected), hubungi Kami. Walaupun campuran manual mungkin tampak lebih ekonomis awal, beton readymix menjamin kualitas yang lebih konsisten dan ketahanan struktur yang lebih baik.  Anda juga dapat mempertimbangkan layanan Jasa Cor Dak Rumah Murah di Abadijaya Depok untuk mendapatkan penawaran terbaik.
+Perlu diingat bahwa angka-angka ini adalah estimasi dan rentan terhadap perubahan pasar. Untuk mendapatkan penawaran harga terkini dan paling akurat sesuai dengan kebutuhan proyek Anda di (not detected), [cek estimasi biaya ngedak untuk ukuran lain](/categories/blog/biaya-ngedak-rumah-ukuran-6x6/). Walaupun campuran manual mungkin tampak lebih ekonomis awal, beton readymix menjamin kualitas yang lebih konsisten dan ketahanan struktur yang lebih baik.  Anda juga dapat mempertimbangkan layanan Jasa Cor Dak Rumah Murah di Abadijaya Depok untuk mendapatkan penawaran terbaik.
 
 ## Tips Menghemat Biaya Pengecoran Dak Rumah
 

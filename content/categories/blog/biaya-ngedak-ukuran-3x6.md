@@ -1,7 +1,7 @@
 ---
 title: "Biaya Ngedak Ukuran 3x6: Perhitungan, Material, dan Estimasi 2026"
 date: "2026-11-09"
-lastmod: "2026-11-10"
+lastmod: "2026-11-25"
 categories: "[blog]"
 focus_keyphrase: "biaya ngedak ukuran 3x6"
 meta_title: "Biaya Ngedak Ukuran 3x6: Perhitungan, Material, dan Estimasi 2026 - BetonCorPlus"
@@ -60,4 +60,4 @@ Selain memilih mutu beton yang tepat, bekerja sama dengan penyedia jasa pengecor
 
 ![Pekerja sedang melakukan pengecoran beton](/images/readymix.png)
 
-Untuk informasi lebih lanjut atau kebutuhan konsultasi gratis, jangan ragu untuk menghubungi tim BetonCorPlus melalui tombol **Telepon** atau **WhatsApp** yang tersedia di halaman ini. [Biaya Ngedak Ukuran 3x3](https://betoncorplus.com/categories/blog/biaya-ngedak-ukuran-3x3/) — artikel ini membahas faktor-faktor yang mempengaruhi biaya pengecoran untuk ukuran yang lebih kecil, yang mungkin membantu Anda dalam perencanaan anggaran keseluruhan. [Biaya Ngedak Bondek Per Meter](https://betoncorplus.com/categories/blog/biaya-ngedak-bondek-per-meter/) — pelajari lebih lanjut tentang estimasi biaya pengecoran bondek dan tips penghematan.
+Untuk informasi lebih lanjut atau kebutuhan konsultasi gratis, jangan ragu untuk menghubungi tim BetonCorPlus melalui tombol **Telepon** atau **WhatsApp** yang tersedia di halaman ini. [Biaya Ngedak Ukuran 3x3](/categories/blog/biaya-ngedak-ukuran-3x3/) — artikel ini membahas faktor-faktor yang mempengaruhi biaya pengecoran untuk ukuran yang lebih kecil, yang mungkin membantu Anda dalam perencanaan anggaran keseluruhan. [Biaya Ngedak Bondek Per Meter](https://betoncorplus.com/categories/blog/biaya-ngedak-bondek-per-meter/) — pelajari lebih lanjut tentang estimasi biaya pengecoran bondek dan tips penghematan.
