@@ -880,5 +880,19 @@
     "matchedTitle": "Cara Ngedak Rumah yang Murah: Panduan Lengkap dan Tips 2026",
     "taggedAt": "2026-11-14T12:59:09.710Z",
     "algoVersion": 2
+  },
+  "chord rumah sakit": {
+    "reason": "similar to existing article",
+    "matchedFile": "chord-rumah-sakit-apa-yang-tak-bisa.md",
+    "matchedTitle": "Chord Rumah Sakit Apa yang Tak Bisa Mengatasi? Memilih Beton Readymix yang Tepat untuk Konstruksi Medis",
+    "taggedAt": "2026-11-27T16:10:25.590Z",
+    "algoVersion": 2
+  },
+  "chord rumah sakit duniawi": {
+    "reason": "similar to existing article",
+    "matchedFile": "chord-rumah-sakit-apa-yang-tak-bisa.md",
+    "matchedTitle": "Chord Rumah Sakit Apa yang Tak Bisa Mengatasi? Memilih Beton Readymix yang Tepat untuk Konstruksi Medis",
+    "taggedAt": "2026-11-27T16:10:25.603Z",
+    "algoVersion": 2
   }
 }
